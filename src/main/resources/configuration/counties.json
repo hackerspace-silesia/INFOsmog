@@ -1,0 +1,1899 @@
+{
+  "regions": [
+    {
+      "code": 201,
+      "name": "bolesławiecki",
+      "weather_id": 7530804
+    },
+    {
+      "code": 202,
+      "name": "dzierżoniowski",
+      "weather_id": 7530805
+    },
+    {
+      "code": 203,
+      "name": "głogowski",
+      "weather_id": 7530806
+    },
+    {
+      "code": 204,
+      "name": "górowski",
+      "weather_id": 7530807
+    },
+    {
+      "code": 205,
+      "name": "jaworski",
+      "weather_id": 7530815
+    },
+    {
+      "code": 206,
+      "name": "jeleniogórski",
+      "weather_id": 7530816
+    },
+    {
+      "code": 207,
+      "name": "kamiennogórski",
+      "weather_id": 7530998
+    },
+    {
+      "code": 208,
+      "name": "kłodzki",
+      "weather_id": 7530821
+    },
+    {
+      "code": 209,
+      "name": "legnicki",
+      "weather_id": 7530822
+    },
+    {
+      "code": 210,
+      "name": "lubański",
+      "weather_id": 7530823
+    },
+    {
+      "code": 211,
+      "name": "lubiński",
+      "weather_id": 7530831
+    },
+    {
+      "code": 212,
+      "name": "lwówecki",
+      "weather_id": 7530832
+    },
+    {
+      "code": 213,
+      "name": "milicki",
+      "weather_id": 7530833
+    },
+    {
+      "code": 214,
+      "name": "oleśnicki",
+      "weather_id": 7530834
+    },
+    {
+      "code": 215,
+      "name": "oławski",
+      "weather_id": 7530835
+    },
+    {
+      "code": 216,
+      "name": "polkowicki",
+      "weather_id": 7530836
+    },
+    {
+      "code": 217,
+      "name": "strzeliński",
+      "weather_id": 7530837
+    },
+    {
+      "code": 218,
+      "name": "średzki",
+      "weather_id": 7530838
+    },
+    {
+      "code": 219,
+      "name": "świdnicki",
+      "weather_id": 7530846
+    },
+    {
+      "code": 220,
+      "name": "trzebnicki",
+      "weather_id": 7530847
+    },
+    {
+      "code": 221,
+      "name": "wałbrzyski",
+      "weather_id": 7530848
+    },
+    {
+      "code": 222,
+      "name": "wołowski",
+      "weather_id": 7530849
+    },
+    {
+      "code": 223,
+      "name": "wrocławski",
+      "weather_id": 7530850
+    },
+    {
+      "code": 224,
+      "name": "ząbkowicki",
+      "weather_id": 7530851
+    },
+    {
+      "code": 225,
+      "name": "zgorzelecki",
+      "weather_id": 7530852
+    },
+    {
+      "code": 226,
+      "name": "złotoryjski",
+      "weather_id": 7530853
+    },
+    {
+      "code": 261,
+      "name": "m. Jelenia Góra",
+      "weather_id": 7530796
+    },
+    {
+      "code": 262,
+      "name": "m. Legnica",
+      "weather_id": 3093692
+    },
+    {
+      "code": 264,
+      "name": "m. Wrocław",
+      "weather_id": 3081368
+    },
+    {
+      "code": 401,
+      "name": "aleksandrowski",
+      "weather_id": 7530904
+    },
+    {
+      "code": 402,
+      "name": "brodnicki",
+      "weather_id": 7530905
+    },
+    {
+      "code": 403,
+      "name": "bydgoski",
+      "weather_id": 7530906
+    },
+    {
+      "code": 404,
+      "name": "chełmiński",
+      "weather_id": 7530907
+    },
+    {
+      "code": 405,
+      "name": "golubsko-dobrzyński",
+      "weather_id": 7530908
+    },
+    {
+      "code": 406,
+      "name": "grudziądzki",
+      "weather_id": 3098218
+    },
+    {
+      "code": 407,
+      "name": "inowrocławski",
+      "weather_id": 7530910
+    },
+    {
+      "code": 408,
+      "name": "lipnowski",
+      "weather_id": 3093268
+    },
+    {
+      "code": 409,
+      "name": "mogileński",
+      "weather_id": 7530912
+    },
+    {
+      "code": 410,
+      "name": "nakielski",
+      "weather_id": 7530913
+    },
+    {
+      "code": 411,
+      "name": "radziejowski",
+      "weather_id": 3088977
+    },
+    {
+      "code": 412,
+      "name": "rypiński",
+      "weather_id": 7530915
+    },
+    {
+      "code": 413,
+      "name": "sępoleński",
+      "weather_id": 3086153
+    },
+    {
+      "code": 414,
+      "name": "świecki",
+      "weather_id": 7530917
+    },
+    {
+      "code": 415,
+      "name": "toruński",
+      "weather_id": 7530918
+    },
+    {
+      "code": 416,
+      "name": "tucholski",
+      "weather_id": 7530919
+    },
+    {
+      "code": 417,
+      "name": "wąbrzeski",
+      "weather_id": 7530920
+    },
+    {
+      "code": 418,
+      "name": "włocławski",
+      "weather_id": 3102447
+    },
+    {
+      "code": 419,
+      "name": "żniński",
+      "weather_id": 7530922
+    },
+    {
+      "code": 461,
+      "name": "m. Bydgoszcz",
+      "weather_id": 3102014
+    },
+    {
+      "code": 462,
+      "name": "m. Grudziądz",
+      "weather_id": 7530969
+    },
+    {
+      "code": 463,
+      "name": "m. Toruń",
+      "weather_id": 3083271
+    },
+    {
+      "code": 464,
+      "name": "m. Włocławek",
+      "weather_id": 7530966
+    },
+    {
+      "code": 601,
+      "name": "bialski",
+      "weather_id": 7530949
+    },
+    {
+      "code": 602,
+      "name": "biłgorajski",
+      "weather_id": 7530736
+    },
+    {
+      "code": 603,
+      "name": "chełmski",
+      "weather_id": 7530737
+    },
+    {
+      "code": 604,
+      "name": "hrubieszowski",
+      "weather_id": 7530738
+    },
+    {
+      "code": 605,
+      "name": "janowski",
+      "weather_id": 7530739
+    },
+    {
+      "code": 606,
+      "name": "krasnostawski",
+      "weather_id": 7530740
+    },
+    {
+      "code": 607,
+      "name": "kraśnicki",
+      "weather_id": 7530741
+    },
+    {
+      "code": 608,
+      "name": "lubartowski",
+      "weather_id": 7530742
+    },
+    {
+      "code": 609,
+      "name": "lubelski",
+      "weather_id": 7530743
+    },
+    {
+      "code": 610,
+      "name": "łęczyński",
+      "weather_id": 7530864
+    },
+    {
+      "code": 611,
+      "name": "łukowski",
+      "weather_id": 7530865
+    },
+    {
+      "code": 612,
+      "name": "opolski",
+      "weather_id": 7530866
+    },
+    {
+      "code": 613,
+      "name": "parczewski",
+      "weather_id": 7530867
+    },
+    {
+      "code": 614,
+      "name": "puławski",
+      "weather_id": 7530868
+    },
+    {
+      "code": 615,
+      "name": "radzyński",
+      "weather_id": 7530869
+    },
+    {
+      "code": 616,
+      "name": "rycki",
+      "weather_id": 7530870
+    },
+    {
+      "code": 617,
+      "name": "świdnicki",
+      "weather_id": 7530846
+    },
+    {
+      "code": 618,
+      "name": "tomaszowski",
+      "weather_id": 7530872
+    },
+    {
+      "code": 619,
+      "name": "włodawski",
+      "weather_id": 7530873
+    },
+    {
+      "code": 620,
+      "name": "zamojski",
+      "weather_id": 7530874
+    },
+    {
+      "code": 661,
+      "name": "m. Biała Podlaska",
+      "weather_id": 7530726
+    },
+    {
+      "code": 662,
+      "name": "m. Chełm",
+      "weather_id": 7530729
+    },
+    {
+      "code": 663,
+      "name": "m. Lublin",
+      "weather_id": 765876
+    },
+    {
+      "code": 664,
+      "name": "m. Zamość",
+      "weather_id": 753865
+    },
+    {
+      "code": 801,
+      "name": "gorzowski",
+      "weather_id": 7530978
+    },
+    {
+      "code": 802,
+      "name": "krośnieński",
+      "weather_id": 7530775
+    },
+    {
+      "code": 803,
+      "name": "międzyrzecki",
+      "weather_id": 7530979
+    },
+    {
+      "code": 804,
+      "name": "nowosolski",
+      "weather_id": 7530855
+    },
+    {
+      "code": 805,
+      "name": "słubicki",
+      "weather_id": 7530980
+    },
+    {
+      "code": 806,
+      "name": "strzelecko-drezdenecki",
+      "weather_id": 3100127
+    },
+    {
+      "code": 807,
+      "name": "sulęciński",
+      "weather_id": 7530987
+    },
+    {
+      "code": 808,
+      "name": "świebodziński",
+      "weather_id": 7530988
+    },
+    {
+      "code": 812,
+      "name": "wschowski",
+      "weather_id": 7530812
+    },
+    {
+      "code": 809,
+      "name": "zielonogórski",
+      "weather_id": 7531003
+    },
+    {
+      "code": 810,
+      "name": "żagański",
+      "weather_id": 7530856
+    },
+    {
+      "code": 811,
+      "name": "żarski",
+      "weather_id": 7530731
+    },
+    {
+      "code": 861,
+      "name": "m. Gorzów Wielkopolski",
+      "weather_id": 3098722
+    },
+    {
+      "code": 862,
+      "name": "m. Zielona Góra",
+      "weather_id": 7530991
+    },
+    {
+      "code": 1001,
+      "name": "bełchatowski",
+      "weather_id": 7531010
+    },
+    {
+      "code": 1021,
+      "name": "brzeziński",
+      "weather_id": 7531018
+    },
+    {
+      "code": 1002,
+      "name": "kutnowski",
+      "weather_id": 7530927
+    },
+    {
+      "code": 1003,
+      "name": "łaski",
+      "weather_id": 7531016
+    },
+    {
+      "code": 1004,
+      "name": "łęczycki",
+      "weather_id": 7531017
+    },
+    {
+      "code": 1005,
+      "name": "łowicki",
+      "weather_id": 6941021
+    },
+    {
+      "code": 1006,
+      "name": "łódzki wschodni",
+      "weather_id": 7531019
+    },
+    {
+      "code": 1007,
+      "name": "opoczyński",
+      "weather_id": 7531020
+    },
+    {
+      "code": 1008,
+      "name": "pabianicki",
+      "weather_id": 7531021
+    },
+    {
+      "code": 1009,
+      "name": "pajęczański",
+      "weather_id": 3099923
+    },
+    {
+      "code": 1010,
+      "name": "piotrkowski",
+      "weather_id": 7531006
+    },
+    {
+      "code": 1011,
+      "name": "poddębicki",
+      "weather_id": 7531007
+    },
+    {
+      "code": 1012,
+      "name": "radomszczański",
+      "weather_id": 7531008
+    },
+    {
+      "code": 1013,
+      "name": "rawski",
+      "weather_id": 7530955
+    },
+    {
+      "code": 1014,
+      "name": "sieradzki",
+      "weather_id": 7531009
+    },
+    {
+      "code": 1015,
+      "name": "skierniewicki",
+      "weather_id": 7530973
+    },
+    {
+      "code": 1016,
+      "name": "tomaszowski",
+      "weather_id": 7530872
+    },
+    {
+      "code": 1017,
+      "name": "wieluński",
+      "weather_id": 7531025
+    },
+    {
+      "code": 1018,
+      "name": "wieruszowski",
+      "weather_id": 3082176
+    },
+    {
+      "code": 1019,
+      "name": "zduńskowolski",
+      "weather_id": 7531027
+    },
+    {
+      "code": 1020,
+      "name": "zgierski",
+      "weather_id": 7531028
+    },
+    {
+      "code": 1061,
+      "name": "m. Łódź",
+      "weather_id": 3093133
+    },
+    {
+      "code": 1062,
+      "name": "m. Piotrków Trybunalski",
+      "weather_id": 7530745
+    },
+    {
+      "code": 1063,
+      "name": "m. Skierniewice",
+      "weather_id": 759123
+    },
+    {
+      "code": 1201,
+      "name": "bocheński",
+      "weather_id": 6690149
+    },
+    {
+      "code": 1202,
+      "name": "brzeski",
+      "weather_id": 6690150
+    },
+    {
+      "code": 1203,
+      "name": "chrzanowski",
+      "weather_id": 6690151
+    },
+    {
+      "code": 1204,
+      "name": "dąbrowski",
+      "weather_id": 6690152
+    },
+    {
+      "code": 1205,
+      "name": "gorlicki",
+      "weather_id": 6690153
+    },
+    {
+      "code": 1206,
+      "name": "krakowski",
+      "weather_id": 7530768
+    },
+    {
+      "code": 1207,
+      "name": "limanowski",
+      "weather_id": 6690155
+    },
+    {
+      "code": 1208,
+      "name": "miechowski",
+      "weather_id": 6690130
+    },
+    {
+      "code": 1209,
+      "name": "myślenicki",
+      "weather_id": 6690156
+    },
+    {
+      "code": 1210,
+      "name": "nowosądecki",
+      "weather_id": 6690157
+    },
+    {
+      "code": 1211,
+      "name": "nowotarski",
+      "weather_id": 6690158
+    },
+    {
+      "code": 1212,
+      "name": "olkuski",
+      "weather_id": 6690159
+    },
+    {
+      "code": 1213,
+      "name": "oświęcimski",
+      "weather_id": 6690160
+    },
+    {
+      "code": 1214,
+      "name": "proszowicki",
+      "weather_id": 6690161
+    },
+    {
+      "code": 1215,
+      "name": "suski",
+      "weather_id": 6690162
+    },
+    {
+      "code": 1216,
+      "name": "tarnowski",
+      "weather_id": 6690163
+    },
+    {
+      "code": 1217,
+      "name": "tatrzański",
+      "weather_id": 6690164
+    },
+    {
+      "code": 1218,
+      "name": "wadowicki",
+      "weather_id": 6690165
+    },
+    {
+      "code": 1219,
+      "name": "wielicki",
+      "weather_id": 6690166
+    },
+    {
+      "code": 1261,
+      "name": "m. Kraków",
+      "weather_id": 3085041
+    },
+    {
+      "code": 1262,
+      "name": "m. Nowy Sącz",
+      "weather_id": 7532585
+    },
+    {
+      "code": 1263,
+      "name": "m. Tarnów",
+      "weather_id": 3083469
+    },
+    {
+      "code": 1401,
+      "name": "białobrzeski",
+      "weather_id": 776114
+    },
+    {
+      "code": 1402,
+      "name": "ciechanowski",
+      "weather_id": 7530924
+    },
+    {
+      "code": 1403,
+      "name": "garwoliński",
+      "weather_id": 7531031
+    },
+    {
+      "code": 1404,
+      "name": "gostyniński",
+      "weather_id": 7530928
+    },
+    {
+      "code": 1405,
+      "name": "grodziski",
+      "weather_id": 7530925
+    },
+    {
+      "code": 1406,
+      "name": "grójecki",
+      "weather_id": 7530757
+    },
+    {
+      "code": 1407,
+      "name": "kozienicki",
+      "weather_id": 7530747
+    },
+    {
+      "code": 1408,
+      "name": "legionowski",
+      "weather_id": 7530926
+    },
+    {
+      "code": 1409,
+      "name": "lipski",
+      "weather_id": 766137
+    },
+    {
+      "code": 1410,
+      "name": "łosicki",
+      "weather_id": 7530892
+    },
+    {
+      "code": 1411,
+      "name": "makowski",
+      "weather_id": 7530875
+    },
+    {
+      "code": 1412,
+      "name": "miński",
+      "weather_id": 7530877
+    },
+    {
+      "code": 1413,
+      "name": "mławski",
+      "weather_id": 7530880
+    },
+    {
+      "code": 1414,
+      "name": "nowodworski",
+      "weather_id": 7530879
+    },
+    {
+      "code": 1415,
+      "name": "ostrołęcki",
+      "weather_id": 769835
+    },
+    {
+      "code": 1416,
+      "name": "ostrowski",
+      "weather_id": 7530882
+    },
+    {
+      "code": 1417,
+      "name": "otwocki",
+      "weather_id": 7530883
+    },
+    {
+      "code": 1418,
+      "name": "piaseczyński",
+      "weather_id": 7530876
+    },
+    {
+      "code": 1419,
+      "name": "płocki",
+      "weather_id": 7530890
+    },
+    {
+      "code": 1420,
+      "name": "płoński",
+      "weather_id": 7530884
+    },
+    {
+      "code": 1421,
+      "name": "pruszkowski",
+      "weather_id": 7530885
+    },
+    {
+      "code": 1422,
+      "name": "przasnyski",
+      "weather_id": 7530886
+    },
+    {
+      "code": 1423,
+      "name": "przysuski",
+      "weather_id": 761008
+    },
+    {
+      "code": 1424,
+      "name": "pułtuski",
+      "weather_id": 7530887
+    },
+    {
+      "code": 1425,
+      "name": "radomski",
+      "weather_id": 7530878
+    },
+    {
+      "code": 1426,
+      "name": "siedlecki",
+      "weather_id": 756349
+    },
+    {
+      "code": 1427,
+      "name": "sierpecki",
+      "weather_id": 7530929
+    },
+    {
+      "code": 1428,
+      "name": "sochaczewski",
+      "weather_id": 7530759
+    },
+    {
+      "code": 1429,
+      "name": "sokołowski",
+      "weather_id": 7530888
+    },
+    {
+      "code": 1430,
+      "name": "szydłowiecki",
+      "weather_id": 757178
+    },
+    {
+      "code": 1432,
+      "name": "warszawski zachodni",
+      "weather_id": 7531029
+    },
+    {
+      "code": 1433,
+      "name": "węgrowski",
+      "weather_id": 766073
+    },
+    {
+      "code": 1434,
+      "name": "wołomiński",
+      "weather_id": 7530751
+    },
+    {
+      "code": 1435,
+      "name": "wyszkowski",
+      "weather_id": 7530752
+    },
+    {
+      "code": 1436,
+      "name": "zwoleński",
+      "weather_id": 753004
+    },
+    {
+      "code": 1437,
+      "name": "żuromiński",
+      "weather_id": 3079942
+    },
+    {
+      "code": 1438,
+      "name": "żyrardowski",
+      "weather_id": 7530760
+    },
+    {
+      "code": 1461,
+      "name": "m. Ostrołęka",
+      "weather_id": 7530974
+    },
+    {
+      "code": 1462,
+      "name": "m. Płock",
+      "weather_id": 7530939
+    },
+    {
+      "code": 1463,
+      "name": "m. Radom",
+      "weather_id": 760778
+    },
+    {
+      "code": 1464,
+      "name": "m. Siedlce",
+      "weather_id": 759412
+    },
+    {
+      "code": 1465,
+      "name": "m. st. Warszawa",
+      "weather_id": 3084953
+    },
+    {
+      "code": 1601,
+      "name": "brzeski",
+      "weather_id": 6690150
+    },
+    {
+      "code": 1602,
+      "name": "głubczycki",
+      "weather_id": 7531046
+    },
+    {
+      "code": 1603,
+      "name": "kędzierzyńsko-kozielski",
+      "weather_id": 7531048
+    },
+    {
+      "code": 1604,
+      "name": "kluczborski",
+      "weather_id": 7530761
+    },
+    {
+      "code": 1605,
+      "name": "krapkowicki",
+      "weather_id": 7531051
+    },
+    {
+      "code": 1606,
+      "name": "namysłowski",
+      "weather_id": 7530733
+    },
+    {
+      "code": 1607,
+      "name": "nyski",
+      "weather_id": 7530734
+    },
+    {
+      "code": 1608,
+      "name": "oleski",
+      "weather_id": 7530762
+    },
+    {
+      "code": 1609,
+      "name": "opolski",
+      "weather_id": 7530866
+    },
+    {
+      "code": 1610,
+      "name": "prudnicki",
+      "weather_id": 7531047
+    },
+    {
+      "code": 1611,
+      "name": "strzelecki",
+      "weather_id": 7531052
+    },
+    {
+      "code": 1661,
+      "name": "m. Opole",
+      "weather_id": 3090048
+    },
+    {
+      "code": 1801,
+      "name": "bieszczadzki",
+      "weather_id": 7531056
+    },
+    {
+      "code": 1802,
+      "name": "brzozowski",
+      "weather_id": 7531057
+    },
+    {
+      "code": 1803,
+      "name": "dębicki",
+      "weather_id": 7530769
+    },
+    {
+      "code": 1804,
+      "name": "jarosławski",
+      "weather_id": 7530830
+    },
+    {
+      "code": 1805,
+      "name": "jasielski",
+      "weather_id": 7530770
+    },
+    {
+      "code": 1806,
+      "name": "kolbuszowski",
+      "weather_id": 7530774
+    },
+    {
+      "code": 1807,
+      "name": "krośnieński",
+      "weather_id": 7530775
+    },
+    {
+      "code": 1821,
+      "name": "leski",
+      "weather_id": 766452
+    },
+    {
+      "code": 1808,
+      "name": "leżajski",
+      "weather_id": 7530895
+    },
+    {
+      "code": 1809,
+      "name": "lubaczowski",
+      "weather_id": 7530896
+    },
+    {
+      "code": 1810,
+      "name": "łańcucki",
+      "weather_id": 7530777
+    },
+    {
+      "code": 1811,
+      "name": "mielecki",
+      "weather_id": 7530771
+    },
+    {
+      "code": 1812,
+      "name": "niżański",
+      "weather_id": 7530897
+    },
+    {
+      "code": 1813,
+      "name": "przemyski",
+      "weather_id": 7530778
+    },
+    {
+      "code": 1814,
+      "name": "przeworski",
+      "weather_id": 7530898
+    },
+    {
+      "code": 1815,
+      "name": "ropczycko-sędziszowski",
+      "weather_id": 7530779
+    },
+    {
+      "code": 1816,
+      "name": "rzeszowski",
+      "weather_id": 7530780
+    },
+    {
+      "code": 1817,
+      "name": "sanocki",
+      "weather_id": 7530781
+    },
+    {
+      "code": 1818,
+      "name": "stalowowolski",
+      "weather_id": 7530899
+    },
+    {
+      "code": 1819,
+      "name": "strzyżowski",
+      "weather_id": 7530782
+    },
+    {
+      "code": 1820,
+      "name": "tarnobrzeski",
+      "weather_id": 7531058
+    },
+    {
+      "code": 1861,
+      "name": "m. Krosno",
+      "weather_id": 767470
+    },
+    {
+      "code": 1862,
+      "name": "m. Przemyśl",
+      "weather_id": 7530748
+    },
+    {
+      "code": 1863,
+      "name": "m. Rzeszów",
+      "weather_id": 7530819
+    },
+    {
+      "code": 1864,
+      "name": "m. Tarnobrzeg",
+      "weather_id": 757033
+    },
+    {
+      "code": 2001,
+      "name": "augustowski",
+      "weather_id": 7530841
+    },
+    {
+      "code": 2002,
+      "name": "białostocki",
+      "weather_id": 7531060
+    },
+    {
+      "code": 2003,
+      "name": "bielski",
+      "weather_id": 7531032
+    },
+    {
+      "code": 2004,
+      "name": "grajewski",
+      "weather_id": 7531062
+    },
+    {
+      "code": 2005,
+      "name": "hajnowski",
+      "weather_id": 7531063
+    },
+    {
+      "code": 2006,
+      "name": "kolneński",
+      "weather_id": 7530826
+    },
+    {
+      "code": 2007,
+      "name": "łomżyński",
+      "weather_id": 7530827
+    },
+    {
+      "code": 2008,
+      "name": "moniecki",
+      "weather_id": 7531064
+    },
+    {
+      "code": 2009,
+      "name": "sejneński",
+      "weather_id": 759503
+    },
+    {
+      "code": 2010,
+      "name": "siemiatycki",
+      "weather_id": 7530900
+    },
+    {
+      "code": 2011,
+      "name": "sokólski",
+      "weather_id": 7531066
+    },
+    {
+      "code": 2012,
+      "name": "suwalski",
+      "weather_id": 7530941
+    },
+    {
+      "code": 2013,
+      "name": "wysokomazowiecki",
+      "weather_id": 7531042
+    },
+    {
+      "code": 2014,
+      "name": "zambrowski",
+      "weather_id": 7530828
+    },
+    {
+      "code": 2061,
+      "name": "m. Białystok",
+      "weather_id": 759065
+    },
+    {
+      "code": 2062,
+      "name": "m. Łomża",
+      "weather_id": 7530773
+    },
+    {
+      "code": 2063,
+      "name": "m. Suwałki",
+      "weather_id": 7530941
+    },
+    {
+      "code": 2201,
+      "name": "bytowski",
+      "weather_id": 7531015
+    },
+    {
+      "code": 2202,
+      "name": "chojnicki",
+      "weather_id": 7530931
+    },
+    {
+      "code": 2203,
+      "name": "człuchowski",
+      "weather_id": 7530932
+    },
+    {
+      "code": 2204,
+      "name": "gdański",
+      "weather_id": 7530971
+    },
+    {
+      "code": 2205,
+      "name": "kartuski",
+      "weather_id": 7530789
+    },
+    {
+      "code": 2206,
+      "name": "kościerski",
+      "weather_id": 7530785
+    },
+    {
+      "code": 2207,
+      "name": "kwidzyński",
+      "weather_id": 7530933
+    },
+    {
+      "code": 2208,
+      "name": "lęborski",
+      "weather_id": 7530786
+    },
+    {
+      "code": 2209,
+      "name": "malborski",
+      "weather_id": 7530787
+    },
+    {
+      "code": 2210,
+      "name": "nowodworski",
+      "weather_id": 7530879
+    },
+    {
+      "code": 2211,
+      "name": "pucki",
+      "weather_id": 7530788
+    },
+    {
+      "code": 2212,
+      "name": "słupski",
+      "weather_id": 7531069
+    },
+    {
+      "code": 2213,
+      "name": "starogardzki",
+      "weather_id": 7530934
+    },
+    {
+      "code": 2216,
+      "name": "sztumski",
+      "weather_id": 3083616
+    },
+    {
+      "code": 2214,
+      "name": "tczewski",
+      "weather_id": 7530935
+    },
+    {
+      "code": 2215,
+      "name": "wejherowski",
+      "weather_id": 7531070
+    },
+    {
+      "code": 2261,
+      "name": "m. Gdańsk",
+      "weather_id": 7531002
+    },
+    {
+      "code": 2262,
+      "name": "m. Gdynia",
+      "weather_id": 3099424
+    },
+    {
+      "code": 2263,
+      "name": "m. Słupsk",
+      "weather_id": 7530942
+    },
+    {
+      "code": 2264,
+      "name": "m. Sopot",
+      "weather_id": 3085151
+    },
+    {
+      "code": 2401,
+      "name": "będziński",
+      "weather_id": 3079850
+    },
+    {
+      "code": 2402,
+      "name": "bielski",
+      "weather_id": 7531032
+    },
+    {
+      "code": 2414,
+      "name": "bieruńsko-lędziński",
+      "weather_id": 7531034
+    },
+    {
+      "code": 2403,
+      "name": "cieszyński",
+      "weather_id": 7530808
+    },
+    {
+      "code": 2404,
+      "name": "częstochowski",
+      "weather_id": 7530763
+    },
+    {
+      "code": 2405,
+      "name": "gliwicki",
+      "weather_id": 7531055
+    },
+    {
+      "code": 2406,
+      "name": "kłobucki",
+      "weather_id": 7530764
+    },
+    {
+      "code": 2407,
+      "name": "lubliniecki",
+      "weather_id": 7531050
+    },
+    {
+      "code": 2408,
+      "name": "mikołowski",
+      "weather_id": 7530809
+    },
+    {
+      "code": 2409,
+      "name": "myszkowski",
+      "weather_id": 7530810
+    },
+    {
+      "code": 2410,
+      "name": "pszczyński",
+      "weather_id": 7531033
+    },
+    {
+      "code": 2411,
+      "name": "raciborski",
+      "weather_id": 7531054
+    },
+    {
+      "code": 2412,
+      "name": "rybnicki",
+      "weather_id": 7530811
+    },
+    {
+      "code": 2413,
+      "name": "tarnogórski",
+      "weather_id": 7531053
+    },
+    {
+      "code": 2415,
+      "name": "wodzisławski",
+      "weather_id": 7530854
+    },
+    {
+      "code": 2416,
+      "name": "zawierciański",
+      "weather_id": 7531035
+    },
+    {
+      "code": 2417,
+      "name": "żywiecki",
+      "weather_id": 7531036
+    },
+    {
+      "code": 2461,
+      "name": "m. Bielsko-Biała",
+      "weather_id": 7530791
+    },
+    {
+      "code": 2462,
+      "name": "m. Bytom",
+      "weather_id": 3101950
+    },
+    {
+      "code": 2463,
+      "name": "m. Chorzów",
+      "weather_id": 7530967
+    },
+    {
+      "code": 2464,
+      "name": "m. Częstochowa",
+      "weather_id": 7530964
+    },
+    {
+      "code": 2465,
+      "name": "m. Dąbrowa Górnicza",
+      "weather_id": 7530746
+    },
+    {
+      "code": 2466,
+      "name": "m. Gliwice",
+      "weather_id": 3099230
+    },
+    {
+      "code": 2467,
+      "name": "m. Jastrzębie-Zdrój",
+      "weather_id": 7530961
+    },
+    {
+      "code": 2468,
+      "name": "m. Jaworzno",
+      "weather_id": 3097333
+    },
+    {
+      "code": 2469,
+      "name": "m. Katowice",
+      "weather_id": 3096472
+    },
+    {
+      "code": 2470,
+      "name": "m. Mysłowice",
+      "weather_id": 7530950
+    },
+    {
+      "code": 2471,
+      "name": "m. Piekary Śląskie",
+      "weather_id": 7530965
+    },
+    {
+      "code": 2472,
+      "name": "m. Ruda Śląska",
+      "weather_id": 7530951
+    },
+    {
+      "code": 2473,
+      "name": "m. Rybnik",
+      "weather_id": 3086586
+    },
+    {
+      "code": 2474,
+      "name": "m. Siemianowice Śląskie",
+      "weather_id": 7530985
+    },
+    {
+      "code": 2475,
+      "name": "m. Sosnowiec",
+      "weather_id": 3085128
+    },
+    {
+      "code": 2476,
+      "name": "m. Świętochłowice",
+      "weather_id": 7530992
+    },
+    {
+      "code": 2477,
+      "name": "m. Tychy",
+      "weather_id": 3082914
+    },
+    {
+      "code": 2478,
+      "name": "m. Zabrze",
+      "weather_id": 3080985
+    },
+    {
+      "code": 2479,
+      "name": "m. Żory",
+      "weather_id": 7530953
+    },
+    {
+      "code": 2601,
+      "name": "buski",
+      "weather_id": 7531037
+    },
+    {
+      "code": 2602,
+      "name": "jędrzejowski",
+      "weather_id": 7531038
+    },
+    {
+      "code": 2603,
+      "name": "kazimierski",
+      "weather_id": 7531039
+    },
+    {
+      "code": 2604,
+      "name": "kielecki",
+      "weather_id": 7530797
+    },
+    {
+      "code": 2605,
+      "name": "konecki",
+      "weather_id": 7530765
+    },
+    {
+      "code": 2606,
+      "name": "opatowski",
+      "weather_id": 763121
+    },
+    {
+      "code": 2607,
+      "name": "ostrowiecki",
+      "weather_id": 7530829
+    },
+    {
+      "code": 2608,
+      "name": "pińczowski",
+      "weather_id": 762201
+    },
+    {
+      "code": 2609,
+      "name": "sandomierski",
+      "weather_id": 7530977
+    },
+    {
+      "code": 2610,
+      "name": "skarżyski",
+      "weather_id": 7530997
+    },
+    {
+      "code": 2611,
+      "name": "starachowicki",
+      "weather_id": 7530999
+    },
+    {
+      "code": 2612,
+      "name": "staszowski",
+      "weather_id": 7531041
+    },
+    {
+      "code": 2613,
+      "name": "włoszczowski",
+      "weather_id": 7530766
+    },
+    {
+      "code": 2661,
+      "name": "m. Kielce",
+      "weather_id": 769250
+    },
+    {
+      "code": 2801,
+      "name": "bartoszycki",
+      "weather_id": 7530798
+    },
+    {
+      "code": 2802,
+      "name": "braniewski",
+      "weather_id": 7530783
+    },
+    {
+      "code": 2803,
+      "name": "działdowski",
+      "weather_id": 7530936
+    },
+    {
+      "code": 2804,
+      "name": "elbląski",
+      "weather_id": 7530784
+    },
+    {
+      "code": 2805,
+      "name": "ełcki",
+      "weather_id": 7531012
+    },
+    {
+      "code": 2806,
+      "name": "giżycki",
+      "weather_id": 7530799
+    },
+    {
+      "code": 2818,
+      "name": "gołdapski",
+      "weather_id": 7531014
+    },
+    {
+      "code": 2807,
+      "name": "iławski",
+      "weather_id": 7530937
+    },
+    {
+      "code": 2808,
+      "name": "kętrzyński",
+      "weather_id": 7530860
+    },
+    {
+      "code": 2809,
+      "name": "lidzbarski",
+      "weather_id": 7530800
+    },
+    {
+      "code": 2810,
+      "name": "mrągowski",
+      "weather_id": 7531072
+    },
+    {
+      "code": 2811,
+      "name": "nidzicki",
+      "weather_id": 7531000
+    },
+    {
+      "code": 2812,
+      "name": "nowomiejski",
+      "weather_id": 7530938
+    },
+    {
+      "code": 2813,
+      "name": "olecki",
+      "weather_id": 7531013
+    },
+    {
+      "code": 2814,
+      "name": "olsztyński",
+      "weather_id": 6619358
+    },
+    {
+      "code": 2815,
+      "name": "ostródzki",
+      "weather_id": 7530753
+    },
+    {
+      "code": 2816,
+      "name": "piski",
+      "weather_id": 7531001
+    },
+    {
+      "code": 2817,
+      "name": "szczycieński",
+      "weather_id": 7530803
+    },
+    {
+      "code": 2819,
+      "name": "węgorzewski",
+      "weather_id": 7530859
+    },
+    {
+      "code": 2861,
+      "name": "m. Elbląg",
+      "weather_id": 3099759
+    },
+    {
+      "code": 2862,
+      "name": "m. Olsztyn",
+      "weather_id": 763166
+    },
+    {
+      "code": 3001,
+      "name": "chodzieski",
+      "weather_id": 7531077
+    },
+    {
+      "code": 3002,
+      "name": "czarnkowsko-trzcianecki",
+      "weather_id": 7530954
+    },
+    {
+      "code": 3003,
+      "name": "gnieźnieński",
+      "weather_id": 7531081
+    },
+    {
+      "code": 3004,
+      "name": "gostyński",
+      "weather_id": 7531073
+    },
+    {
+      "code": 3005,
+      "name": "grodziski",
+      "weather_id": 7530925
+    },
+    {
+      "code": 3006,
+      "name": "jarociński",
+      "weather_id": 7531075
+    },
+    {
+      "code": 3007,
+      "name": "kaliski",
+      "weather_id": 7530767
+    },
+    {
+      "code": 3008,
+      "name": "kępiński",
+      "weather_id": 7530735
+    },
+    {
+      "code": 3009,
+      "name": "kolski",
+      "weather_id": 7531082
+    },
+    {
+      "code": 3010,
+      "name": "koniński",
+      "weather_id": 7530944
+    },
+    {
+      "code": 3011,
+      "name": "kościański",
+      "weather_id": 7531076
+    },
+    {
+      "code": 3012,
+      "name": "krotoszyński",
+      "weather_id": 7530902
+    },
+    {
+      "code": 3013,
+      "name": "leszczyński",
+      "weather_id": 3081701
+    },
+    {
+      "code": 3014,
+      "name": "międzychodzki",
+      "weather_id": 3091983
+    },
+    {
+      "code": 3015,
+      "name": "nowotomyski",
+      "weather_id": 7530957
+    },
+    {
+      "code": 3016,
+      "name": "obornicki",
+      "weather_id": 7530802
+    },
+    {
+      "code": 3017,
+      "name": "ostrowski",
+      "weather_id": 7530882
+    },
+    {
+      "code": 3018,
+      "name": "ostrzeszowski",
+      "weather_id": 3089670
+    },
+    {
+      "code": 3019,
+      "name": "pilski",
+      "weather_id": 7530945
+    },
+    {
+      "code": 3020,
+      "name": "pleszewski",
+      "weather_id": 7530862
+    },
+    {
+      "code": 3021,
+      "name": "poznański",
+      "weather_id": 7530994
+    },
+    {
+      "code": 3022,
+      "name": "rawicki",
+      "weather_id": 7531045
+    },
+    {
+      "code": 3023,
+      "name": "słupecki",
+      "weather_id": 7530946
+    },
+    {
+      "code": 3024,
+      "name": "szamotulski",
+      "weather_id": 7530995
+    },
+    {
+      "code": 3025,
+      "name": "średzki",
+      "weather_id": 7530838
+    },
+    {
+      "code": 3026,
+      "name": "śremski",
+      "weather_id": 7531080
+    },
+    {
+      "code": 3027,
+      "name": "turecki",
+      "weather_id": 7531004
+    },
+    {
+      "code": 3028,
+      "name": "wągrowiecki",
+      "weather_id": 7530947
+    },
+    {
+      "code": 3029,
+      "name": "wolsztyński",
+      "weather_id": 3081419
+    },
+    {
+      "code": 3030,
+      "name": "wrzesiński",
+      "weather_id": 7530996
+    },
+    {
+      "code": 3031,
+      "name": "złotowski",
+      "weather_id": 7530948
+    },
+    {
+      "code": 3061,
+      "name": "m. Kalisz",
+      "weather_id": 3096880
+    },
+    {
+      "code": 3062,
+      "name": "m. Konin",
+      "weather_id": 3095321
+    },
+    {
+      "code": 3063,
+      "name": "m. Leszno",
+      "weather_id": 3093524
+    },
+    {
+      "code": 3064,
+      "name": "m. Poznań",
+      "weather_id": 7530858
+    },
+    {
+      "code": 3201,
+      "name": "białogardzki",
+      "weather_id": 7530972
+    },
+    {
+      "code": 3202,
+      "name": "choszczeński",
+      "weather_id": 7530959
+    },
+    {
+      "code": 3203,
+      "name": "drawski",
+      "weather_id": 7530861
+    },
+    {
+      "code": 3204,
+      "name": "goleniowski",
+      "weather_id": 7530794
+    },
+    {
+      "code": 3205,
+      "name": "gryficki",
+      "weather_id": 7530795
+    },
+    {
+      "code": 3206,
+      "name": "gryfiński",
+      "weather_id": 7530989
+    },
+    {
+      "code": 3207,
+      "name": "kamieński",
+      "weather_id": 7530842
+    },
+    {
+      "code": 3208,
+      "name": "kołobrzeski",
+      "weather_id": 7530843
+    },
+    {
+      "code": 3209,
+      "name": "koszaliński",
+      "weather_id": 7530754
+    },
+    {
+      "code": 3218,
+      "name": "łobeski",
+      "weather_id": 7531059
+    },
+    {
+      "code": 3210,
+      "name": "myśliborski",
+      "weather_id": 7531005
+    },
+    {
+      "code": 3211,
+      "name": "policki",
+      "weather_id": 7530844
+    },
+    {
+      "code": 3212,
+      "name": "pyrzycki",
+      "weather_id": 7530845
+    },
+    {
+      "code": 3213,
+      "name": "sławieński",
+      "weather_id": 7530755
+    },
+    {
+      "code": 3214,
+      "name": "stargardzki",
+      "weather_id": 7530793
+    },
+    {
+      "code": 3215,
+      "name": "szczecinecki",
+      "weather_id": 7530756
+    },
+    {
+      "code": 3216,
+      "name": "świdwiński",
+      "weather_id": 7531011
+    },
+    {
+      "code": 3217,
+      "name": "wałecki",
+      "weather_id": 7530960
+    },
+    {
+      "code": 3261,
+      "name": "m. Koszalin",
+      "weather_id": 3095049
+    },
+    {
+      "code": 3262,
+      "name": "m. Szczecin",
+      "weather_id": 3083829
+    },
+    {
+      "code": 3263,
+      "name": "m. Świnoujście",
+      "weather_id": 7530749
+    }
+  ]
+}

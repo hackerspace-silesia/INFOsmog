@@ -1,0 +1,9916 @@
+{
+  "regions": [
+    {
+      "code": 20101,
+      "name": "Bolesławiec"
+    },
+    {
+      "code": 20102,
+      "name": "Bolesławiec"
+    },
+    {
+      "code": 20103,
+      "name": "Gromadka"
+    },
+    {
+      "code": 20104,
+      "name": "Nowogrodziec"
+    },
+    {
+      "code": 20105,
+      "name": "Osiecznica"
+    },
+    {
+      "code": 20106,
+      "name": "Warta Bolesławiecka"
+    },
+    {
+      "code": 20201,
+      "name": "Bielawa"
+    },
+    {
+      "code": 20202,
+      "name": "Dzierżoniów"
+    },
+    {
+      "code": 20203,
+      "name": "Pieszyce"
+    },
+    {
+      "code": 20204,
+      "name": "Piława Górna"
+    },
+    {
+      "code": 20205,
+      "name": "Dzierżoniów"
+    },
+    {
+      "code": 20206,
+      "name": "Łagiewniki"
+    },
+    {
+      "code": 20207,
+      "name": "Niemcza"
+    },
+    {
+      "code": 20301,
+      "name": "Głogów"
+    },
+    {
+      "code": 20302,
+      "name": "Głogów"
+    },
+    {
+      "code": 20303,
+      "name": "Jerzmanowa"
+    },
+    {
+      "code": 20304,
+      "name": "Kotla"
+    },
+    {
+      "code": 20305,
+      "name": "Pęcław"
+    },
+    {
+      "code": 20306,
+      "name": "Żukowice"
+    },
+    {
+      "code": 20401,
+      "name": "Góra"
+    },
+    {
+      "code": 20402,
+      "name": "Jemielno"
+    },
+    {
+      "code": 20403,
+      "name": "Niechlów"
+    },
+    {
+      "code": 20404,
+      "name": "Wąsosz"
+    },
+    {
+      "code": 20501,
+      "name": "Jawor"
+    },
+    {
+      "code": 20502,
+      "name": "Bolków"
+    },
+    {
+      "code": 20503,
+      "name": "Męcinka"
+    },
+    {
+      "code": 20504,
+      "name": "Mściwojów"
+    },
+    {
+      "code": 20505,
+      "name": "Paszowice"
+    },
+    {
+      "code": 20506,
+      "name": "Wądroże Wielkie"
+    },
+    {
+      "code": 20601,
+      "name": "Karpacz"
+    },
+    {
+      "code": 20602,
+      "name": "Kowary"
+    },
+    {
+      "code": 20603,
+      "name": "Piechowice"
+    },
+    {
+      "code": 20604,
+      "name": "Szklarska Poręba"
+    },
+    {
+      "code": 20605,
+      "name": "Janowice Wielkie"
+    },
+    {
+      "code": 20606,
+      "name": "Jeżów Sudecki"
+    },
+    {
+      "code": 20607,
+      "name": "Mysłakowice"
+    },
+    {
+      "code": 20608,
+      "name": "Podgórzyn"
+    },
+    {
+      "code": 20609,
+      "name": "Stara Kamienica"
+    },
+    {
+      "code": 20701,
+      "name": "Kamienna Góra"
+    },
+    {
+      "code": 20702,
+      "name": "Kamienna Góra"
+    },
+    {
+      "code": 20703,
+      "name": "Lubawka"
+    },
+    {
+      "code": 20704,
+      "name": "Marciszów"
+    },
+    {
+      "code": 20801,
+      "name": "Duszniki-Zdrój"
+    },
+    {
+      "code": 20802,
+      "name": "Kłodzko"
+    },
+    {
+      "code": 20803,
+      "name": "Kudowa-Zdrój"
+    },
+    {
+      "code": 20804,
+      "name": "Nowa Ruda"
+    },
+    {
+      "code": 20805,
+      "name": "Polanica-Zdrój"
+    },
+    {
+      "code": 20806,
+      "name": "Bystrzyca Kłodzka"
+    },
+    {
+      "code": 20807,
+      "name": "Kłodzko"
+    },
+    {
+      "code": 20808,
+      "name": "Lądek-Zdrój"
+    },
+    {
+      "code": 20809,
+      "name": "Lewin Kłodzki"
+    },
+    {
+      "code": 20810,
+      "name": "Międzylesie"
+    },
+    {
+      "code": 20811,
+      "name": "Nowa Ruda"
+    },
+    {
+      "code": 20812,
+      "name": "Radków"
+    },
+    {
+      "code": 20813,
+      "name": "Stronie Śląskie"
+    },
+    {
+      "code": 20814,
+      "name": "Szczytna"
+    },
+    {
+      "code": 20901,
+      "name": "Chojnów"
+    },
+    {
+      "code": 20902,
+      "name": "Chojnów"
+    },
+    {
+      "code": 20903,
+      "name": "Krotoszyce"
+    },
+    {
+      "code": 20904,
+      "name": "Kunice"
+    },
+    {
+      "code": 20905,
+      "name": "Legnickie Pole"
+    },
+    {
+      "code": 20906,
+      "name": "Miłkowice"
+    },
+    {
+      "code": 20907,
+      "name": "Prochowice"
+    },
+    {
+      "code": 20908,
+      "name": "Ruja"
+    },
+    {
+      "code": 21001,
+      "name": "Lubań"
+    },
+    {
+      "code": 21002,
+      "name": "Świeradów-Zdrój"
+    },
+    {
+      "code": 21003,
+      "name": "Leśna"
+    },
+    {
+      "code": 21004,
+      "name": "Lubań"
+    },
+    {
+      "code": 21005,
+      "name": "Olszyna"
+    },
+    {
+      "code": 21006,
+      "name": "Platerówka"
+    },
+    {
+      "code": 21007,
+      "name": "Siekierczyn"
+    },
+    {
+      "code": 21101,
+      "name": "Lubin"
+    },
+    {
+      "code": 21102,
+      "name": "Lubin"
+    },
+    {
+      "code": 21103,
+      "name": "Rudna"
+    },
+    {
+      "code": 21104,
+      "name": "Ścinawa"
+    },
+    {
+      "code": 21201,
+      "name": "Gryfów Śląski"
+    },
+    {
+      "code": 21202,
+      "name": "Lubomierz"
+    },
+    {
+      "code": 21203,
+      "name": "Lwówek Śląski"
+    },
+    {
+      "code": 21204,
+      "name": "Mirsk"
+    },
+    {
+      "code": 21205,
+      "name": "Wleń"
+    },
+    {
+      "code": 21301,
+      "name": "Cieszków"
+    },
+    {
+      "code": 21302,
+      "name": "Krośnice"
+    },
+    {
+      "code": 21303,
+      "name": "Milicz"
+    },
+    {
+      "code": 21401,
+      "name": "Oleśnica"
+    },
+    {
+      "code": 21402,
+      "name": "Bierutów"
+    },
+    {
+      "code": 21403,
+      "name": "Dobroszyce"
+    },
+    {
+      "code": 21404,
+      "name": "Dziadowa Kłoda"
+    },
+    {
+      "code": 21405,
+      "name": "Międzybórz"
+    },
+    {
+      "code": 21406,
+      "name": "Oleśnica"
+    },
+    {
+      "code": 21407,
+      "name": "Syców"
+    },
+    {
+      "code": 21408,
+      "name": "Twardogóra"
+    },
+    {
+      "code": 21501,
+      "name": "Oława"
+    },
+    {
+      "code": 21502,
+      "name": "Domaniów"
+    },
+    {
+      "code": 21503,
+      "name": "Jelcz-Laskowice"
+    },
+    {
+      "code": 21504,
+      "name": "Oława"
+    },
+    {
+      "code": 21601,
+      "name": "Chocianów"
+    },
+    {
+      "code": 21602,
+      "name": "Gaworzyce"
+    },
+    {
+      "code": 21603,
+      "name": "Grębocice"
+    },
+    {
+      "code": 21604,
+      "name": "Polkowice"
+    },
+    {
+      "code": 21605,
+      "name": "Przemków"
+    },
+    {
+      "code": 21606,
+      "name": "Radwanice"
+    },
+    {
+      "code": 21701,
+      "name": "Borów"
+    },
+    {
+      "code": 21702,
+      "name": "Kondratowice"
+    },
+    {
+      "code": 21703,
+      "name": "Przeworno"
+    },
+    {
+      "code": 21704,
+      "name": "Strzelin"
+    },
+    {
+      "code": 21705,
+      "name": "Wiązów"
+    },
+    {
+      "code": 21801,
+      "name": "Kostomłoty"
+    },
+    {
+      "code": 21802,
+      "name": "Malczyce"
+    },
+    {
+      "code": 21803,
+      "name": "Miękinia"
+    },
+    {
+      "code": 21804,
+      "name": "Środa Śląska"
+    },
+    {
+      "code": 21805,
+      "name": "Udanin"
+    },
+    {
+      "code": 21901,
+      "name": "Świdnica"
+    },
+    {
+      "code": 21902,
+      "name": "Świebodzice"
+    },
+    {
+      "code": 21903,
+      "name": "Dobromierz"
+    },
+    {
+      "code": 21904,
+      "name": "Jaworzyna Śląska"
+    },
+    {
+      "code": 21905,
+      "name": "Marcinowice"
+    },
+    {
+      "code": 21906,
+      "name": "Strzegom"
+    },
+    {
+      "code": 21907,
+      "name": "Świdnica"
+    },
+    {
+      "code": 21908,
+      "name": "Żarów"
+    },
+    {
+      "code": 22001,
+      "name": "Oborniki Śląskie"
+    },
+    {
+      "code": 22002,
+      "name": "Prusice"
+    },
+    {
+      "code": 22003,
+      "name": "Trzebnica"
+    },
+    {
+      "code": 22004,
+      "name": "Wisznia Mała"
+    },
+    {
+      "code": 22005,
+      "name": "Zawonia"
+    },
+    {
+      "code": 22006,
+      "name": "Żmigród"
+    },
+    {
+      "code": 22101,
+      "name": "Boguszów-Gorce"
+    },
+    {
+      "code": 22102,
+      "name": "Jedlina-Zdrój"
+    },
+    {
+      "code": 22103,
+      "name": "Szczawno-Zdrój"
+    },
+    {
+      "code": 22109,
+      "name": "Wałbrzych"
+    },
+    {
+      "code": 22104,
+      "name": "Czarny Bór"
+    },
+    {
+      "code": 22105,
+      "name": "Głuszyca"
+    },
+    {
+      "code": 22106,
+      "name": "Mieroszów"
+    },
+    {
+      "code": 22107,
+      "name": "Stare Bogaczowice"
+    },
+    {
+      "code": 22108,
+      "name": "Walim"
+    },
+    {
+      "code": 22201,
+      "name": "Brzeg Dolny"
+    },
+    {
+      "code": 22202,
+      "name": "Wińsko"
+    },
+    {
+      "code": 22203,
+      "name": "Wołów"
+    },
+    {
+      "code": 22301,
+      "name": "Czernica"
+    },
+    {
+      "code": 22302,
+      "name": "Długołęka"
+    },
+    {
+      "code": 22303,
+      "name": "Jordanów Śląski"
+    },
+    {
+      "code": 22304,
+      "name": "Kąty Wrocławskie"
+    },
+    {
+      "code": 22305,
+      "name": "Kobierzyce"
+    },
+    {
+      "code": 22306,
+      "name": "Mietków"
+    },
+    {
+      "code": 22307,
+      "name": "Sobótka"
+    },
+    {
+      "code": 22308,
+      "name": "Święta Katarzyna"
+    },
+    {
+      "code": 22309,
+      "name": "Żórawina"
+    },
+    {
+      "code": 22401,
+      "name": "Bardo"
+    },
+    {
+      "code": 22402,
+      "name": "Ciepłowody"
+    },
+    {
+      "code": 22403,
+      "name": "Kamieniec Ząbkowicki"
+    },
+    {
+      "code": 22404,
+      "name": "Stoszowice"
+    },
+    {
+      "code": 22405,
+      "name": "Ząbkowice Śląskie"
+    },
+    {
+      "code": 22406,
+      "name": "Ziębice"
+    },
+    {
+      "code": 22407,
+      "name": "Złoty Stok"
+    },
+    {
+      "code": 22501,
+      "name": "Zawidów"
+    },
+    {
+      "code": 22502,
+      "name": "Zgorzelec"
+    },
+    {
+      "code": 22503,
+      "name": "Bogatynia"
+    },
+    {
+      "code": 22504,
+      "name": "Pieńsk"
+    },
+    {
+      "code": 22505,
+      "name": "Sulików"
+    },
+    {
+      "code": 22506,
+      "name": "Węgliniec"
+    },
+    {
+      "code": 22507,
+      "name": "Zgorzelec"
+    },
+    {
+      "code": 22601,
+      "name": "Wojcieszów"
+    },
+    {
+      "code": 22602,
+      "name": "Złotoryja"
+    },
+    {
+      "code": 22603,
+      "name": "Pielgrzymka"
+    },
+    {
+      "code": 22604,
+      "name": "Świerzawa"
+    },
+    {
+      "code": 22605,
+      "name": "Zagrodno"
+    },
+    {
+      "code": 22606,
+      "name": "Złotoryja"
+    },
+    {
+      "code": 26101,
+      "name": "Jelenia Góra"
+    },
+    {
+      "code": 26201,
+      "name": "Legnica"
+    },
+    {
+      "code": 26401,
+      "name": "Wrocław"
+    },
+    {
+      "code": 40101,
+      "name": "Aleksandrów Kujawski"
+    },
+    {
+      "code": 40102,
+      "name": "Ciechocinek"
+    },
+    {
+      "code": 40103,
+      "name": "Nieszawa"
+    },
+    {
+      "code": 40104,
+      "name": "Aleksandrów Kujawski"
+    },
+    {
+      "code": 40105,
+      "name": "Bądkowo"
+    },
+    {
+      "code": 40106,
+      "name": "Koneck"
+    },
+    {
+      "code": 40107,
+      "name": "Raciążek"
+    },
+    {
+      "code": 40108,
+      "name": "Waganiec"
+    },
+    {
+      "code": 40109,
+      "name": "Zakrzewo"
+    },
+    {
+      "code": 40201,
+      "name": "Brodnica"
+    },
+    {
+      "code": 40202,
+      "name": "Bobrowo"
+    },
+    {
+      "code": 40203,
+      "name": "Brodnica"
+    },
+    {
+      "code": 40204,
+      "name": "Brzozie"
+    },
+    {
+      "code": 40205,
+      "name": "Górzno"
+    },
+    {
+      "code": 40206,
+      "name": "Grążawy"
+    },
+    {
+      "code": 40207,
+      "name": "Jabłonowo Pomorskie"
+    },
+    {
+      "code": 40208,
+      "name": "Osiek"
+    },
+    {
+      "code": 40209,
+      "name": "Świedziebnia"
+    },
+    {
+      "code": 40210,
+      "name": "Zbiczno"
+    },
+    {
+      "code": 40301,
+      "name": "Białe Błota"
+    },
+    {
+      "code": 40302,
+      "name": "Dąbrowa Chełmińska"
+    },
+    {
+      "code": 40303,
+      "name": "Dobrcz"
+    },
+    {
+      "code": 40304,
+      "name": "Koronowo"
+    },
+    {
+      "code": 40305,
+      "name": "Nowa Wieś Wielka"
+    },
+    {
+      "code": 40306,
+      "name": "Osielsko"
+    },
+    {
+      "code": 40307,
+      "name": "Sicienko"
+    },
+    {
+      "code": 40308,
+      "name": "Solec Kujawski"
+    },
+    {
+      "code": 40401,
+      "name": "Chełmno"
+    },
+    {
+      "code": 40402,
+      "name": "Chełmno"
+    },
+    {
+      "code": 40403,
+      "name": "Kijewo Królewskie"
+    },
+    {
+      "code": 40404,
+      "name": "Lisewo"
+    },
+    {
+      "code": 40405,
+      "name": "Papowo Biskupie"
+    },
+    {
+      "code": 40406,
+      "name": "Stolno"
+    },
+    {
+      "code": 40407,
+      "name": "Unisław"
+    },
+    {
+      "code": 40501,
+      "name": "Golub-Dobrzyń"
+    },
+    {
+      "code": 40502,
+      "name": "Ciechocin"
+    },
+    {
+      "code": 40503,
+      "name": "Golub-Dobrzyń"
+    },
+    {
+      "code": 40504,
+      "name": "Kowalewo Pomorskie"
+    },
+    {
+      "code": 40505,
+      "name": "Radomin"
+    },
+    {
+      "code": 40506,
+      "name": "Zbójno"
+    },
+    {
+      "code": 40601,
+      "name": "Grudziądz"
+    },
+    {
+      "code": 40602,
+      "name": "Gruta"
+    },
+    {
+      "code": 40603,
+      "name": "Łasin"
+    },
+    {
+      "code": 40604,
+      "name": "Radzyń Chełmiński"
+    },
+    {
+      "code": 40605,
+      "name": "Rogóźno"
+    },
+    {
+      "code": 40606,
+      "name": "Świecie nad Osą"
+    },
+    {
+      "code": 40701,
+      "name": "Inowrocław"
+    },
+    {
+      "code": 40702,
+      "name": "Dąbrowa Biskupia"
+    },
+    {
+      "code": 40703,
+      "name": "Gniewkowo"
+    },
+    {
+      "code": 40704,
+      "name": "Inowrocław"
+    },
+    {
+      "code": 40705,
+      "name": "Janikowo"
+    },
+    {
+      "code": 40706,
+      "name": "Kruszwica"
+    },
+    {
+      "code": 40707,
+      "name": "Pakość"
+    },
+    {
+      "code": 40708,
+      "name": "Rojewo"
+    },
+    {
+      "code": 40709,
+      "name": "Złotniki Kujawskie"
+    },
+    {
+      "code": 40801,
+      "name": "Lipno"
+    },
+    {
+      "code": 40802,
+      "name": "Bobrowniki"
+    },
+    {
+      "code": 40803,
+      "name": "Chrostkowo"
+    },
+    {
+      "code": 40804,
+      "name": "Dobrzyń nad Wisłą"
+    },
+    {
+      "code": 40805,
+      "name": "Kikół"
+    },
+    {
+      "code": 40806,
+      "name": "Lipno"
+    },
+    {
+      "code": 40807,
+      "name": "Skępe"
+    },
+    {
+      "code": 40808,
+      "name": "Tłuchowo"
+    },
+    {
+      "code": 40809,
+      "name": "Wielgie"
+    },
+    {
+      "code": 40901,
+      "name": "Dąbrowa"
+    },
+    {
+      "code": 40902,
+      "name": "Jeziora Wielkie"
+    },
+    {
+      "code": 40903,
+      "name": "Mogilno"
+    },
+    {
+      "code": 40904,
+      "name": "Strzelno"
+    },
+    {
+      "code": 41001,
+      "name": "Kcynia"
+    },
+    {
+      "code": 41002,
+      "name": "Mrocza"
+    },
+    {
+      "code": 41003,
+      "name": "Nakło nad Notecią"
+    },
+    {
+      "code": 41004,
+      "name": "Sadki"
+    },
+    {
+      "code": 41005,
+      "name": "Szubin"
+    },
+    {
+      "code": 41101,
+      "name": "Radziejów"
+    },
+    {
+      "code": 41102,
+      "name": "Bytoń"
+    },
+    {
+      "code": 41103,
+      "name": "Dobre"
+    },
+    {
+      "code": 41104,
+      "name": "Osięciny"
+    },
+    {
+      "code": 41105,
+      "name": "Piotrków Kujawski"
+    },
+    {
+      "code": 41106,
+      "name": "Radziejów"
+    },
+    {
+      "code": 41107,
+      "name": "Topólka"
+    },
+    {
+      "code": 41201,
+      "name": "Rypin"
+    },
+    {
+      "code": 41202,
+      "name": "Brzuze"
+    },
+    {
+      "code": 41203,
+      "name": "Rogowo"
+    },
+    {
+      "code": 41204,
+      "name": "Rypin"
+    },
+    {
+      "code": 41205,
+      "name": "Skrwilno"
+    },
+    {
+      "code": 41206,
+      "name": "Wąpielsk"
+    },
+    {
+      "code": 41301,
+      "name": "Kamień Krajeński"
+    },
+    {
+      "code": 41302,
+      "name": "Sępólno Krajeńskie"
+    },
+    {
+      "code": 41303,
+      "name": "Sośno"
+    },
+    {
+      "code": 41304,
+      "name": "Więcbork"
+    },
+    {
+      "code": 41401,
+      "name": "Bukowiec"
+    },
+    {
+      "code": 41402,
+      "name": "Dragacz"
+    },
+    {
+      "code": 41403,
+      "name": "Drzycim"
+    },
+    {
+      "code": 41404,
+      "name": "Jeżewo"
+    },
+    {
+      "code": 41405,
+      "name": "Lniano"
+    },
+    {
+      "code": 41406,
+      "name": "Nowe"
+    },
+    {
+      "code": 41407,
+      "name": "Osie"
+    },
+    {
+      "code": 41408,
+      "name": "Pruszcz"
+    },
+    {
+      "code": 41409,
+      "name": "Świecie"
+    },
+    {
+      "code": 41410,
+      "name": "Świekatowo"
+    },
+    {
+      "code": 41411,
+      "name": "Warlubie"
+    },
+    {
+      "code": 41501,
+      "name": "Chełmża"
+    },
+    {
+      "code": 41502,
+      "name": "Chełmża"
+    },
+    {
+      "code": 41503,
+      "name": "Czernikowo"
+    },
+    {
+      "code": 41504,
+      "name": "Lubicz"
+    },
+    {
+      "code": 41505,
+      "name": "Łubianka"
+    },
+    {
+      "code": 41506,
+      "name": "Łysomice"
+    },
+    {
+      "code": 41507,
+      "name": "Obrowo"
+    },
+    {
+      "code": 41508,
+      "name": "Wielka Nieszawka"
+    },
+    {
+      "code": 41509,
+      "name": "Zławieś Wielka"
+    },
+    {
+      "code": 41601,
+      "name": "Cekcyn"
+    },
+    {
+      "code": 41602,
+      "name": "Gostycyn"
+    },
+    {
+      "code": 41603,
+      "name": "Kęsowo"
+    },
+    {
+      "code": 41604,
+      "name": "Lubiewo"
+    },
+    {
+      "code": 41605,
+      "name": "Śliwice"
+    },
+    {
+      "code": 41606,
+      "name": "Tuchola"
+    },
+    {
+      "code": 41701,
+      "name": "Wąbrzeźno"
+    },
+    {
+      "code": 41702,
+      "name": "Dębowa Łąka"
+    },
+    {
+      "code": 41703,
+      "name": "Książki"
+    },
+    {
+      "code": 41704,
+      "name": "Płużnica"
+    },
+    {
+      "code": 41705,
+      "name": "Wąbrzeźno"
+    },
+    {
+      "code": 41801,
+      "name": "Kowal"
+    },
+    {
+      "code": 41802,
+      "name": "Baruchowo"
+    },
+    {
+      "code": 41803,
+      "name": "Boniewo"
+    },
+    {
+      "code": 41804,
+      "name": "Brześć Kujawski"
+    },
+    {
+      "code": 41805,
+      "name": "Choceń"
+    },
+    {
+      "code": 41806,
+      "name": "Chodecz"
+    },
+    {
+      "code": 41807,
+      "name": "Fabianki"
+    },
+    {
+      "code": 41808,
+      "name": "Izbica Kujawska"
+    },
+    {
+      "code": 41809,
+      "name": "Kowal"
+    },
+    {
+      "code": 41810,
+      "name": "Lubanie"
+    },
+    {
+      "code": 41811,
+      "name": "Lubień Kujawski"
+    },
+    {
+      "code": 41812,
+      "name": "Lubraniec"
+    },
+    {
+      "code": 41813,
+      "name": "Włocławek"
+    },
+    {
+      "code": 41901,
+      "name": "Barcin"
+    },
+    {
+      "code": 41902,
+      "name": "Gąsawa"
+    },
+    {
+      "code": 41903,
+      "name": "Janowiec Wielkopolski"
+    },
+    {
+      "code": 41904,
+      "name": "Łabiszyn"
+    },
+    {
+      "code": 41905,
+      "name": "Rogowo"
+    },
+    {
+      "code": 41906,
+      "name": "Żnin"
+    },
+    {
+      "code": 46101,
+      "name": "Bydgoszcz"
+    },
+    {
+      "code": 46201,
+      "name": "Grudziądz"
+    },
+    {
+      "code": 46301,
+      "name": "Toruń"
+    },
+    {
+      "code": 46401,
+      "name": "Włocławek"
+    },
+    {
+      "code": 60101,
+      "name": "Międzyrzec Podlaski"
+    },
+    {
+      "code": 60102,
+      "name": "Terespol"
+    },
+    {
+      "code": 60103,
+      "name": "Biała Podlaska"
+    },
+    {
+      "code": 60104,
+      "name": "Drelów"
+    },
+    {
+      "code": 60105,
+      "name": "Janów Podlaski"
+    },
+    {
+      "code": 60106,
+      "name": "Kodeń"
+    },
+    {
+      "code": 60107,
+      "name": "Konstantynów"
+    },
+    {
+      "code": 60108,
+      "name": "Leśna Podlaska"
+    },
+    {
+      "code": 60109,
+      "name": "Łomazy"
+    },
+    {
+      "code": 60110,
+      "name": "Międzyrzec Podlaski"
+    },
+    {
+      "code": 60111,
+      "name": "Piszczac"
+    },
+    {
+      "code": 60112,
+      "name": "Rokitno"
+    },
+    {
+      "code": 60113,
+      "name": "Rossosz"
+    },
+    {
+      "code": 60114,
+      "name": "Sławatycze"
+    },
+    {
+      "code": 60115,
+      "name": "Sosnówka"
+    },
+    {
+      "code": 60116,
+      "name": "Terespol"
+    },
+    {
+      "code": 60117,
+      "name": "Tuczna"
+    },
+    {
+      "code": 60118,
+      "name": "Wisznice"
+    },
+    {
+      "code": 60119,
+      "name": "Zalesie"
+    },
+    {
+      "code": 60201,
+      "name": "Biłgoraj"
+    },
+    {
+      "code": 60202,
+      "name": "Aleksandrów"
+    },
+    {
+      "code": 60203,
+      "name": "Biłgoraj"
+    },
+    {
+      "code": 60204,
+      "name": "Biszcza"
+    },
+    {
+      "code": 60205,
+      "name": "Frampol"
+    },
+    {
+      "code": 60206,
+      "name": "Goraj"
+    },
+    {
+      "code": 60207,
+      "name": "Józefów"
+    },
+    {
+      "code": 60208,
+      "name": "Księżpol"
+    },
+    {
+      "code": 60209,
+      "name": "Łukowa"
+    },
+    {
+      "code": 60210,
+      "name": "Obsza"
+    },
+    {
+      "code": 60211,
+      "name": "Potok Górny"
+    },
+    {
+      "code": 60212,
+      "name": "Tarnogród"
+    },
+    {
+      "code": 60213,
+      "name": "Tereszpol"
+    },
+    {
+      "code": 60214,
+      "name": "Turobin"
+    },
+    {
+      "code": 60301,
+      "name": "Rejowiec Fabryczny"
+    },
+    {
+      "code": 60302,
+      "name": "Białopole"
+    },
+    {
+      "code": 60303,
+      "name": "Chełm"
+    },
+    {
+      "code": 60304,
+      "name": "Dorohusk"
+    },
+    {
+      "code": 60305,
+      "name": "Dubienka"
+    },
+    {
+      "code": 60306,
+      "name": "Kamień"
+    },
+    {
+      "code": 60307,
+      "name": "Leśniowice"
+    },
+    {
+      "code": 60308,
+      "name": "Rejowiec Fabryczny"
+    },
+    {
+      "code": 60309,
+      "name": "Ruda-Huta"
+    },
+    {
+      "code": 60310,
+      "name": "Sawin"
+    },
+    {
+      "code": 60311,
+      "name": "Siedliszcze"
+    },
+    {
+      "code": 60312,
+      "name": "Wierzbica"
+    },
+    {
+      "code": 60313,
+      "name": "Wojsławice"
+    },
+    {
+      "code": 60314,
+      "name": "Żmudź"
+    },
+    {
+      "code": 60401,
+      "name": "Hrubieszów"
+    },
+    {
+      "code": 60402,
+      "name": "Dołhobyczów"
+    },
+    {
+      "code": 60403,
+      "name": "Horodło"
+    },
+    {
+      "code": 60404,
+      "name": "Hrubieszów"
+    },
+    {
+      "code": 60405,
+      "name": "Mircze"
+    },
+    {
+      "code": 60406,
+      "name": "Trzeszczany"
+    },
+    {
+      "code": 60407,
+      "name": "Uchanie"
+    },
+    {
+      "code": 60408,
+      "name": "Werbkowice"
+    },
+    {
+      "code": 60501,
+      "name": "Batorz"
+    },
+    {
+      "code": 60502,
+      "name": "Chrzanów"
+    },
+    {
+      "code": 60503,
+      "name": "Dzwola"
+    },
+    {
+      "code": 60504,
+      "name": "Godziszów"
+    },
+    {
+      "code": 60505,
+      "name": "Janów Lubelski"
+    },
+    {
+      "code": 60506,
+      "name": "Modliborzyce"
+    },
+    {
+      "code": 60507,
+      "name": "Potok Wielki"
+    },
+    {
+      "code": 60601,
+      "name": "Krasnystaw"
+    },
+    {
+      "code": 60602,
+      "name": "Fajsławice"
+    },
+    {
+      "code": 60603,
+      "name": "Gorzków"
+    },
+    {
+      "code": 60604,
+      "name": "Izbica"
+    },
+    {
+      "code": 60605,
+      "name": "Krasnystaw"
+    },
+    {
+      "code": 60606,
+      "name": "Kraśniczyn"
+    },
+    {
+      "code": 60607,
+      "name": "Łopiennik Górny"
+    },
+    {
+      "code": 60608,
+      "name": "Rejowiec"
+    },
+    {
+      "code": 60609,
+      "name": "Rudnik"
+    },
+    {
+      "code": 60610,
+      "name": "Siennica Różana"
+    },
+    {
+      "code": 60611,
+      "name": "Żółkiewka"
+    },
+    {
+      "code": 60701,
+      "name": "Kraśnik"
+    },
+    {
+      "code": 60702,
+      "name": "Annopol"
+    },
+    {
+      "code": 60703,
+      "name": "Dzierzkowice"
+    },
+    {
+      "code": 60704,
+      "name": "Gościeradów"
+    },
+    {
+      "code": 60705,
+      "name": "Kraśnik"
+    },
+    {
+      "code": 60706,
+      "name": "Szastarka"
+    },
+    {
+      "code": 60707,
+      "name": "Trzydnik Duży"
+    },
+    {
+      "code": 60708,
+      "name": "Urzędów"
+    },
+    {
+      "code": 60709,
+      "name": "Wilkołaz"
+    },
+    {
+      "code": 60710,
+      "name": "Zakrzówek"
+    },
+    {
+      "code": 60801,
+      "name": "Lubartów"
+    },
+    {
+      "code": 60802,
+      "name": "Abramów"
+    },
+    {
+      "code": 60803,
+      "name": "Firlej"
+    },
+    {
+      "code": 60804,
+      "name": "Jeziorzany"
+    },
+    {
+      "code": 60805,
+      "name": "Kamionka"
+    },
+    {
+      "code": 60806,
+      "name": "Kock"
+    },
+    {
+      "code": 60807,
+      "name": "Lubartów"
+    },
+    {
+      "code": 60808,
+      "name": "Michów"
+    },
+    {
+      "code": 60809,
+      "name": "Niedźwiada"
+    },
+    {
+      "code": 60810,
+      "name": "Ostrów Lubelski"
+    },
+    {
+      "code": 60811,
+      "name": "Ostrówek"
+    },
+    {
+      "code": 60812,
+      "name": "Serniki"
+    },
+    {
+      "code": 60813,
+      "name": "Uścimów"
+    },
+    {
+      "code": 60901,
+      "name": "Bełżyce"
+    },
+    {
+      "code": 60902,
+      "name": "Borzechów"
+    },
+    {
+      "code": 60903,
+      "name": "Bychawa"
+    },
+    {
+      "code": 60904,
+      "name": "Garbów"
+    },
+    {
+      "code": 60905,
+      "name": "Głusk"
+    },
+    {
+      "code": 60906,
+      "name": "Jabłonna"
+    },
+    {
+      "code": 60907,
+      "name": "Jastków"
+    },
+    {
+      "code": 60908,
+      "name": "Konopnica"
+    },
+    {
+      "code": 60909,
+      "name": "Krzczonów"
+    },
+    {
+      "code": 60910,
+      "name": "Niedrzwica Duża"
+    },
+    {
+      "code": 60911,
+      "name": "Niemce"
+    },
+    {
+      "code": 60912,
+      "name": "Strzyżewice"
+    },
+    {
+      "code": 60913,
+      "name": "Wojciechów"
+    },
+    {
+      "code": 60914,
+      "name": "Wólka"
+    },
+    {
+      "code": 60915,
+      "name": "Wysokie"
+    },
+    {
+      "code": 60916,
+      "name": "Zakrzew"
+    },
+    {
+      "code": 61001,
+      "name": "Cyców"
+    },
+    {
+      "code": 61002,
+      "name": "Ludwin"
+    },
+    {
+      "code": 61003,
+      "name": "Łęczna"
+    },
+    {
+      "code": 61004,
+      "name": "Milejów"
+    },
+    {
+      "code": 61005,
+      "name": "Puchaczów"
+    },
+    {
+      "code": 61006,
+      "name": "Spiczyn"
+    },
+    {
+      "code": 61101,
+      "name": "Łuków"
+    },
+    {
+      "code": 61102,
+      "name": "Stoczek Łukowski"
+    },
+    {
+      "code": 61103,
+      "name": "Adamów"
+    },
+    {
+      "code": 61104,
+      "name": "Krzywda"
+    },
+    {
+      "code": 61105,
+      "name": "Łuków"
+    },
+    {
+      "code": 61106,
+      "name": "Serokomla"
+    },
+    {
+      "code": 61107,
+      "name": "Stanin"
+    },
+    {
+      "code": 61108,
+      "name": "Stoczek Łukowski"
+    },
+    {
+      "code": 61109,
+      "name": "Trzebieszów"
+    },
+    {
+      "code": 61110,
+      "name": "Wojcieszków"
+    },
+    {
+      "code": 61111,
+      "name": "Wola Mysłowska"
+    },
+    {
+      "code": 61201,
+      "name": "Chodel"
+    },
+    {
+      "code": 61202,
+      "name": "Józefów"
+    },
+    {
+      "code": 61203,
+      "name": "Karczmiska"
+    },
+    {
+      "code": 61204,
+      "name": "Łaziska"
+    },
+    {
+      "code": 61205,
+      "name": "Opole Lubelskie"
+    },
+    {
+      "code": 61206,
+      "name": "Poniatowa"
+    },
+    {
+      "code": 61207,
+      "name": "Wilków"
+    },
+    {
+      "code": 61301,
+      "name": "Dębowa Kłoda"
+    },
+    {
+      "code": 61302,
+      "name": "Jabłoń"
+    },
+    {
+      "code": 61303,
+      "name": "Milanów"
+    },
+    {
+      "code": 61304,
+      "name": "Parczew"
+    },
+    {
+      "code": 61305,
+      "name": "Podedwórze"
+    },
+    {
+      "code": 61306,
+      "name": "Siemień"
+    },
+    {
+      "code": 61307,
+      "name": "Sosnowica"
+    },
+    {
+      "code": 61401,
+      "name": "Puławy"
+    },
+    {
+      "code": 61402,
+      "name": "Baranów"
+    },
+    {
+      "code": 61403,
+      "name": "Janowiec"
+    },
+    {
+      "code": 61404,
+      "name": "Kazimierz Dolny"
+    },
+    {
+      "code": 61405,
+      "name": "Końskowola"
+    },
+    {
+      "code": 61406,
+      "name": "Kurów"
+    },
+    {
+      "code": 61407,
+      "name": "Markuszów"
+    },
+    {
+      "code": 61408,
+      "name": "Nałęczów"
+    },
+    {
+      "code": 61409,
+      "name": "Puławy"
+    },
+    {
+      "code": 61410,
+      "name": "Wąwolnica"
+    },
+    {
+      "code": 61411,
+      "name": "Żyrzyn"
+    },
+    {
+      "code": 61501,
+      "name": "Radzyń Podlaski"
+    },
+    {
+      "code": 61502,
+      "name": "Borki"
+    },
+    {
+      "code": 61503,
+      "name": "Czemierniki"
+    },
+    {
+      "code": 61504,
+      "name": "Kąkolewnica Wschodnia"
+    },
+    {
+      "code": 61505,
+      "name": "Komarówka Podlaska"
+    },
+    {
+      "code": 61506,
+      "name": "Radzyń Podlaski"
+    },
+    {
+      "code": 61507,
+      "name": "Ulan-Majorat"
+    },
+    {
+      "code": 61508,
+      "name": "Wohyń"
+    },
+    {
+      "code": 61601,
+      "name": "Dęblin"
+    },
+    {
+      "code": 61602,
+      "name": "Kłoczew"
+    },
+    {
+      "code": 61603,
+      "name": "Nowodwór"
+    },
+    {
+      "code": 61604,
+      "name": "Ryki"
+    },
+    {
+      "code": 61605,
+      "name": "Stężyca"
+    },
+    {
+      "code": 61606,
+      "name": "Ułęż"
+    },
+    {
+      "code": 61701,
+      "name": "Świdnik"
+    },
+    {
+      "code": 61702,
+      "name": "Mełgiew"
+    },
+    {
+      "code": 61703,
+      "name": "Piaski"
+    },
+    {
+      "code": 61704,
+      "name": "Rybczewice"
+    },
+    {
+      "code": 61705,
+      "name": "Trawniki"
+    },
+    {
+      "code": 61801,
+      "name": "Tomaszów Lubelski"
+    },
+    {
+      "code": 61802,
+      "name": "Bełżec"
+    },
+    {
+      "code": 61803,
+      "name": "Jarczów"
+    },
+    {
+      "code": 61804,
+      "name": "Krynice"
+    },
+    {
+      "code": 61805,
+      "name": "Lubycza Królewska"
+    },
+    {
+      "code": 61806,
+      "name": "Łaszczów"
+    },
+    {
+      "code": 61807,
+      "name": "Rachanie"
+    },
+    {
+      "code": 61808,
+      "name": "Susiec"
+    },
+    {
+      "code": 61809,
+      "name": "Tarnawatka"
+    },
+    {
+      "code": 61810,
+      "name": "Telatyn"
+    },
+    {
+      "code": 61811,
+      "name": "Tomaszów Lubelski"
+    },
+    {
+      "code": 61812,
+      "name": "Tyszowce"
+    },
+    {
+      "code": 61813,
+      "name": "Ulhówek"
+    },
+    {
+      "code": 61901,
+      "name": "Włodawa"
+    },
+    {
+      "code": 61902,
+      "name": "Hanna"
+    },
+    {
+      "code": 61903,
+      "name": "Hańsk"
+    },
+    {
+      "code": 61904,
+      "name": "Stary Brus"
+    },
+    {
+      "code": 61905,
+      "name": "Urszulin"
+    },
+    {
+      "code": 61906,
+      "name": "Włodawa"
+    },
+    {
+      "code": 61907,
+      "name": "Wola Uhruska"
+    },
+    {
+      "code": 61908,
+      "name": "Wyryki"
+    },
+    {
+      "code": 62001,
+      "name": "Adamów"
+    },
+    {
+      "code": 62002,
+      "name": "Grabowiec"
+    },
+    {
+      "code": 62003,
+      "name": "Komarów-Osada"
+    },
+    {
+      "code": 62004,
+      "name": "Krasnobród"
+    },
+    {
+      "code": 62005,
+      "name": "Łabunie"
+    },
+    {
+      "code": 62006,
+      "name": "Miączyn"
+    },
+    {
+      "code": 62007,
+      "name": "Nielisz"
+    },
+    {
+      "code": 62008,
+      "name": "Radecznica"
+    },
+    {
+      "code": 62009,
+      "name": "Sitno"
+    },
+    {
+      "code": 62010,
+      "name": "Skierbieszów"
+    },
+    {
+      "code": 62011,
+      "name": "Stary Zamość"
+    },
+    {
+      "code": 62012,
+      "name": "Sułów"
+    },
+    {
+      "code": 62013,
+      "name": "Szczebrzeszyn"
+    },
+    {
+      "code": 62014,
+      "name": "Zamość"
+    },
+    {
+      "code": 62015,
+      "name": "Zwierzyniec"
+    },
+    {
+      "code": 66101,
+      "name": "Biała Podlaska"
+    },
+    {
+      "code": 66201,
+      "name": "Chełm"
+    },
+    {
+      "code": 66301,
+      "name": "Lublin"
+    },
+    {
+      "code": 66401,
+      "name": "Zamość"
+    },
+    {
+      "code": 80101,
+      "name": "Kostrzyn"
+    },
+    {
+      "code": 80102,
+      "name": "Bogdaniec"
+    },
+    {
+      "code": 80103,
+      "name": "Deszczno"
+    },
+    {
+      "code": 80104,
+      "name": "Kłodawa"
+    },
+    {
+      "code": 80105,
+      "name": "Lubiszyn"
+    },
+    {
+      "code": 80106,
+      "name": "Santok"
+    },
+    {
+      "code": 80107,
+      "name": "Witnica"
+    },
+    {
+      "code": 80201,
+      "name": "Gubin"
+    },
+    {
+      "code": 80202,
+      "name": "Bobrowice"
+    },
+    {
+      "code": 80203,
+      "name": "Bytnica"
+    },
+    {
+      "code": 80204,
+      "name": "Dąbie"
+    },
+    {
+      "code": 80205,
+      "name": "Gubin"
+    },
+    {
+      "code": 80206,
+      "name": "Krosno Odrzańskie"
+    },
+    {
+      "code": 80207,
+      "name": "Maszewo"
+    },
+    {
+      "code": 80301,
+      "name": "Bledzew"
+    },
+    {
+      "code": 80302,
+      "name": "Międzyrzecz"
+    },
+    {
+      "code": 80303,
+      "name": "Przytoczna"
+    },
+    {
+      "code": 80304,
+      "name": "Pszczew"
+    },
+    {
+      "code": 80305,
+      "name": "Skwierzyna"
+    },
+    {
+      "code": 80306,
+      "name": "Trzciel"
+    },
+    {
+      "code": 80401,
+      "name": "Nowa Sól"
+    },
+    {
+      "code": 80402,
+      "name": "Bytom Odrzański"
+    },
+    {
+      "code": 80403,
+      "name": "Kolsko"
+    },
+    {
+      "code": 80404,
+      "name": "Kożuchów"
+    },
+    {
+      "code": 80405,
+      "name": "Nowa Sól"
+    },
+    {
+      "code": 80406,
+      "name": "Nowe Miasteczko"
+    },
+    {
+      "code": 80407,
+      "name": "Otyń"
+    },
+    {
+      "code": 80408,
+      "name": "Siedlisko"
+    },
+    {
+      "code": 80501,
+      "name": "Cybinka"
+    },
+    {
+      "code": 80502,
+      "name": "Górzyca"
+    },
+    {
+      "code": 80503,
+      "name": "Ośno Lubuskie"
+    },
+    {
+      "code": 80504,
+      "name": "Rzepin"
+    },
+    {
+      "code": 80505,
+      "name": "Słubice"
+    },
+    {
+      "code": 80601,
+      "name": "Dobiegniew"
+    },
+    {
+      "code": 80602,
+      "name": "Drezdenko"
+    },
+    {
+      "code": 80603,
+      "name": "Stare Kurowo"
+    },
+    {
+      "code": 80604,
+      "name": "Strzelce Krajeńskie"
+    },
+    {
+      "code": 80605,
+      "name": "Zwierzyn"
+    },
+    {
+      "code": 80701,
+      "name": "Krzeszyce"
+    },
+    {
+      "code": 80702,
+      "name": "Lubniewice"
+    },
+    {
+      "code": 80703,
+      "name": "Słońsk"
+    },
+    {
+      "code": 80704,
+      "name": "Sulęcin"
+    },
+    {
+      "code": 80705,
+      "name": "Torzym"
+    },
+    {
+      "code": 80801,
+      "name": "Lubrza"
+    },
+    {
+      "code": 80802,
+      "name": "Łagów"
+    },
+    {
+      "code": 80803,
+      "name": "Skąpe"
+    },
+    {
+      "code": 80804,
+      "name": "Szczaniec"
+    },
+    {
+      "code": 80805,
+      "name": "Świebodzin"
+    },
+    {
+      "code": 80806,
+      "name": "Zbąszynek"
+    },
+    {
+      "code": 81201,
+      "name": "Sława"
+    },
+    {
+      "code": 81202,
+      "name": "Szlichtyngowa"
+    },
+    {
+      "code": 81203,
+      "name": "Wschowa"
+    },
+    {
+      "code": 80901,
+      "name": "Babimost"
+    },
+    {
+      "code": 80902,
+      "name": "Bojadła"
+    },
+    {
+      "code": 80903,
+      "name": "Czerwieńsk"
+    },
+    {
+      "code": 80904,
+      "name": "Kargowa"
+    },
+    {
+      "code": 80905,
+      "name": "Nowogród Bobrzański"
+    },
+    {
+      "code": 80906,
+      "name": "Sulechów"
+    },
+    {
+      "code": 80907,
+      "name": "Świdnica"
+    },
+    {
+      "code": 80908,
+      "name": "Trzebiechów"
+    },
+    {
+      "code": 80909,
+      "name": "Zabór"
+    },
+    {
+      "code": 80910,
+      "name": "Zielona Góra"
+    },
+    {
+      "code": 81001,
+      "name": "Gozdnica"
+    },
+    {
+      "code": 81002,
+      "name": "Żagań"
+    },
+    {
+      "code": 81003,
+      "name": "Brzeźnica"
+    },
+    {
+      "code": 81004,
+      "name": "Iłowa"
+    },
+    {
+      "code": 81005,
+      "name": "Małomice"
+    },
+    {
+      "code": 81006,
+      "name": "Niegosławice"
+    },
+    {
+      "code": 81007,
+      "name": "Szprotawa"
+    },
+    {
+      "code": 81008,
+      "name": "Wymiarki"
+    },
+    {
+      "code": 81009,
+      "name": "Żagań"
+    },
+    {
+      "code": 81101,
+      "name": "Łęknica"
+    },
+    {
+      "code": 81102,
+      "name": "Żary"
+    },
+    {
+      "code": 81103,
+      "name": "Brody"
+    },
+    {
+      "code": 81104,
+      "name": "Jasień"
+    },
+    {
+      "code": 81105,
+      "name": "Lipinki Łużyckie"
+    },
+    {
+      "code": 81106,
+      "name": "Lubsko"
+    },
+    {
+      "code": 81107,
+      "name": "Przewóz"
+    },
+    {
+      "code": 81108,
+      "name": "Trzebiel"
+    },
+    {
+      "code": 81109,
+      "name": "Tuplice"
+    },
+    {
+      "code": 81110,
+      "name": "Żary"
+    },
+    {
+      "code": 86101,
+      "name": "Gorzów Wielkopolski"
+    },
+    {
+      "code": 86201,
+      "name": "Zielona Góra"
+    },
+    {
+      "code": 100101,
+      "name": "Bełchatów"
+    },
+    {
+      "code": 100102,
+      "name": "Bełchatów"
+    },
+    {
+      "code": 100103,
+      "name": "Drużbice"
+    },
+    {
+      "code": 100104,
+      "name": "Kleszczów"
+    },
+    {
+      "code": 100105,
+      "name": "Kluki"
+    },
+    {
+      "code": 100106,
+      "name": "Rusiec"
+    },
+    {
+      "code": 100107,
+      "name": "Szczerców"
+    },
+    {
+      "code": 100108,
+      "name": "Zelów"
+    },
+    {
+      "code": 102101,
+      "name": "Brzeziny"
+    },
+    {
+      "code": 102102,
+      "name": "Brzeziny"
+    },
+    {
+      "code": 102103,
+      "name": "Dmosin"
+    },
+    {
+      "code": 102104,
+      "name": "Jeżów"
+    },
+    {
+      "code": 102105,
+      "name": "Rogów"
+    },
+    {
+      "code": 100201,
+      "name": "Kutno"
+    },
+    {
+      "code": 100202,
+      "name": "Bedlno"
+    },
+    {
+      "code": 100203,
+      "name": "Dąbrowice"
+    },
+    {
+      "code": 100204,
+      "name": "Krośniewice"
+    },
+    {
+      "code": 100205,
+      "name": "Krzyżanów"
+    },
+    {
+      "code": 100206,
+      "name": "Kutno"
+    },
+    {
+      "code": 100207,
+      "name": "Łanięta"
+    },
+    {
+      "code": 100208,
+      "name": "Nowe Ostrowy"
+    },
+    {
+      "code": 100209,
+      "name": "Oporów"
+    },
+    {
+      "code": 100210,
+      "name": "Strzelce"
+    },
+    {
+      "code": 100211,
+      "name": "Żychlin"
+    },
+    {
+      "code": 100301,
+      "name": "Buczek"
+    },
+    {
+      "code": 100302,
+      "name": "Łask"
+    },
+    {
+      "code": 100303,
+      "name": "Sędziejowice"
+    },
+    {
+      "code": 100304,
+      "name": "Widawa"
+    },
+    {
+      "code": 100305,
+      "name": "Wodzierady"
+    },
+    {
+      "code": 100401,
+      "name": "Łęczyca"
+    },
+    {
+      "code": 100402,
+      "name": "Daszyna"
+    },
+    {
+      "code": 100403,
+      "name": "Góra Świętej Małgorzaty"
+    },
+    {
+      "code": 100404,
+      "name": "Grabów"
+    },
+    {
+      "code": 100405,
+      "name": "Łęczyca"
+    },
+    {
+      "code": 100406,
+      "name": "Piątek"
+    },
+    {
+      "code": 100407,
+      "name": "Świnice Warckie"
+    },
+    {
+      "code": 100408,
+      "name": "Witonia"
+    },
+    {
+      "code": 100501,
+      "name": "Łowicz"
+    },
+    {
+      "code": 100502,
+      "name": "Bielawy"
+    },
+    {
+      "code": 100503,
+      "name": "Chąśno"
+    },
+    {
+      "code": 100504,
+      "name": "Domaniewice"
+    },
+    {
+      "code": 100505,
+      "name": "Kiernozia"
+    },
+    {
+      "code": 100506,
+      "name": "Kocierzew Południowy"
+    },
+    {
+      "code": 100507,
+      "name": "Łowicz"
+    },
+    {
+      "code": 100508,
+      "name": "Łyszkowice"
+    },
+    {
+      "code": 100509,
+      "name": "Nieborów"
+    },
+    {
+      "code": 100510,
+      "name": "Zduny"
+    },
+    {
+      "code": 100602,
+      "name": "Andrespol"
+    },
+    {
+      "code": 100603,
+      "name": "Brójce"
+    },
+    {
+      "code": 100607,
+      "name": "Koluszki"
+    },
+    {
+      "code": 100608,
+      "name": "Nowosolna"
+    },
+    {
+      "code": 100610,
+      "name": "Rzgów"
+    },
+    {
+      "code": 100611,
+      "name": "Tuszyn"
+    },
+    {
+      "code": 100701,
+      "name": "Białaczów"
+    },
+    {
+      "code": 100702,
+      "name": "Drzewica"
+    },
+    {
+      "code": 100703,
+      "name": "Mniszków"
+    },
+    {
+      "code": 100704,
+      "name": "Opoczno"
+    },
+    {
+      "code": 100705,
+      "name": "Paradyż"
+    },
+    {
+      "code": 100706,
+      "name": "Poświętne"
+    },
+    {
+      "code": 100707,
+      "name": "Sławno"
+    },
+    {
+      "code": 100708,
+      "name": "Żarnów"
+    },
+    {
+      "code": 100801,
+      "name": "Konstantynów Łódzki"
+    },
+    {
+      "code": 100802,
+      "name": "Pabianice"
+    },
+    {
+      "code": 100803,
+      "name": "Dłutów"
+    },
+    {
+      "code": 100804,
+      "name": "Dobroń"
+    },
+    {
+      "code": 100805,
+      "name": "Ksawerów"
+    },
+    {
+      "code": 100806,
+      "name": "Lutomiersk"
+    },
+    {
+      "code": 100807,
+      "name": "Pabianice"
+    },
+    {
+      "code": 100901,
+      "name": "Działoszyn"
+    },
+    {
+      "code": 100902,
+      "name": "Kiełczygłów"
+    },
+    {
+      "code": 100903,
+      "name": "Nowa Brzeźnica"
+    },
+    {
+      "code": 100904,
+      "name": "Pajęczno"
+    },
+    {
+      "code": 100905,
+      "name": "Rząśnia"
+    },
+    {
+      "code": 100906,
+      "name": "Siemkowice"
+    },
+    {
+      "code": 100907,
+      "name": "Strzelce Wielkie"
+    },
+    {
+      "code": 100908,
+      "name": "Sulmierzyce"
+    },
+    {
+      "code": 101001,
+      "name": "Aleksandrów"
+    },
+    {
+      "code": 101002,
+      "name": "Czarnocin"
+    },
+    {
+      "code": 101003,
+      "name": "Gorzkowice"
+    },
+    {
+      "code": 101004,
+      "name": "Grabica"
+    },
+    {
+      "code": 101005,
+      "name": "Łęki Szlacheckie"
+    },
+    {
+      "code": 101006,
+      "name": "Moszczenica"
+    },
+    {
+      "code": 101007,
+      "name": "Ręczno"
+    },
+    {
+      "code": 101008,
+      "name": "Rozprza"
+    },
+    {
+      "code": 101009,
+      "name": "Sulejów"
+    },
+    {
+      "code": 101010,
+      "name": "Wola Krzysztoporska"
+    },
+    {
+      "code": 101011,
+      "name": "Wolbórz"
+    },
+    {
+      "code": 101101,
+      "name": "Dalików"
+    },
+    {
+      "code": 101102,
+      "name": "Pęczniew"
+    },
+    {
+      "code": 101103,
+      "name": "Poddębice"
+    },
+    {
+      "code": 101104,
+      "name": "Uniejów"
+    },
+    {
+      "code": 101105,
+      "name": "Wartkowice"
+    },
+    {
+      "code": 101106,
+      "name": "Zadzim"
+    },
+    {
+      "code": 101201,
+      "name": "Radomsko"
+    },
+    {
+      "code": 101202,
+      "name": "Dobryszyce"
+    },
+    {
+      "code": 101203,
+      "name": "Gidle"
+    },
+    {
+      "code": 101204,
+      "name": "Gomunice"
+    },
+    {
+      "code": 101205,
+      "name": "Kamieńsk"
+    },
+    {
+      "code": 101206,
+      "name": "Kobiele Wielkie"
+    },
+    {
+      "code": 101207,
+      "name": "Kodrąb"
+    },
+    {
+      "code": 101208,
+      "name": "Lgota Wielka"
+    },
+    {
+      "code": 101209,
+      "name": "Ładzice"
+    },
+    {
+      "code": 101210,
+      "name": "Masłowice"
+    },
+    {
+      "code": 101211,
+      "name": "Przedbórz"
+    },
+    {
+      "code": 101212,
+      "name": "Radomsko"
+    },
+    {
+      "code": 101213,
+      "name": "Wielgomłyny"
+    },
+    {
+      "code": 101214,
+      "name": "Żytno"
+    },
+    {
+      "code": 101301,
+      "name": "Rawa Mazowiecka"
+    },
+    {
+      "code": 101302,
+      "name": "Biała Rawska"
+    },
+    {
+      "code": 101303,
+      "name": "Cielądz"
+    },
+    {
+      "code": 101304,
+      "name": "Rawa Mazowiecka"
+    },
+    {
+      "code": 101305,
+      "name": "Regnów"
+    },
+    {
+      "code": 101306,
+      "name": "Sadkowice"
+    },
+    {
+      "code": 101401,
+      "name": "Sieradz"
+    },
+    {
+      "code": 101402,
+      "name": "Błaszki"
+    },
+    {
+      "code": 101403,
+      "name": "Brąszewice"
+    },
+    {
+      "code": 101404,
+      "name": "Brzeźnio"
+    },
+    {
+      "code": 101405,
+      "name": "Burzenin"
+    },
+    {
+      "code": 101406,
+      "name": "Goszczanów"
+    },
+    {
+      "code": 101407,
+      "name": "Klonowa"
+    },
+    {
+      "code": 101408,
+      "name": "Sieradz"
+    },
+    {
+      "code": 101409,
+      "name": "Warta"
+    },
+    {
+      "code": 101410,
+      "name": "Wróblew"
+    },
+    {
+      "code": 101411,
+      "name": "Złoczew"
+    },
+    {
+      "code": 101501,
+      "name": "Bolimów"
+    },
+    {
+      "code": 101502,
+      "name": "Głuchów"
+    },
+    {
+      "code": 101503,
+      "name": "Godzianów"
+    },
+    {
+      "code": 101504,
+      "name": "Kowiesy"
+    },
+    {
+      "code": 101505,
+      "name": "Lipce Reymontowskie"
+    },
+    {
+      "code": 101506,
+      "name": "Maków"
+    },
+    {
+      "code": 101507,
+      "name": "Nowy Kawęczyn"
+    },
+    {
+      "code": 101508,
+      "name": "Skierniewice"
+    },
+    {
+      "code": 101509,
+      "name": "Słupia"
+    },
+    {
+      "code": 101601,
+      "name": "Tomaszów Mazowiecki"
+    },
+    {
+      "code": 101602,
+      "name": "Będków"
+    },
+    {
+      "code": 101603,
+      "name": "Budziszewice"
+    },
+    {
+      "code": 101604,
+      "name": "Czerniewice"
+    },
+    {
+      "code": 101605,
+      "name": "Inowłódz"
+    },
+    {
+      "code": 101606,
+      "name": "Lubochnia"
+    },
+    {
+      "code": 101607,
+      "name": "Rokiciny"
+    },
+    {
+      "code": 101608,
+      "name": "Rzeczyca"
+    },
+    {
+      "code": 101609,
+      "name": "Tomaszów Mazowiecki"
+    },
+    {
+      "code": 101610,
+      "name": "Ujazd"
+    },
+    {
+      "code": 101611,
+      "name": "Żelechlinek"
+    },
+    {
+      "code": 101701,
+      "name": "Biała"
+    },
+    {
+      "code": 101702,
+      "name": "Czarnożyły"
+    },
+    {
+      "code": 101703,
+      "name": "Konopnica"
+    },
+    {
+      "code": 101704,
+      "name": "Mokrsko"
+    },
+    {
+      "code": 101705,
+      "name": "Osjaków"
+    },
+    {
+      "code": 101706,
+      "name": "Ostrówek"
+    },
+    {
+      "code": 101707,
+      "name": "Pątnów"
+    },
+    {
+      "code": 101708,
+      "name": "Skomlin"
+    },
+    {
+      "code": 101709,
+      "name": "Wieluń"
+    },
+    {
+      "code": 101710,
+      "name": "Wierzchlas"
+    },
+    {
+      "code": 101801,
+      "name": "Bolesławiec"
+    },
+    {
+      "code": 101802,
+      "name": "Czastary"
+    },
+    {
+      "code": 101803,
+      "name": "Galewice"
+    },
+    {
+      "code": 101804,
+      "name": "Lututów"
+    },
+    {
+      "code": 101805,
+      "name": "Łubnice"
+    },
+    {
+      "code": 101806,
+      "name": "Sokolniki"
+    },
+    {
+      "code": 101807,
+      "name": "Wieruszów"
+    },
+    {
+      "code": 101901,
+      "name": "Zduńska Wola"
+    },
+    {
+      "code": 101902,
+      "name": "Szadek"
+    },
+    {
+      "code": 101903,
+      "name": "Zapolice"
+    },
+    {
+      "code": 101904,
+      "name": "Zduńska Wola"
+    },
+    {
+      "code": 102001,
+      "name": "Głowno"
+    },
+    {
+      "code": 102002,
+      "name": "Ozorków"
+    },
+    {
+      "code": 102003,
+      "name": "Zgierz"
+    },
+    {
+      "code": 102004,
+      "name": "Aleksandrów Łódzki"
+    },
+    {
+      "code": 102005,
+      "name": "Głowno"
+    },
+    {
+      "code": 102006,
+      "name": "Ozorków"
+    },
+    {
+      "code": 102007,
+      "name": "Parzęczew"
+    },
+    {
+      "code": 102008,
+      "name": "Stryków"
+    },
+    {
+      "code": 102009,
+      "name": "Zgierz"
+    },
+    {
+      "code": 106101,
+      "name": "Łódź"
+    },
+    {
+      "code": 106201,
+      "name": "Piotrków Trybunalski"
+    },
+    {
+      "code": 106301,
+      "name": "Skierniewice"
+    },
+    {
+      "code": 120101,
+      "name": "Bochnia"
+    },
+    {
+      "code": 120102,
+      "name": "Bochnia"
+    },
+    {
+      "code": 120103,
+      "name": "Drwinia"
+    },
+    {
+      "code": 120104,
+      "name": "Lipnica Murowana"
+    },
+    {
+      "code": 120105,
+      "name": "Łapanów"
+    },
+    {
+      "code": 120106,
+      "name": "Nowy Wiśnicz"
+    },
+    {
+      "code": 120107,
+      "name": "Rzezawa"
+    },
+    {
+      "code": 120108,
+      "name": "Trzciana"
+    },
+    {
+      "code": 120109,
+      "name": "Żegocina"
+    },
+    {
+      "code": 120201,
+      "name": "Borzęcin"
+    },
+    {
+      "code": 120202,
+      "name": "Brzesko"
+    },
+    {
+      "code": 120203,
+      "name": "Czchów"
+    },
+    {
+      "code": 120204,
+      "name": "Dębno"
+    },
+    {
+      "code": 120205,
+      "name": "Gnojnik"
+    },
+    {
+      "code": 120206,
+      "name": "Iwkowa"
+    },
+    {
+      "code": 120207,
+      "name": "Szczurowa"
+    },
+    {
+      "code": 120301,
+      "name": "Alwernia"
+    },
+    {
+      "code": 120302,
+      "name": "Babice"
+    },
+    {
+      "code": 120303,
+      "name": "Chrzanów"
+    },
+    {
+      "code": 120304,
+      "name": "Libiąż"
+    },
+    {
+      "code": 120305,
+      "name": "Trzebinia"
+    },
+    {
+      "code": 120401,
+      "name": "Bolesław"
+    },
+    {
+      "code": 120402,
+      "name": "Dąbrowa Tarnowska"
+    },
+    {
+      "code": 120403,
+      "name": "Gręboszów"
+    },
+    {
+      "code": 120404,
+      "name": "Mędrzechów"
+    },
+    {
+      "code": 120405,
+      "name": "Olesno"
+    },
+    {
+      "code": 120406,
+      "name": "Radgoszcz"
+    },
+    {
+      "code": 120407,
+      "name": "Szczucin"
+    },
+    {
+      "code": 120501,
+      "name": "Gorlice"
+    },
+    {
+      "code": 120502,
+      "name": "Biecz"
+    },
+    {
+      "code": 120503,
+      "name": "Bobowa"
+    },
+    {
+      "code": 120504,
+      "name": "Gorlice"
+    },
+    {
+      "code": 120505,
+      "name": "Lipinki"
+    },
+    {
+      "code": 120506,
+      "name": "Łużna"
+    },
+    {
+      "code": 120507,
+      "name": "Moszczenica"
+    },
+    {
+      "code": 120508,
+      "name": "Ropa"
+    },
+    {
+      "code": 120509,
+      "name": "Sękowa"
+    },
+    {
+      "code": 120510,
+      "name": "Uście Gorlickie"
+    },
+    {
+      "code": 120601,
+      "name": "Czernichów"
+    },
+    {
+      "code": 120602,
+      "name": "Igołomia-Wawrzeńczyce"
+    },
+    {
+      "code": 120603,
+      "name": "Iwanowice"
+    },
+    {
+      "code": 120604,
+      "name": "Jerzmanowice-Przeginia"
+    },
+    {
+      "code": 120605,
+      "name": "Kocmyrzów-Luborzyca"
+    },
+    {
+      "code": 120606,
+      "name": "Krzeszowice"
+    },
+    {
+      "code": 120607,
+      "name": "Liszki"
+    },
+    {
+      "code": 120608,
+      "name": "Michałowice"
+    },
+    {
+      "code": 120609,
+      "name": "Mogilany"
+    },
+    {
+      "code": 120610,
+      "name": "Skała"
+    },
+    {
+      "code": 120611,
+      "name": "Skawina"
+    },
+    {
+      "code": 120612,
+      "name": "Słomniki"
+    },
+    {
+      "code": 120613,
+      "name": "Sułoszowa"
+    },
+    {
+      "code": 120614,
+      "name": "Świątniki Górne"
+    },
+    {
+      "code": 120615,
+      "name": "Wielka Wieś"
+    },
+    {
+      "code": 120616,
+      "name": "Zabierzów"
+    },
+    {
+      "code": 120617,
+      "name": "Zielonki"
+    },
+    {
+      "code": 120701,
+      "name": "Limanowa"
+    },
+    {
+      "code": 120702,
+      "name": "Mszana Dolna"
+    },
+    {
+      "code": 120703,
+      "name": "Dobra"
+    },
+    {
+      "code": 120704,
+      "name": "Jodłownik"
+    },
+    {
+      "code": 120705,
+      "name": "Kamienica"
+    },
+    {
+      "code": 120706,
+      "name": "Laskowa"
+    },
+    {
+      "code": 120707,
+      "name": "Limanowa"
+    },
+    {
+      "code": 120708,
+      "name": "Łukowica"
+    },
+    {
+      "code": 120709,
+      "name": "Mszana Dolna"
+    },
+    {
+      "code": 120710,
+      "name": "Niedźwiedź"
+    },
+    {
+      "code": 120711,
+      "name": "Słopnice"
+    },
+    {
+      "code": 120712,
+      "name": "Tymbark"
+    },
+    {
+      "code": 120801,
+      "name": "Charsznica"
+    },
+    {
+      "code": 120802,
+      "name": "Gołcza"
+    },
+    {
+      "code": 120803,
+      "name": "Kozłów"
+    },
+    {
+      "code": 120804,
+      "name": "Książ Wielki"
+    },
+    {
+      "code": 120805,
+      "name": "Miechów"
+    },
+    {
+      "code": 120806,
+      "name": "Racławice"
+    },
+    {
+      "code": 120807,
+      "name": "Słaboszów"
+    },
+    {
+      "code": 120901,
+      "name": "Dobczyce"
+    },
+    {
+      "code": 120902,
+      "name": "Lubień"
+    },
+    {
+      "code": 120903,
+      "name": "Myślenice"
+    },
+    {
+      "code": 120904,
+      "name": "Pcim"
+    },
+    {
+      "code": 120905,
+      "name": "Raciechowice"
+    },
+    {
+      "code": 120906,
+      "name": "Siepraw"
+    },
+    {
+      "code": 120907,
+      "name": "Sułkowice"
+    },
+    {
+      "code": 120908,
+      "name": "Tokarnia"
+    },
+    {
+      "code": 120909,
+      "name": "Wiśniowa"
+    },
+    {
+      "code": 121001,
+      "name": "Grybów"
+    },
+    {
+      "code": 121002,
+      "name": "Chełmiec"
+    },
+    {
+      "code": 121003,
+      "name": "Gródek nad Dunajcem"
+    },
+    {
+      "code": 121004,
+      "name": "Grybów"
+    },
+    {
+      "code": 121005,
+      "name": "Kamionka Wielka"
+    },
+    {
+      "code": 121006,
+      "name": "Korzenna"
+    },
+    {
+      "code": 121007,
+      "name": "Krynica-Zdrój"
+    },
+    {
+      "code": 121008,
+      "name": "Łabowa"
+    },
+    {
+      "code": 121009,
+      "name": "Łącko"
+    },
+    {
+      "code": 121010,
+      "name": "Łososina Dolna"
+    },
+    {
+      "code": 121011,
+      "name": "Muszyna"
+    },
+    {
+      "code": 121012,
+      "name": "Nawojowa"
+    },
+    {
+      "code": 121013,
+      "name": "Piwniczna-Zdrój"
+    },
+    {
+      "code": 121014,
+      "name": "Podegrodzie"
+    },
+    {
+      "code": 121015,
+      "name": "Rytro"
+    },
+    {
+      "code": 121016,
+      "name": "Stary Sącz"
+    },
+    {
+      "code": 121101,
+      "name": "Nowy Targ"
+    },
+    {
+      "code": 121102,
+      "name": "Szczawnica"
+    },
+    {
+      "code": 121103,
+      "name": "Czarny Dunajec"
+    },
+    {
+      "code": 121104,
+      "name": "Czorsztyn"
+    },
+    {
+      "code": 121105,
+      "name": "Jabłonka"
+    },
+    {
+      "code": 121106,
+      "name": "Krościenko nad Dunajcem"
+    },
+    {
+      "code": 121107,
+      "name": "Lipnica Wielka"
+    },
+    {
+      "code": 121108,
+      "name": "Łapsze Niżne"
+    },
+    {
+      "code": 121109,
+      "name": "Nowy Targ"
+    },
+    {
+      "code": 121110,
+      "name": "Ochotnica Dolna"
+    },
+    {
+      "code": 121111,
+      "name": "Raba Wyżna"
+    },
+    {
+      "code": 121112,
+      "name": "Rabka-Zdrój"
+    },
+    {
+      "code": 121113,
+      "name": "Spytkowice"
+    },
+    {
+      "code": 121114,
+      "name": "Szaflary"
+    },
+    {
+      "code": 121201,
+      "name": "Bukowno"
+    },
+    {
+      "code": 121203,
+      "name": "Bolesław"
+    },
+    {
+      "code": 121204,
+      "name": "Klucze"
+    },
+    {
+      "code": 121205,
+      "name": "Olkusz"
+    },
+    {
+      "code": 121206,
+      "name": "Trzyciąż"
+    },
+    {
+      "code": 121207,
+      "name": "Wolbrom"
+    },
+    {
+      "code": 121301,
+      "name": "Oświęcim"
+    },
+    {
+      "code": 121302,
+      "name": "Brzeszcze"
+    },
+    {
+      "code": 121303,
+      "name": "Chełmek"
+    },
+    {
+      "code": 121304,
+      "name": "Kęty"
+    },
+    {
+      "code": 121305,
+      "name": "Osiek"
+    },
+    {
+      "code": 121306,
+      "name": "Oświęcim"
+    },
+    {
+      "code": 121307,
+      "name": "Polanka Wielka"
+    },
+    {
+      "code": 121308,
+      "name": "Przeciszów"
+    },
+    {
+      "code": 121309,
+      "name": "Zator"
+    },
+    {
+      "code": 121401,
+      "name": "Koniusza"
+    },
+    {
+      "code": 121402,
+      "name": "Koszyce"
+    },
+    {
+      "code": 121403,
+      "name": "Nowe Brzesko"
+    },
+    {
+      "code": 121404,
+      "name": "Pałecznica"
+    },
+    {
+      "code": 121405,
+      "name": "Proszowice"
+    },
+    {
+      "code": 121406,
+      "name": "Radziemice"
+    },
+    {
+      "code": 121501,
+      "name": "Jordanów"
+    },
+    {
+      "code": 121502,
+      "name": "Sucha Beskidzka"
+    },
+    {
+      "code": 121503,
+      "name": "Budzów"
+    },
+    {
+      "code": 121504,
+      "name": "Bystra-Sidzina"
+    },
+    {
+      "code": 121505,
+      "name": "Jordanów"
+    },
+    {
+      "code": 121506,
+      "name": "Maków Podhalański"
+    },
+    {
+      "code": 121507,
+      "name": "Stryszawa"
+    },
+    {
+      "code": 121508,
+      "name": "Zawoja"
+    },
+    {
+      "code": 121509,
+      "name": "Zembrzyce"
+    },
+    {
+      "code": 121601,
+      "name": "Ciężkowice"
+    },
+    {
+      "code": 121602,
+      "name": "Gromnik"
+    },
+    {
+      "code": 121603,
+      "name": "Lisia Góra"
+    },
+    {
+      "code": 121604,
+      "name": "Pleśna"
+    },
+    {
+      "code": 121605,
+      "name": "Radłów"
+    },
+    {
+      "code": 121606,
+      "name": "Ryglice"
+    },
+    {
+      "code": 121607,
+      "name": "Rzepiennik Strzyżewski"
+    },
+    {
+      "code": 121608,
+      "name": "Skrzyszów"
+    },
+    {
+      "code": 121616,
+      "name": "Szerzyny"
+    },
+    {
+      "code": 121609,
+      "name": "Tarnów"
+    },
+    {
+      "code": 121610,
+      "name": "Tuchów"
+    },
+    {
+      "code": 121611,
+      "name": "Wierzchosławice"
+    },
+    {
+      "code": 121612,
+      "name": "Wietrzychowice"
+    },
+    {
+      "code": 121613,
+      "name": "Wojnicz"
+    },
+    {
+      "code": 121614,
+      "name": "Zakliczyn"
+    },
+    {
+      "code": 121615,
+      "name": "Żabno"
+    },
+    {
+      "code": 121701,
+      "name": "Zakopane"
+    },
+    {
+      "code": 121702,
+      "name": "Biały Dunajec"
+    },
+    {
+      "code": 121703,
+      "name": "Bukowina Tatrzańska"
+    },
+    {
+      "code": 121704,
+      "name": "Kościelisko"
+    },
+    {
+      "code": 121705,
+      "name": "Poronin"
+    },
+    {
+      "code": 121801,
+      "name": "Andrychów"
+    },
+    {
+      "code": 121802,
+      "name": "Brzeźnica"
+    },
+    {
+      "code": 121803,
+      "name": "Kalwaria Zebrzydowska"
+    },
+    {
+      "code": 121804,
+      "name": "Lanckorona"
+    },
+    {
+      "code": 121805,
+      "name": "Mucharz"
+    },
+    {
+      "code": 121806,
+      "name": "Spytkowice"
+    },
+    {
+      "code": 121807,
+      "name": "Stryszów"
+    },
+    {
+      "code": 121808,
+      "name": "Tomice"
+    },
+    {
+      "code": 121809,
+      "name": "Wadowice"
+    },
+    {
+      "code": 121810,
+      "name": "Wieprz"
+    },
+    {
+      "code": 121901,
+      "name": "Biskupice"
+    },
+    {
+      "code": 121902,
+      "name": "Gdów"
+    },
+    {
+      "code": 121903,
+      "name": "Kłaj"
+    },
+    {
+      "code": 121904,
+      "name": "Niepołomice"
+    },
+    {
+      "code": 121905,
+      "name": "Wieliczka"
+    },
+    {
+      "code": 126101,
+      "name": "Kraków"
+    },
+    {
+      "code": 126201,
+      "name": "Nowy Sącz"
+    },
+    {
+      "code": 126301,
+      "name": "Tarnów"
+    },
+    {
+      "code": 140101,
+      "name": "Białobrzegi"
+    },
+    {
+      "code": 140102,
+      "name": "Promna"
+    },
+    {
+      "code": 140103,
+      "name": "Radzanów"
+    },
+    {
+      "code": 140104,
+      "name": "Stara Błotnica"
+    },
+    {
+      "code": 140105,
+      "name": "Stromiec"
+    },
+    {
+      "code": 140106,
+      "name": "Wyśmierzyce"
+    },
+    {
+      "code": 140201,
+      "name": "Ciechanów"
+    },
+    {
+      "code": 140202,
+      "name": "Ciechanów"
+    },
+    {
+      "code": 140203,
+      "name": "Glinojeck"
+    },
+    {
+      "code": 140204,
+      "name": "Gołymin-Ośrodek"
+    },
+    {
+      "code": 140205,
+      "name": "Grudusk"
+    },
+    {
+      "code": 140206,
+      "name": "Ojrzeń"
+    },
+    {
+      "code": 140207,
+      "name": "Opinogóra Górna"
+    },
+    {
+      "code": 140208,
+      "name": "Regimin"
+    },
+    {
+      "code": 140209,
+      "name": "Sońsk"
+    },
+    {
+      "code": 140301,
+      "name": "Garwolin"
+    },
+    {
+      "code": 140302,
+      "name": "Łaskarzew"
+    },
+    {
+      "code": 140303,
+      "name": "Borowie"
+    },
+    {
+      "code": 140304,
+      "name": "Garwolin"
+    },
+    {
+      "code": 140305,
+      "name": "Górzno"
+    },
+    {
+      "code": 140306,
+      "name": "Łaskarzew"
+    },
+    {
+      "code": 140307,
+      "name": "Maciejowice"
+    },
+    {
+      "code": 140308,
+      "name": "Miastków Kościelny"
+    },
+    {
+      "code": 140309,
+      "name": "Parysów"
+    },
+    {
+      "code": 140310,
+      "name": "Pilawa"
+    },
+    {
+      "code": 140311,
+      "name": "Sobolew"
+    },
+    {
+      "code": 140312,
+      "name": "Trojanów"
+    },
+    {
+      "code": 140313,
+      "name": "Wilga"
+    },
+    {
+      "code": 140314,
+      "name": "Żelechów"
+    },
+    {
+      "code": 140401,
+      "name": "Gostynin"
+    },
+    {
+      "code": 140402,
+      "name": "Gostynin"
+    },
+    {
+      "code": 140403,
+      "name": "Pacyna"
+    },
+    {
+      "code": 140404,
+      "name": "Sanniki"
+    },
+    {
+      "code": 140405,
+      "name": "Szczawin Kościelny"
+    },
+    {
+      "code": 140501,
+      "name": "Milanówek"
+    },
+    {
+      "code": 140502,
+      "name": "Podkowa Leśna"
+    },
+    {
+      "code": 140503,
+      "name": "Baranów"
+    },
+    {
+      "code": 140504,
+      "name": "Grodzisk Mazowiecki"
+    },
+    {
+      "code": 140505,
+      "name": "Jaktorów"
+    },
+    {
+      "code": 140506,
+      "name": "Żabia Wola"
+    },
+    {
+      "code": 140601,
+      "name": "Belsk Duży"
+    },
+    {
+      "code": 140602,
+      "name": "Błędów"
+    },
+    {
+      "code": 140603,
+      "name": "Chynów"
+    },
+    {
+      "code": 140604,
+      "name": "Goszczyn"
+    },
+    {
+      "code": 140605,
+      "name": "Grójec"
+    },
+    {
+      "code": 140606,
+      "name": "Jasieniec"
+    },
+    {
+      "code": 140607,
+      "name": "Mogielnica"
+    },
+    {
+      "code": 140608,
+      "name": "Nowe Miasto nad Pilicą"
+    },
+    {
+      "code": 140609,
+      "name": "Pniewy"
+    },
+    {
+      "code": 140611,
+      "name": "Warka"
+    },
+    {
+      "code": 140701,
+      "name": "Garbatka-Letnisko"
+    },
+    {
+      "code": 140702,
+      "name": "Głowaczów"
+    },
+    {
+      "code": 140703,
+      "name": "Gniewoszów"
+    },
+    {
+      "code": 140704,
+      "name": "Grabów nad Pilicą"
+    },
+    {
+      "code": 140705,
+      "name": "Kozienice"
+    },
+    {
+      "code": 140706,
+      "name": "Magnuszew"
+    },
+    {
+      "code": 140707,
+      "name": "Sieciechów"
+    },
+    {
+      "code": 140801,
+      "name": "Legionowo"
+    },
+    {
+      "code": 140802,
+      "name": "Jabłonna"
+    },
+    {
+      "code": 140803,
+      "name": "Nieporęt"
+    },
+    {
+      "code": 140804,
+      "name": "Serock"
+    },
+    {
+      "code": 140805,
+      "name": "Wieliszew"
+    },
+    {
+      "code": 140901,
+      "name": "Chotcza"
+    },
+    {
+      "code": 140902,
+      "name": "Ciepielów"
+    },
+    {
+      "code": 140903,
+      "name": "Lipsko"
+    },
+    {
+      "code": 140904,
+      "name": "Rzeczniów"
+    },
+    {
+      "code": 140905,
+      "name": "Sienno"
+    },
+    {
+      "code": 140906,
+      "name": "Solec nad Wisłą"
+    },
+    {
+      "code": 141001,
+      "name": "Huszlew"
+    },
+    {
+      "code": 141002,
+      "name": "Łosice"
+    },
+    {
+      "code": 141003,
+      "name": "Olszanka"
+    },
+    {
+      "code": 141004,
+      "name": "Platerów"
+    },
+    {
+      "code": 141005,
+      "name": "Sarnaki"
+    },
+    {
+      "code": 141006,
+      "name": "Stara Kornica"
+    },
+    {
+      "code": 141101,
+      "name": "Maków Mazowiecki"
+    },
+    {
+      "code": 141102,
+      "name": "Czerwonka"
+    },
+    {
+      "code": 141103,
+      "name": "Karniewo"
+    },
+    {
+      "code": 141104,
+      "name": "Krasnosielc"
+    },
+    {
+      "code": 141105,
+      "name": "Młynarze"
+    },
+    {
+      "code": 141106,
+      "name": "Płoniawy-Bramura"
+    },
+    {
+      "code": 141107,
+      "name": "Różan"
+    },
+    {
+      "code": 141108,
+      "name": "Rzewnie"
+    },
+    {
+      "code": 141109,
+      "name": "Sypniewo"
+    },
+    {
+      "code": 141110,
+      "name": "Szelków"
+    },
+    {
+      "code": 141201,
+      "name": "Mińsk Mazowiecki"
+    },
+    {
+      "code": 141215,
+      "name": "Sulejówek"
+    },
+    {
+      "code": 141204,
+      "name": "Cegłów"
+    },
+    {
+      "code": 141205,
+      "name": "Dębe Wielkie"
+    },
+    {
+      "code": 141206,
+      "name": "Dobre"
+    },
+    {
+      "code": 141207,
+      "name": "Halinów"
+    },
+    {
+      "code": 141208,
+      "name": "Jakubów"
+    },
+    {
+      "code": 141209,
+      "name": "Kałuszyn"
+    },
+    {
+      "code": 141210,
+      "name": "Latowicz"
+    },
+    {
+      "code": 141211,
+      "name": "Mińsk Mazowiecki"
+    },
+    {
+      "code": 141212,
+      "name": "Mrozy"
+    },
+    {
+      "code": 141213,
+      "name": "Siennica"
+    },
+    {
+      "code": 141214,
+      "name": "Stanisławów"
+    },
+    {
+      "code": 141301,
+      "name": "Mława"
+    },
+    {
+      "code": 141302,
+      "name": "Dzierzgowo"
+    },
+    {
+      "code": 141303,
+      "name": "Lipowiec Kościelny"
+    },
+    {
+      "code": 141304,
+      "name": "Radzanów"
+    },
+    {
+      "code": 141305,
+      "name": "Strzegowo"
+    },
+    {
+      "code": 141306,
+      "name": "Stupsk"
+    },
+    {
+      "code": 141307,
+      "name": "Szreńsk"
+    },
+    {
+      "code": 141308,
+      "name": "Szydłowo"
+    },
+    {
+      "code": 141309,
+      "name": "Wieczfnia Kościelna"
+    },
+    {
+      "code": 141310,
+      "name": "Wiśniewo"
+    },
+    {
+      "code": 141401,
+      "name": "Nowy Dwór Mazowiecki"
+    },
+    {
+      "code": 141402,
+      "name": "Czosnów"
+    },
+    {
+      "code": 141403,
+      "name": "Leoncin"
+    },
+    {
+      "code": 141404,
+      "name": "Nasielsk"
+    },
+    {
+      "code": 141405,
+      "name": "Pomiechówek"
+    },
+    {
+      "code": 141406,
+      "name": "Zakroczym"
+    },
+    {
+      "code": 141501,
+      "name": "Baranowo"
+    },
+    {
+      "code": 141502,
+      "name": "Czarnia"
+    },
+    {
+      "code": 141503,
+      "name": "Czerwin"
+    },
+    {
+      "code": 141504,
+      "name": "Goworowo"
+    },
+    {
+      "code": 141505,
+      "name": "Kadzidło"
+    },
+    {
+      "code": 141506,
+      "name": "Lelis"
+    },
+    {
+      "code": 141507,
+      "name": "Łyse"
+    },
+    {
+      "code": 141508,
+      "name": "Myszyniec"
+    },
+    {
+      "code": 141509,
+      "name": "Olszewo-Borki"
+    },
+    {
+      "code": 141510,
+      "name": "Rzekuń"
+    },
+    {
+      "code": 141511,
+      "name": "Troszyn"
+    },
+    {
+      "code": 141601,
+      "name": "Ostrów Mazowiecka"
+    },
+    {
+      "code": 141602,
+      "name": "Andrzejewo"
+    },
+    {
+      "code": 141603,
+      "name": "Boguty-Pianki"
+    },
+    {
+      "code": 141604,
+      "name": "Brok"
+    },
+    {
+      "code": 141605,
+      "name": "Małkinia Górna"
+    },
+    {
+      "code": 141606,
+      "name": "Nur"
+    },
+    {
+      "code": 141607,
+      "name": "Ostrów Mazowiecka"
+    },
+    {
+      "code": 141608,
+      "name": "Stary Lubotyń"
+    },
+    {
+      "code": 141609,
+      "name": "Szulborze Wielkie"
+    },
+    {
+      "code": 141610,
+      "name": "Wąsewo"
+    },
+    {
+      "code": 141611,
+      "name": "Zaręby Kościelne"
+    },
+    {
+      "code": 141701,
+      "name": "Józefów"
+    },
+    {
+      "code": 141702,
+      "name": "Otwock"
+    },
+    {
+      "code": 141703,
+      "name": "Celestynów"
+    },
+    {
+      "code": 141704,
+      "name": "Karczew"
+    },
+    {
+      "code": 141705,
+      "name": "Kołbiel"
+    },
+    {
+      "code": 141706,
+      "name": "Osieck"
+    },
+    {
+      "code": 141707,
+      "name": "Sobienie-Jeziory"
+    },
+    {
+      "code": 141708,
+      "name": "Wiązowna"
+    },
+    {
+      "code": 141801,
+      "name": "Góra Kalwaria"
+    },
+    {
+      "code": 141802,
+      "name": "Konstancin-Jeziorna"
+    },
+    {
+      "code": 141803,
+      "name": "Lesznowola"
+    },
+    {
+      "code": 141804,
+      "name": "Piaseczno"
+    },
+    {
+      "code": 141805,
+      "name": "Prażmów"
+    },
+    {
+      "code": 141806,
+      "name": "Tarczyn"
+    },
+    {
+      "code": 141901,
+      "name": "Bielsk"
+    },
+    {
+      "code": 141902,
+      "name": "Bodzanów"
+    },
+    {
+      "code": 141903,
+      "name": "Brudzeń Duży"
+    },
+    {
+      "code": 141904,
+      "name": "Bulkowo"
+    },
+    {
+      "code": 141905,
+      "name": "Drobin"
+    },
+    {
+      "code": 141906,
+      "name": "Gąbin"
+    },
+    {
+      "code": 141907,
+      "name": "Łąck"
+    },
+    {
+      "code": 141908,
+      "name": "Mała Wieś"
+    },
+    {
+      "code": 141909,
+      "name": "Nowy Duninów"
+    },
+    {
+      "code": 141910,
+      "name": "Radzanowo"
+    },
+    {
+      "code": 141911,
+      "name": "Słubice"
+    },
+    {
+      "code": 141912,
+      "name": "Słupno"
+    },
+    {
+      "code": 141913,
+      "name": "Stara Biała"
+    },
+    {
+      "code": 141914,
+      "name": "Staroźreby"
+    },
+    {
+      "code": 141915,
+      "name": "Wyszogród"
+    },
+    {
+      "code": 142001,
+      "name": "Płońsk"
+    },
+    {
+      "code": 142002,
+      "name": "Raciąż"
+    },
+    {
+      "code": 142003,
+      "name": "Baboszewo"
+    },
+    {
+      "code": 142004,
+      "name": "Czerwińsk nad Wisłą"
+    },
+    {
+      "code": 142005,
+      "name": "Dzierzążnia"
+    },
+    {
+      "code": 142006,
+      "name": "Joniec"
+    },
+    {
+      "code": 142007,
+      "name": "Naruszewo"
+    },
+    {
+      "code": 142008,
+      "name": "Nowe Miasto"
+    },
+    {
+      "code": 142009,
+      "name": "Płońsk"
+    },
+    {
+      "code": 142010,
+      "name": "Raciąż"
+    },
+    {
+      "code": 142011,
+      "name": "Sochocin"
+    },
+    {
+      "code": 142012,
+      "name": "Załuski"
+    },
+    {
+      "code": 142101,
+      "name": "Piastów"
+    },
+    {
+      "code": 142102,
+      "name": "Pruszków"
+    },
+    {
+      "code": 142103,
+      "name": "Brwinów"
+    },
+    {
+      "code": 142104,
+      "name": "Michałowice"
+    },
+    {
+      "code": 142105,
+      "name": "Nadarzyn"
+    },
+    {
+      "code": 142106,
+      "name": "Raszyn"
+    },
+    {
+      "code": 142201,
+      "name": "Przasnysz"
+    },
+    {
+      "code": 142202,
+      "name": "Chorzele"
+    },
+    {
+      "code": 142203,
+      "name": "Czernice Borowe"
+    },
+    {
+      "code": 142204,
+      "name": "Jednorożec"
+    },
+    {
+      "code": 142205,
+      "name": "Krasne"
+    },
+    {
+      "code": 142206,
+      "name": "Krzynowłoga Mała"
+    },
+    {
+      "code": 142207,
+      "name": "Przasnysz"
+    },
+    {
+      "code": 142301,
+      "name": "Borkowice"
+    },
+    {
+      "code": 142302,
+      "name": "Gielniów"
+    },
+    {
+      "code": 142303,
+      "name": "Klwów"
+    },
+    {
+      "code": 142304,
+      "name": "Odrzywół"
+    },
+    {
+      "code": 142305,
+      "name": "Potworów"
+    },
+    {
+      "code": 142306,
+      "name": "Przysucha"
+    },
+    {
+      "code": 142307,
+      "name": "Rusinów"
+    },
+    {
+      "code": 142308,
+      "name": "Wieniawa"
+    },
+    {
+      "code": 142401,
+      "name": "Gzy"
+    },
+    {
+      "code": 142402,
+      "name": "Obryte"
+    },
+    {
+      "code": 142403,
+      "name": "Pokrzywnica"
+    },
+    {
+      "code": 142404,
+      "name": "Pułtusk"
+    },
+    {
+      "code": 142405,
+      "name": "Świercze"
+    },
+    {
+      "code": 142406,
+      "name": "Winnica"
+    },
+    {
+      "code": 142407,
+      "name": "Zatory"
+    },
+    {
+      "code": 142501,
+      "name": "Pionki"
+    },
+    {
+      "code": 142502,
+      "name": "Gózd"
+    },
+    {
+      "code": 142503,
+      "name": "Iłża"
+    },
+    {
+      "code": 142504,
+      "name": "Jastrzębia"
+    },
+    {
+      "code": 142505,
+      "name": "Jedlińsk"
+    },
+    {
+      "code": 142506,
+      "name": "Jedlnia-Letnisko"
+    },
+    {
+      "code": 142507,
+      "name": "Kowala"
+    },
+    {
+      "code": 142508,
+      "name": "Pionki"
+    },
+    {
+      "code": 142509,
+      "name": "Przytyk"
+    },
+    {
+      "code": 142510,
+      "name": "Skaryszew"
+    },
+    {
+      "code": 142511,
+      "name": "Wierzbica"
+    },
+    {
+      "code": 142512,
+      "name": "Wolanów"
+    },
+    {
+      "code": 142513,
+      "name": "Zakrzew"
+    },
+    {
+      "code": 142601,
+      "name": "Domanice"
+    },
+    {
+      "code": 142602,
+      "name": "Korczew"
+    },
+    {
+      "code": 142603,
+      "name": "Kotuń"
+    },
+    {
+      "code": 142604,
+      "name": "Mokobody"
+    },
+    {
+      "code": 142605,
+      "name": "Mordy"
+    },
+    {
+      "code": 142606,
+      "name": "Paprotnia"
+    },
+    {
+      "code": 142607,
+      "name": "Przesmyki"
+    },
+    {
+      "code": 142608,
+      "name": "Siedlce"
+    },
+    {
+      "code": 142609,
+      "name": "Skórzec"
+    },
+    {
+      "code": 142610,
+      "name": "Suchożebry"
+    },
+    {
+      "code": 142611,
+      "name": "Wiśniew"
+    },
+    {
+      "code": 142612,
+      "name": "Wodynie"
+    },
+    {
+      "code": 142613,
+      "name": "Zbuczyn Poduchowny"
+    },
+    {
+      "code": 142701,
+      "name": "Sierpc"
+    },
+    {
+      "code": 142702,
+      "name": "Gozdowo"
+    },
+    {
+      "code": 142703,
+      "name": "Mochowo"
+    },
+    {
+      "code": 142704,
+      "name": "Rościszewo"
+    },
+    {
+      "code": 142705,
+      "name": "Sierpc"
+    },
+    {
+      "code": 142706,
+      "name": "Szczutowo"
+    },
+    {
+      "code": 142707,
+      "name": "Zawidz"
+    },
+    {
+      "code": 142801,
+      "name": "Sochaczew"
+    },
+    {
+      "code": 142802,
+      "name": "Brochów"
+    },
+    {
+      "code": 142803,
+      "name": "Iłów"
+    },
+    {
+      "code": 142804,
+      "name": "Młodzieszyn"
+    },
+    {
+      "code": 142805,
+      "name": "Nowa Sucha"
+    },
+    {
+      "code": 142806,
+      "name": "Rybno"
+    },
+    {
+      "code": 142807,
+      "name": "Sochaczew"
+    },
+    {
+      "code": 142808,
+      "name": "Teresin"
+    },
+    {
+      "code": 142901,
+      "name": "Sokołów Podlaski"
+    },
+    {
+      "code": 142902,
+      "name": "Bielany"
+    },
+    {
+      "code": 142903,
+      "name": "Ceranów"
+    },
+    {
+      "code": 142904,
+      "name": "Jabłonna Lacka"
+    },
+    {
+      "code": 142905,
+      "name": "Kosów Lacki"
+    },
+    {
+      "code": 142906,
+      "name": "Repki"
+    },
+    {
+      "code": 142907,
+      "name": "Sabnie"
+    },
+    {
+      "code": 142908,
+      "name": "Sokołów Podlaski"
+    },
+    {
+      "code": 142909,
+      "name": "Sterdyń"
+    },
+    {
+      "code": 143001,
+      "name": "Chlewiska"
+    },
+    {
+      "code": 143002,
+      "name": "Jastrząb"
+    },
+    {
+      "code": 143003,
+      "name": "Mirów"
+    },
+    {
+      "code": 143004,
+      "name": "Orońsko"
+    },
+    {
+      "code": 143005,
+      "name": "Szydłowiec"
+    },
+    {
+      "code": 143201,
+      "name": "Błonie"
+    },
+    {
+      "code": 143202,
+      "name": "Izabelin"
+    },
+    {
+      "code": 143203,
+      "name": "Kampinos"
+    },
+    {
+      "code": 143204,
+      "name": "Leszno"
+    },
+    {
+      "code": 143205,
+      "name": "Łomianki"
+    },
+    {
+      "code": 143206,
+      "name": "Ożarów Mazowiecki"
+    },
+    {
+      "code": 143207,
+      "name": "Stare Babice"
+    },
+    {
+      "code": 143301,
+      "name": "Węgrów"
+    },
+    {
+      "code": 143302,
+      "name": "Grębków"
+    },
+    {
+      "code": 143303,
+      "name": "Korytnica"
+    },
+    {
+      "code": 143304,
+      "name": "Liw"
+    },
+    {
+      "code": 143305,
+      "name": "Łochów"
+    },
+    {
+      "code": 143306,
+      "name": "Miedzna"
+    },
+    {
+      "code": 143307,
+      "name": "Sadowne"
+    },
+    {
+      "code": 143308,
+      "name": "Stoczek"
+    },
+    {
+      "code": 143309,
+      "name": "Wierzbno"
+    },
+    {
+      "code": 143401,
+      "name": "Kobyłka"
+    },
+    {
+      "code": 143402,
+      "name": "Marki"
+    },
+    {
+      "code": 143403,
+      "name": "Ząbki"
+    },
+    {
+      "code": 143404,
+      "name": "Zielonka"
+    },
+    {
+      "code": 143405,
+      "name": "Dąbrówka"
+    },
+    {
+      "code": 143406,
+      "name": "Jadów"
+    },
+    {
+      "code": 143407,
+      "name": "Klembów"
+    },
+    {
+      "code": 143408,
+      "name": "Poświętne"
+    },
+    {
+      "code": 143409,
+      "name": "Radzymin"
+    },
+    {
+      "code": 143410,
+      "name": "Strachówka"
+    },
+    {
+      "code": 143411,
+      "name": "Tłuszcz"
+    },
+    {
+      "code": 143412,
+      "name": "Wołomin"
+    },
+    {
+      "code": 143501,
+      "name": "Brańszczyk"
+    },
+    {
+      "code": 143502,
+      "name": "Długosiodło"
+    },
+    {
+      "code": 143503,
+      "name": "Rząśnik"
+    },
+    {
+      "code": 143504,
+      "name": "Somianka"
+    },
+    {
+      "code": 143505,
+      "name": "Wyszków"
+    },
+    {
+      "code": 143506,
+      "name": "Zabrodzie"
+    },
+    {
+      "code": 143601,
+      "name": "Kazanów"
+    },
+    {
+      "code": 143602,
+      "name": "Policzna"
+    },
+    {
+      "code": 143603,
+      "name": "Przyłęk"
+    },
+    {
+      "code": 143604,
+      "name": "Tczów"
+    },
+    {
+      "code": 143605,
+      "name": "Zwoleń"
+    },
+    {
+      "code": 143701,
+      "name": "Bieżuń"
+    },
+    {
+      "code": 143702,
+      "name": "Kuczbork-Osada"
+    },
+    {
+      "code": 143703,
+      "name": "Lubowidz"
+    },
+    {
+      "code": 143704,
+      "name": "Lutocin"
+    },
+    {
+      "code": 143705,
+      "name": "Siemiątkowo Koziebrodzkie"
+    },
+    {
+      "code": 143706,
+      "name": "Żuromin"
+    },
+    {
+      "code": 143801,
+      "name": "Żyrardów"
+    },
+    {
+      "code": 143802,
+      "name": "Mszczonów"
+    },
+    {
+      "code": 143803,
+      "name": "Puszcza Mariańska"
+    },
+    {
+      "code": 143804,
+      "name": "Radziejowice"
+    },
+    {
+      "code": 143805,
+      "name": "Wiskitki"
+    },
+    {
+      "code": 146101,
+      "name": "Ostrołęka"
+    },
+    {
+      "code": 146201,
+      "name": "Płock"
+    },
+    {
+      "code": 146301,
+      "name": "Radom"
+    },
+    {
+      "code": 146401,
+      "name": "Siedlce"
+    },
+    {
+      "code": 146501,
+      "name": "st. Warszawa"
+    },
+    {
+      "code": 160101,
+      "name": "Brzeg"
+    },
+    {
+      "code": 160103,
+      "name": "Grodków"
+    },
+    {
+      "code": 160104,
+      "name": "Lewin Brzeski"
+    },
+    {
+      "code": 160105,
+      "name": "Lubsza"
+    },
+    {
+      "code": 160106,
+      "name": "Olszanka"
+    },
+    {
+      "code": 160102,
+      "name": "Skarbimierz"
+    },
+    {
+      "code": 160201,
+      "name": "Baborów"
+    },
+    {
+      "code": 160202,
+      "name": "Branice"
+    },
+    {
+      "code": 160203,
+      "name": "Głubczyce"
+    },
+    {
+      "code": 160204,
+      "name": "Kietrz"
+    },
+    {
+      "code": 160301,
+      "name": "Kędzierzyn-Koźle"
+    },
+    {
+      "code": 160302,
+      "name": "Bierawa"
+    },
+    {
+      "code": 160303,
+      "name": "Cisek"
+    },
+    {
+      "code": 160304,
+      "name": "Pawłowiczki"
+    },
+    {
+      "code": 160305,
+      "name": "Polska Cerekiew"
+    },
+    {
+      "code": 160306,
+      "name": "Reńska Wieś"
+    },
+    {
+      "code": 160401,
+      "name": "Byczyna"
+    },
+    {
+      "code": 160402,
+      "name": "Kluczbork"
+    },
+    {
+      "code": 160403,
+      "name": "Lasowice Wielkie"
+    },
+    {
+      "code": 160404,
+      "name": "Wołczyn"
+    },
+    {
+      "code": 160501,
+      "name": "Gogolin"
+    },
+    {
+      "code": 160502,
+      "name": "Krapkowice"
+    },
+    {
+      "code": 160503,
+      "name": "Strzeleczki"
+    },
+    {
+      "code": 160504,
+      "name": "Walce"
+    },
+    {
+      "code": 160505,
+      "name": "Zdzieszowice"
+    },
+    {
+      "code": 160601,
+      "name": "Domaszowice"
+    },
+    {
+      "code": 160602,
+      "name": "Namysłów"
+    },
+    {
+      "code": 160603,
+      "name": "Pokój"
+    },
+    {
+      "code": 160604,
+      "name": "Świerczów"
+    },
+    {
+      "code": 160605,
+      "name": "Wilków"
+    },
+    {
+      "code": 160701,
+      "name": "Głuchołazy"
+    },
+    {
+      "code": 160702,
+      "name": "Kamiennik"
+    },
+    {
+      "code": 160703,
+      "name": "Korfantów"
+    },
+    {
+      "code": 160704,
+      "name": "Łambinowice"
+    },
+    {
+      "code": 160705,
+      "name": "Nysa"
+    },
+    {
+      "code": 160706,
+      "name": "Otmuchów"
+    },
+    {
+      "code": 160707,
+      "name": "Paczków"
+    },
+    {
+      "code": 160708,
+      "name": "Pakosławice"
+    },
+    {
+      "code": 160709,
+      "name": "Skoroszyce"
+    },
+    {
+      "code": 160801,
+      "name": "Dobrodzień"
+    },
+    {
+      "code": 160802,
+      "name": "Gorzów Śląski"
+    },
+    {
+      "code": 160803,
+      "name": "Olesno"
+    },
+    {
+      "code": 160804,
+      "name": "Praszka"
+    },
+    {
+      "code": 160805,
+      "name": "Radłów"
+    },
+    {
+      "code": 160806,
+      "name": "Rudniki"
+    },
+    {
+      "code": 160807,
+      "name": "Zębowice"
+    },
+    {
+      "code": 160901,
+      "name": "Chrząstowice"
+    },
+    {
+      "code": 160902,
+      "name": "Dąbrowa"
+    },
+    {
+      "code": 160903,
+      "name": "Dobrzeń Wielki"
+    },
+    {
+      "code": 160904,
+      "name": "Komprachcice"
+    },
+    {
+      "code": 160905,
+      "name": "Łubniany"
+    },
+    {
+      "code": 160906,
+      "name": "Murów"
+    },
+    {
+      "code": 160907,
+      "name": "Niemodlin"
+    },
+    {
+      "code": 160908,
+      "name": "Ozimek"
+    },
+    {
+      "code": 160909,
+      "name": "Popielów"
+    },
+    {
+      "code": 160910,
+      "name": "Prószków"
+    },
+    {
+      "code": 160911,
+      "name": "Tarnów Opolski"
+    },
+    {
+      "code": 160912,
+      "name": "Tułowice"
+    },
+    {
+      "code": 160913,
+      "name": "Turawa"
+    },
+    {
+      "code": 161001,
+      "name": "Biała"
+    },
+    {
+      "code": 161002,
+      "name": "Głogówek"
+    },
+    {
+      "code": 161003,
+      "name": "Lubrza"
+    },
+    {
+      "code": 161004,
+      "name": "Prudnik"
+    },
+    {
+      "code": 161101,
+      "name": "Izbicko"
+    },
+    {
+      "code": 161102,
+      "name": "Jemielnica"
+    },
+    {
+      "code": 161103,
+      "name": "Kolonowskie"
+    },
+    {
+      "code": 161104,
+      "name": "Leśnica"
+    },
+    {
+      "code": 161105,
+      "name": "Strzelce Opolskie"
+    },
+    {
+      "code": 161106,
+      "name": "Ujazd"
+    },
+    {
+      "code": 161107,
+      "name": "Zawadzkie"
+    },
+    {
+      "code": 166101,
+      "name": "Opole"
+    },
+    {
+      "code": 180103,
+      "name": "Czarna"
+    },
+    {
+      "code": 180105,
+      "name": "Lutowiska"
+    },
+    {
+      "code": 180108,
+      "name": "Ustrzyki Dolne"
+    },
+    {
+      "code": 180201,
+      "name": "Brzozów"
+    },
+    {
+      "code": 180202,
+      "name": "Domaradz"
+    },
+    {
+      "code": 180203,
+      "name": "Dydnia"
+    },
+    {
+      "code": 180204,
+      "name": "Haczów"
+    },
+    {
+      "code": 180205,
+      "name": "Jasienica Rosielna"
+    },
+    {
+      "code": 180206,
+      "name": "Nozdrzec"
+    },
+    {
+      "code": 180301,
+      "name": "Dębica"
+    },
+    {
+      "code": 180302,
+      "name": "Brzostek"
+    },
+    {
+      "code": 180303,
+      "name": "Czarna"
+    },
+    {
+      "code": 180304,
+      "name": "Dębica"
+    },
+    {
+      "code": 180305,
+      "name": "Jodłowa"
+    },
+    {
+      "code": 180306,
+      "name": "Pilzno"
+    },
+    {
+      "code": 180307,
+      "name": "Żyraków"
+    },
+    {
+      "code": 180401,
+      "name": "Jarosław"
+    },
+    {
+      "code": 180402,
+      "name": "Radymno"
+    },
+    {
+      "code": 180403,
+      "name": "Chłopice"
+    },
+    {
+      "code": 180404,
+      "name": "Jarosław"
+    },
+    {
+      "code": 180405,
+      "name": "Laszki"
+    },
+    {
+      "code": 180406,
+      "name": "Pawłosiów"
+    },
+    {
+      "code": 180407,
+      "name": "Pruchnik"
+    },
+    {
+      "code": 180408,
+      "name": "Radymno"
+    },
+    {
+      "code": 180409,
+      "name": "Rokietnica"
+    },
+    {
+      "code": 180410,
+      "name": "Roźwienica"
+    },
+    {
+      "code": 180411,
+      "name": "Wiązownica"
+    },
+    {
+      "code": 180501,
+      "name": "Jasło"
+    },
+    {
+      "code": 180502,
+      "name": "Brzyska"
+    },
+    {
+      "code": 180503,
+      "name": "Dębowiec"
+    },
+    {
+      "code": 180504,
+      "name": "Jasło"
+    },
+    {
+      "code": 180505,
+      "name": "Kołaczyce"
+    },
+    {
+      "code": 180506,
+      "name": "Krempna"
+    },
+    {
+      "code": 180507,
+      "name": "Nowy Żmigród"
+    },
+    {
+      "code": 180508,
+      "name": "Osiek Jasielski"
+    },
+    {
+      "code": 180509,
+      "name": "Skołyszyn"
+    },
+    {
+      "code": 180511,
+      "name": "Tarnowiec"
+    },
+    {
+      "code": 180601,
+      "name": "Cmolas"
+    },
+    {
+      "code": 180606,
+      "name": "Dzikowiec"
+    },
+    {
+      "code": 180602,
+      "name": "Kolbuszowa"
+    },
+    {
+      "code": 180603,
+      "name": "Majdan Królewski"
+    },
+    {
+      "code": 180604,
+      "name": "Niwiska"
+    },
+    {
+      "code": 180605,
+      "name": "Raniżów"
+    },
+    {
+      "code": 180701,
+      "name": "Chorkówka"
+    },
+    {
+      "code": 180702,
+      "name": "Dukla"
+    },
+    {
+      "code": 180703,
+      "name": "Iwonicz-Zdrój"
+    },
+    {
+      "code": 180704,
+      "name": "Jedlicze"
+    },
+    {
+      "code": 180705,
+      "name": "Korczyna"
+    },
+    {
+      "code": 180706,
+      "name": "Krościenko Wyżne"
+    },
+    {
+      "code": 180707,
+      "name": "Miejsce Piastowe"
+    },
+    {
+      "code": 180708,
+      "name": "Rymanów"
+    },
+    {
+      "code": 180709,
+      "name": "Wojaszówka"
+    },
+    {
+      "code": 182101,
+      "name": "Baligród"
+    },
+    {
+      "code": 182102,
+      "name": "Cisna"
+    },
+    {
+      "code": 182103,
+      "name": "Lesko"
+    },
+    {
+      "code": 182104,
+      "name": "Olszanica"
+    },
+    {
+      "code": 182105,
+      "name": "Solina"
+    },
+    {
+      "code": 180801,
+      "name": "Leżajsk"
+    },
+    {
+      "code": 180802,
+      "name": "Grodzisko Dolne"
+    },
+    {
+      "code": 180803,
+      "name": "Kuryłówka"
+    },
+    {
+      "code": 180804,
+      "name": "Leżajsk"
+    },
+    {
+      "code": 180805,
+      "name": "Nowa Sarzyna"
+    },
+    {
+      "code": 180901,
+      "name": "Lubaczów"
+    },
+    {
+      "code": 180902,
+      "name": "Cieszanów"
+    },
+    {
+      "code": 180903,
+      "name": "Horyniec-Zdrój"
+    },
+    {
+      "code": 180904,
+      "name": "Lubaczów"
+    },
+    {
+      "code": 180905,
+      "name": "Narol"
+    },
+    {
+      "code": 180906,
+      "name": "Oleszyce"
+    },
+    {
+      "code": 180907,
+      "name": "Stary Dzików"
+    },
+    {
+      "code": 180908,
+      "name": "Wielkie Oczy"
+    },
+    {
+      "code": 181001,
+      "name": "Łańcut"
+    },
+    {
+      "code": 181002,
+      "name": "Białobrzegi"
+    },
+    {
+      "code": 181003,
+      "name": "Czarna"
+    },
+    {
+      "code": 181004,
+      "name": "Łańcut"
+    },
+    {
+      "code": 181005,
+      "name": "Markowa"
+    },
+    {
+      "code": 181006,
+      "name": "Rakszawa"
+    },
+    {
+      "code": 181007,
+      "name": "Żołynia"
+    },
+    {
+      "code": 181101,
+      "name": "Mielec"
+    },
+    {
+      "code": 181102,
+      "name": "Borowa"
+    },
+    {
+      "code": 181103,
+      "name": "Czermin"
+    },
+    {
+      "code": 181104,
+      "name": "Gawłuszowice"
+    },
+    {
+      "code": 181105,
+      "name": "Mielec"
+    },
+    {
+      "code": 181106,
+      "name": "Padew Narodowa"
+    },
+    {
+      "code": 181107,
+      "name": "Przecław"
+    },
+    {
+      "code": 181108,
+      "name": "Radomyśl Wielki"
+    },
+    {
+      "code": 181109,
+      "name": "Tuszów Narodowy"
+    },
+    {
+      "code": 181110,
+      "name": "Wadowice Górne"
+    },
+    {
+      "code": 181201,
+      "name": "Harasiuki"
+    },
+    {
+      "code": 181202,
+      "name": "Jarocin"
+    },
+    {
+      "code": 181203,
+      "name": "Jeżowe"
+    },
+    {
+      "code": 181204,
+      "name": "Krzeszów"
+    },
+    {
+      "code": 181205,
+      "name": "Nisko"
+    },
+    {
+      "code": 181206,
+      "name": "Rudnik nad Sanem"
+    },
+    {
+      "code": 181207,
+      "name": "Ulanów"
+    },
+    {
+      "code": 181301,
+      "name": "Bircza"
+    },
+    {
+      "code": 181302,
+      "name": "Dubiecko"
+    },
+    {
+      "code": 181303,
+      "name": "Fredropol"
+    },
+    {
+      "code": 181304,
+      "name": "Krasiczyn"
+    },
+    {
+      "code": 181305,
+      "name": "Krzywcza"
+    },
+    {
+      "code": 181306,
+      "name": "Medyka"
+    },
+    {
+      "code": 181307,
+      "name": "Orły"
+    },
+    {
+      "code": 181308,
+      "name": "Przemyśl"
+    },
+    {
+      "code": 181309,
+      "name": "Stubno"
+    },
+    {
+      "code": 181310,
+      "name": "Żurawica"
+    },
+    {
+      "code": 181401,
+      "name": "Przeworsk"
+    },
+    {
+      "code": 181402,
+      "name": "Adamówka"
+    },
+    {
+      "code": 181403,
+      "name": "Gać"
+    },
+    {
+      "code": 181404,
+      "name": "Jawornik Polski"
+    },
+    {
+      "code": 181405,
+      "name": "Kańczuga"
+    },
+    {
+      "code": 181406,
+      "name": "Przeworsk"
+    },
+    {
+      "code": 181407,
+      "name": "Sieniawa"
+    },
+    {
+      "code": 181408,
+      "name": "Tryńcza"
+    },
+    {
+      "code": 181409,
+      "name": "Zarzecze"
+    },
+    {
+      "code": 181501,
+      "name": "Iwierzyce"
+    },
+    {
+      "code": 181502,
+      "name": "Ostrów"
+    },
+    {
+      "code": 181503,
+      "name": "Ropczyce"
+    },
+    {
+      "code": 181504,
+      "name": "Sędziszów Małopolski"
+    },
+    {
+      "code": 181505,
+      "name": "Wielopole Skrzyńskie"
+    },
+    {
+      "code": 181601,
+      "name": "Dynów"
+    },
+    {
+      "code": 181602,
+      "name": "Błażowa"
+    },
+    {
+      "code": 181603,
+      "name": "Boguchwała"
+    },
+    {
+      "code": 181604,
+      "name": "Chmielnik"
+    },
+    {
+      "code": 181605,
+      "name": "Dynów"
+    },
+    {
+      "code": 181606,
+      "name": "Głogów Małopolski"
+    },
+    {
+      "code": 181607,
+      "name": "Hyżne"
+    },
+    {
+      "code": 181608,
+      "name": "Kamień"
+    },
+    {
+      "code": 181609,
+      "name": "Krasne"
+    },
+    {
+      "code": 181610,
+      "name": "Lubenia"
+    },
+    {
+      "code": 181611,
+      "name": "Sokołów Małopolski"
+    },
+    {
+      "code": 181612,
+      "name": "Świlcza"
+    },
+    {
+      "code": 181613,
+      "name": "Trzebownisko"
+    },
+    {
+      "code": 181614,
+      "name": "Tyczyn"
+    },
+    {
+      "code": 181701,
+      "name": "Sanok"
+    },
+    {
+      "code": 181702,
+      "name": "Besko"
+    },
+    {
+      "code": 181703,
+      "name": "Bukowsko"
+    },
+    {
+      "code": 181704,
+      "name": "Komańcza"
+    },
+    {
+      "code": 181705,
+      "name": "Sanok"
+    },
+    {
+      "code": 181706,
+      "name": "Tyrawa Wołoska"
+    },
+    {
+      "code": 181707,
+      "name": "Zagórz"
+    },
+    {
+      "code": 181708,
+      "name": "Zarszyn"
+    },
+    {
+      "code": 181801,
+      "name": "Stalowa Wola"
+    },
+    {
+      "code": 181802,
+      "name": "Bojanów"
+    },
+    {
+      "code": 181803,
+      "name": "Pysznica"
+    },
+    {
+      "code": 181804,
+      "name": "Radomyśl nad Sanem"
+    },
+    {
+      "code": 181805,
+      "name": "Zaklików"
+    },
+    {
+      "code": 181806,
+      "name": "Zaleszany"
+    },
+    {
+      "code": 181901,
+      "name": "Czudec"
+    },
+    {
+      "code": 181902,
+      "name": "Frysztak"
+    },
+    {
+      "code": 181903,
+      "name": "Niebylec"
+    },
+    {
+      "code": 181904,
+      "name": "Strzyżów"
+    },
+    {
+      "code": 181905,
+      "name": "Wiśniowa"
+    },
+    {
+      "code": 182001,
+      "name": "Baranów Sandomierski"
+    },
+    {
+      "code": 182002,
+      "name": "Gorzyce"
+    },
+    {
+      "code": 182003,
+      "name": "Grębów"
+    },
+    {
+      "code": 182004,
+      "name": "Nowa Dęba"
+    },
+    {
+      "code": 186101,
+      "name": "Krosno"
+    },
+    {
+      "code": 186201,
+      "name": "Przemyśl"
+    },
+    {
+      "code": 186301,
+      "name": "Rzeszów"
+    },
+    {
+      "code": 186401,
+      "name": "Tarnobrzeg"
+    },
+    {
+      "code": 200101,
+      "name": "Augustów"
+    },
+    {
+      "code": 200102,
+      "name": "Augustów"
+    },
+    {
+      "code": 200103,
+      "name": "Bargłów Kościelny"
+    },
+    {
+      "code": 200104,
+      "name": "Lipsk"
+    },
+    {
+      "code": 200105,
+      "name": "Nowinka"
+    },
+    {
+      "code": 200106,
+      "name": "Płaska"
+    },
+    {
+      "code": 200107,
+      "name": "Sztabin"
+    },
+    {
+      "code": 200201,
+      "name": "Choroszcz"
+    },
+    {
+      "code": 200202,
+      "name": "Czarna Białostocka"
+    },
+    {
+      "code": 200203,
+      "name": "Dobrzyniewo Duże"
+    },
+    {
+      "code": 200204,
+      "name": "Gródek"
+    },
+    {
+      "code": 200205,
+      "name": "Juchnowiec Kościelny"
+    },
+    {
+      "code": 200206,
+      "name": "Łapy"
+    },
+    {
+      "code": 200207,
+      "name": "Michałowo"
+    },
+    {
+      "code": 200208,
+      "name": "Poświętne"
+    },
+    {
+      "code": 200209,
+      "name": "Supraśl"
+    },
+    {
+      "code": 200210,
+      "name": "Suraż"
+    },
+    {
+      "code": 200211,
+      "name": "Turośń Kościelna"
+    },
+    {
+      "code": 200212,
+      "name": "Tykocin"
+    },
+    {
+      "code": 200213,
+      "name": "Wasilków"
+    },
+    {
+      "code": 200214,
+      "name": "Zabłudów"
+    },
+    {
+      "code": 200215,
+      "name": "Zawady"
+    },
+    {
+      "code": 200301,
+      "name": "Bielsk Podlaski"
+    },
+    {
+      "code": 200302,
+      "name": "Brańsk"
+    },
+    {
+      "code": 200303,
+      "name": "Bielsk Podlaski"
+    },
+    {
+      "code": 200304,
+      "name": "Boćki"
+    },
+    {
+      "code": 200305,
+      "name": "Brańsk"
+    },
+    {
+      "code": 200306,
+      "name": "Orla"
+    },
+    {
+      "code": 200307,
+      "name": "Rudka"
+    },
+    {
+      "code": 200308,
+      "name": "Wyszki"
+    },
+    {
+      "code": 200401,
+      "name": "Grajewo"
+    },
+    {
+      "code": 200402,
+      "name": "Grajewo"
+    },
+    {
+      "code": 200403,
+      "name": "Radziłów"
+    },
+    {
+      "code": 200404,
+      "name": "Rajgród"
+    },
+    {
+      "code": 200405,
+      "name": "Szczuczyn"
+    },
+    {
+      "code": 200406,
+      "name": "Wąsosz"
+    },
+    {
+      "code": 200501,
+      "name": "Hajnówka"
+    },
+    {
+      "code": 200502,
+      "name": "Białowieża"
+    },
+    {
+      "code": 200503,
+      "name": "Czeremcha"
+    },
+    {
+      "code": 200504,
+      "name": "Czyże"
+    },
+    {
+      "code": 200505,
+      "name": "Dubicze Cerkiewne"
+    },
+    {
+      "code": 200506,
+      "name": "Hajnówka"
+    },
+    {
+      "code": 200507,
+      "name": "Kleszczele"
+    },
+    {
+      "code": 200508,
+      "name": "Narew"
+    },
+    {
+      "code": 200509,
+      "name": "Narewka"
+    },
+    {
+      "code": 200601,
+      "name": "Kolno"
+    },
+    {
+      "code": 200602,
+      "name": "Grabowo"
+    },
+    {
+      "code": 200603,
+      "name": "Kolno"
+    },
+    {
+      "code": 200604,
+      "name": "Mały Płock"
+    },
+    {
+      "code": 200605,
+      "name": "Stawiski"
+    },
+    {
+      "code": 200606,
+      "name": "Turośl"
+    },
+    {
+      "code": 200701,
+      "name": "Jedwabne"
+    },
+    {
+      "code": 200702,
+      "name": "Łomża"
+    },
+    {
+      "code": 200703,
+      "name": "Miastkowo"
+    },
+    {
+      "code": 200704,
+      "name": "Nowogród"
+    },
+    {
+      "code": 200705,
+      "name": "Piątnica"
+    },
+    {
+      "code": 200706,
+      "name": "Przytuły"
+    },
+    {
+      "code": 200707,
+      "name": "Śniadowo"
+    },
+    {
+      "code": 200708,
+      "name": "Wizna"
+    },
+    {
+      "code": 200709,
+      "name": "Zbójna"
+    },
+    {
+      "code": 200801,
+      "name": "Goniądz"
+    },
+    {
+      "code": 200802,
+      "name": "Jasionówka"
+    },
+    {
+      "code": 200803,
+      "name": "Jaświły"
+    },
+    {
+      "code": 200804,
+      "name": "Knyszyn"
+    },
+    {
+      "code": 200805,
+      "name": "Krypno"
+    },
+    {
+      "code": 200806,
+      "name": "Mońki"
+    },
+    {
+      "code": 200807,
+      "name": "Trzcianne"
+    },
+    {
+      "code": 200901,
+      "name": "Sejny"
+    },
+    {
+      "code": 200902,
+      "name": "Giby"
+    },
+    {
+      "code": 200903,
+      "name": "Krasnopol"
+    },
+    {
+      "code": 200904,
+      "name": "Puńsk"
+    },
+    {
+      "code": 200905,
+      "name": "Sejny"
+    },
+    {
+      "code": 201001,
+      "name": "Siemiatycze"
+    },
+    {
+      "code": 201002,
+      "name": "Drohiczyn"
+    },
+    {
+      "code": 201003,
+      "name": "Dziadkowice"
+    },
+    {
+      "code": 201004,
+      "name": "Grodzisk"
+    },
+    {
+      "code": 201005,
+      "name": "Mielnik"
+    },
+    {
+      "code": 201006,
+      "name": "Milejczyce"
+    },
+    {
+      "code": 201007,
+      "name": "Nurzec-Stacja"
+    },
+    {
+      "code": 201008,
+      "name": "Perlejewo"
+    },
+    {
+      "code": 201009,
+      "name": "Siemiatycze"
+    },
+    {
+      "code": 201101,
+      "name": "Dąbrowa Białostocka"
+    },
+    {
+      "code": 201102,
+      "name": "Janów"
+    },
+    {
+      "code": 201103,
+      "name": "Korycin"
+    },
+    {
+      "code": 201104,
+      "name": "Krynki"
+    },
+    {
+      "code": 201105,
+      "name": "Kuźnica"
+    },
+    {
+      "code": 201106,
+      "name": "Nowy Dwór"
+    },
+    {
+      "code": 201107,
+      "name": "Sidra"
+    },
+    {
+      "code": 201108,
+      "name": "Sokółka"
+    },
+    {
+      "code": 201109,
+      "name": "Suchowola"
+    },
+    {
+      "code": 201110,
+      "name": "Szudziałowo"
+    },
+    {
+      "code": 201201,
+      "name": "Bakałarzewo"
+    },
+    {
+      "code": 201202,
+      "name": "Filipów"
+    },
+    {
+      "code": 201203,
+      "name": "Jeleniewo"
+    },
+    {
+      "code": 201204,
+      "name": "Przerośl"
+    },
+    {
+      "code": 201205,
+      "name": "Raczki"
+    },
+    {
+      "code": 201206,
+      "name": "Rutka-Tartak"
+    },
+    {
+      "code": 201207,
+      "name": "Suwałki"
+    },
+    {
+      "code": 201208,
+      "name": "Szypliszki"
+    },
+    {
+      "code": 201209,
+      "name": "Wiżajny"
+    },
+    {
+      "code": 201301,
+      "name": "Wysokie Mazowieckie"
+    },
+    {
+      "code": 201302,
+      "name": "Ciechanowiec"
+    },
+    {
+      "code": 201303,
+      "name": "Czyżew-Osada"
+    },
+    {
+      "code": 201304,
+      "name": "Klukowo"
+    },
+    {
+      "code": 201305,
+      "name": "Kobylin-Borzymy"
+    },
+    {
+      "code": 201306,
+      "name": "Kulesze Kościelne"
+    },
+    {
+      "code": 201307,
+      "name": "Nowe Piekuty"
+    },
+    {
+      "code": 201308,
+      "name": "Sokoły"
+    },
+    {
+      "code": 201309,
+      "name": "Szepietowo"
+    },
+    {
+      "code": 201310,
+      "name": "Wysokie Mazowieckie"
+    },
+    {
+      "code": 201401,
+      "name": "Zambrów"
+    },
+    {
+      "code": 201402,
+      "name": "Kołaki Kościelne"
+    },
+    {
+      "code": 201403,
+      "name": "Rutki"
+    },
+    {
+      "code": 201404,
+      "name": "Szumowo"
+    },
+    {
+      "code": 201405,
+      "name": "Zambrów"
+    },
+    {
+      "code": 206101,
+      "name": "Białystok"
+    },
+    {
+      "code": 206201,
+      "name": "Łomża"
+    },
+    {
+      "code": 206301,
+      "name": "Suwałki"
+    },
+    {
+      "code": 220101,
+      "name": "Borzytuchom"
+    },
+    {
+      "code": 220102,
+      "name": "Bytów"
+    },
+    {
+      "code": 220103,
+      "name": "Czarna Dąbrówka"
+    },
+    {
+      "code": 220104,
+      "name": "Kołczygłowy"
+    },
+    {
+      "code": 220105,
+      "name": "Lipnica"
+    },
+    {
+      "code": 220106,
+      "name": "Miastko"
+    },
+    {
+      "code": 220107,
+      "name": "Parchowo"
+    },
+    {
+      "code": 220108,
+      "name": "Studzienice"
+    },
+    {
+      "code": 220109,
+      "name": "Trzebielino"
+    },
+    {
+      "code": 220110,
+      "name": "Tuchomie"
+    },
+    {
+      "code": 220201,
+      "name": "Chojnice"
+    },
+    {
+      "code": 220202,
+      "name": "Brusy"
+    },
+    {
+      "code": 220203,
+      "name": "Chojnice"
+    },
+    {
+      "code": 220204,
+      "name": "Czersk"
+    },
+    {
+      "code": 220205,
+      "name": "Konarzyny"
+    },
+    {
+      "code": 220301,
+      "name": "Człuchów"
+    },
+    {
+      "code": 220302,
+      "name": "Czarne"
+    },
+    {
+      "code": 220303,
+      "name": "Człuchów"
+    },
+    {
+      "code": 220304,
+      "name": "Debrzno"
+    },
+    {
+      "code": 220305,
+      "name": "Koczała"
+    },
+    {
+      "code": 220306,
+      "name": "Przechlewo"
+    },
+    {
+      "code": 220307,
+      "name": "Rzeczenica"
+    },
+    {
+      "code": 220401,
+      "name": "Pruszcz Gdański"
+    },
+    {
+      "code": 220402,
+      "name": "Cedry Wielkie"
+    },
+    {
+      "code": 220403,
+      "name": "Kolbudy"
+    },
+    {
+      "code": 220404,
+      "name": "Pruszcz Gdański"
+    },
+    {
+      "code": 220405,
+      "name": "Przywidz"
+    },
+    {
+      "code": 220406,
+      "name": "Pszczółki"
+    },
+    {
+      "code": 220407,
+      "name": "Suchy Dąb"
+    },
+    {
+      "code": 220408,
+      "name": "Trąbki Wielkie"
+    },
+    {
+      "code": 220501,
+      "name": "Chmielno"
+    },
+    {
+      "code": 220502,
+      "name": "Kartuzy"
+    },
+    {
+      "code": 220503,
+      "name": "Przodkowo"
+    },
+    {
+      "code": 220504,
+      "name": "Sierakowice"
+    },
+    {
+      "code": 220505,
+      "name": "Somonino"
+    },
+    {
+      "code": 220506,
+      "name": "Stężyca"
+    },
+    {
+      "code": 220507,
+      "name": "Sulęczyno"
+    },
+    {
+      "code": 220508,
+      "name": "Żukowo"
+    },
+    {
+      "code": 220601,
+      "name": "Kościerzyna"
+    },
+    {
+      "code": 220602,
+      "name": "Dziemiany"
+    },
+    {
+      "code": 220603,
+      "name": "Karsin"
+    },
+    {
+      "code": 220604,
+      "name": "Kościerzyna"
+    },
+    {
+      "code": 220605,
+      "name": "Liniewo"
+    },
+    {
+      "code": 220606,
+      "name": "Lipusz"
+    },
+    {
+      "code": 220607,
+      "name": "Nowa Karczma"
+    },
+    {
+      "code": 220608,
+      "name": "Stara Kiszewa"
+    },
+    {
+      "code": 220701,
+      "name": "Kwidzyn"
+    },
+    {
+      "code": 220702,
+      "name": "Gardeja"
+    },
+    {
+      "code": 220703,
+      "name": "Kwidzyn"
+    },
+    {
+      "code": 220704,
+      "name": "Prabuty"
+    },
+    {
+      "code": 220705,
+      "name": "Ryjewo"
+    },
+    {
+      "code": 220706,
+      "name": "Sadlinki"
+    },
+    {
+      "code": 220801,
+      "name": "Lębork"
+    },
+    {
+      "code": 220802,
+      "name": "Łeba"
+    },
+    {
+      "code": 220803,
+      "name": "Cewice"
+    },
+    {
+      "code": 220804,
+      "name": "Nowa Wieś Lęborska"
+    },
+    {
+      "code": 220805,
+      "name": "Wicko"
+    },
+    {
+      "code": 220901,
+      "name": "Malbork"
+    },
+    {
+      "code": 220903,
+      "name": "Lichnowy"
+    },
+    {
+      "code": 220904,
+      "name": "Malbork"
+    },
+    {
+      "code": 220906,
+      "name": "Miłoradz"
+    },
+    {
+      "code": 220907,
+      "name": "Nowy Staw"
+    },
+    {
+      "code": 220908,
+      "name": "Stare Pole"
+    },
+    {
+      "code": 221001,
+      "name": "Krynica Morska"
+    },
+    {
+      "code": 221002,
+      "name": "Nowy Dwór Gdański"
+    },
+    {
+      "code": 221003,
+      "name": "Ostaszewo"
+    },
+    {
+      "code": 221004,
+      "name": "Stegna"
+    },
+    {
+      "code": 221005,
+      "name": "Sztutowo"
+    },
+    {
+      "code": 221101,
+      "name": "Hel"
+    },
+    {
+      "code": 221102,
+      "name": "Jastarnia"
+    },
+    {
+      "code": 221103,
+      "name": "Puck"
+    },
+    {
+      "code": 221104,
+      "name": "Władysławowo"
+    },
+    {
+      "code": 221105,
+      "name": "Kosakowo"
+    },
+    {
+      "code": 221106,
+      "name": "Krokowa"
+    },
+    {
+      "code": 221107,
+      "name": "Puck"
+    },
+    {
+      "code": 221201,
+      "name": "Ustka"
+    },
+    {
+      "code": 221202,
+      "name": "Damnica"
+    },
+    {
+      "code": 221203,
+      "name": "Dębnica Kaszubska"
+    },
+    {
+      "code": 221204,
+      "name": "Główczyce"
+    },
+    {
+      "code": 221205,
+      "name": "Kępice"
+    },
+    {
+      "code": 221206,
+      "name": "Kobylnica"
+    },
+    {
+      "code": 221207,
+      "name": "Potęgowo"
+    },
+    {
+      "code": 221208,
+      "name": "Słupsk"
+    },
+    {
+      "code": 221209,
+      "name": "Smołdzino"
+    },
+    {
+      "code": 221210,
+      "name": "Ustka"
+    },
+    {
+      "code": 221301,
+      "name": "Czarna Woda"
+    },
+    {
+      "code": 221302,
+      "name": "Skórcz"
+    },
+    {
+      "code": 221303,
+      "name": "Starogard Gdański"
+    },
+    {
+      "code": 221304,
+      "name": "Bobowo"
+    },
+    {
+      "code": 221305,
+      "name": "Kaliska"
+    },
+    {
+      "code": 221306,
+      "name": "Lubichowo"
+    },
+    {
+      "code": 221307,
+      "name": "Osieczna"
+    },
+    {
+      "code": 221308,
+      "name": "Osiek"
+    },
+    {
+      "code": 221309,
+      "name": "Skarszewy"
+    },
+    {
+      "code": 221310,
+      "name": "Skórcz"
+    },
+    {
+      "code": 221311,
+      "name": "Smętowo Graniczne"
+    },
+    {
+      "code": 221312,
+      "name": "Starogard Gdański"
+    },
+    {
+      "code": 221313,
+      "name": "Zblewo"
+    },
+    {
+      "code": 221601,
+      "name": "Dzierzgoń"
+    },
+    {
+      "code": 221602,
+      "name": "Mikołajki Pomorskie"
+    },
+    {
+      "code": 221603,
+      "name": "Stary Dzierzgoń"
+    },
+    {
+      "code": 221604,
+      "name": "Stary Targ"
+    },
+    {
+      "code": 221605,
+      "name": "Sztum"
+    },
+    {
+      "code": 221401,
+      "name": "Tczew"
+    },
+    {
+      "code": 221402,
+      "name": "Gniew"
+    },
+    {
+      "code": 221403,
+      "name": "Morzeszczyn"
+    },
+    {
+      "code": 221404,
+      "name": "Pelplin"
+    },
+    {
+      "code": 221405,
+      "name": "Subkowy"
+    },
+    {
+      "code": 221406,
+      "name": "Tczew"
+    },
+    {
+      "code": 221501,
+      "name": "Reda"
+    },
+    {
+      "code": 221502,
+      "name": "Rumia"
+    },
+    {
+      "code": 221503,
+      "name": "Wejherowo"
+    },
+    {
+      "code": 221504,
+      "name": "Choczewo"
+    },
+    {
+      "code": 221505,
+      "name": "Gniewino"
+    },
+    {
+      "code": 221506,
+      "name": "Linia"
+    },
+    {
+      "code": 221507,
+      "name": "Luzino"
+    },
+    {
+      "code": 221508,
+      "name": "Łęczyce"
+    },
+    {
+      "code": 221509,
+      "name": "Szemud"
+    },
+    {
+      "code": 221510,
+      "name": "Wejherowo"
+    },
+    {
+      "code": 226101,
+      "name": "Gdańsk"
+    },
+    {
+      "code": 226201,
+      "name": "Gdynia"
+    },
+    {
+      "code": 226301,
+      "name": "Słupsk"
+    },
+    {
+      "code": 226401,
+      "name": "Sopot"
+    },
+    {
+      "code": 240101,
+      "name": "Będzin"
+    },
+    {
+      "code": 240102,
+      "name": "Czeladź"
+    },
+    {
+      "code": 240108,
+      "name": "Sławków"
+    },
+    {
+      "code": 240103,
+      "name": "Wojkowice"
+    },
+    {
+      "code": 240104,
+      "name": "Bobrowniki"
+    },
+    {
+      "code": 240105,
+      "name": "Mierzęcice"
+    },
+    {
+      "code": 240106,
+      "name": "Psary"
+    },
+    {
+      "code": 240107,
+      "name": "Siewierz"
+    },
+    {
+      "code": 240201,
+      "name": "Szczyrk"
+    },
+    {
+      "code": 240202,
+      "name": "Bestwina"
+    },
+    {
+      "code": 240203,
+      "name": "Buczkowice"
+    },
+    {
+      "code": 240204,
+      "name": "Czechowice-Dziedzice"
+    },
+    {
+      "code": 240205,
+      "name": "Jasienica"
+    },
+    {
+      "code": 240206,
+      "name": "Jaworze"
+    },
+    {
+      "code": 240207,
+      "name": "Kozy"
+    },
+    {
+      "code": 240208,
+      "name": "Porąbka"
+    },
+    {
+      "code": 240209,
+      "name": "Wilamowice"
+    },
+    {
+      "code": 240210,
+      "name": "Wilkowice"
+    },
+    {
+      "code": 241401,
+      "name": "Bieruń"
+    },
+    {
+      "code": 241402,
+      "name": "Imielin"
+    },
+    {
+      "code": 241403,
+      "name": "Lędziny"
+    },
+    {
+      "code": 241404,
+      "name": "Bojszowy"
+    },
+    {
+      "code": 241405,
+      "name": "Chełm Śląski"
+    },
+    {
+      "code": 240301,
+      "name": "Cieszyn"
+    },
+    {
+      "code": 240302,
+      "name": "Ustroń"
+    },
+    {
+      "code": 240303,
+      "name": "Wisła"
+    },
+    {
+      "code": 240304,
+      "name": "Brenna"
+    },
+    {
+      "code": 240305,
+      "name": "Chybie"
+    },
+    {
+      "code": 240306,
+      "name": "Dębowiec"
+    },
+    {
+      "code": 240307,
+      "name": "Goleszów"
+    },
+    {
+      "code": 240308,
+      "name": "Hażlach"
+    },
+    {
+      "code": 240309,
+      "name": "Istebna"
+    },
+    {
+      "code": 240310,
+      "name": "Skoczów"
+    },
+    {
+      "code": 240311,
+      "name": "Strumień"
+    },
+    {
+      "code": 240312,
+      "name": "Zebrzydowice"
+    },
+    {
+      "code": 240401,
+      "name": "Blachownia"
+    },
+    {
+      "code": 240402,
+      "name": "Dąbrowa Zielona"
+    },
+    {
+      "code": 240403,
+      "name": "Janów"
+    },
+    {
+      "code": 240404,
+      "name": "Kamienica Polska"
+    },
+    {
+      "code": 240405,
+      "name": "Kłomnice"
+    },
+    {
+      "code": 240406,
+      "name": "Koniecpol"
+    },
+    {
+      "code": 240407,
+      "name": "Konopiska"
+    },
+    {
+      "code": 240408,
+      "name": "Kruszyna"
+    },
+    {
+      "code": 240409,
+      "name": "Lelów"
+    },
+    {
+      "code": 240410,
+      "name": "Mstów"
+    },
+    {
+      "code": 240411,
+      "name": "Mykanów"
+    },
+    {
+      "code": 240412,
+      "name": "Olsztyn"
+    },
+    {
+      "code": 240413,
+      "name": "Poczesna"
+    },
+    {
+      "code": 240414,
+      "name": "Przyrów"
+    },
+    {
+      "code": 240415,
+      "name": "Rędziny"
+    },
+    {
+      "code": 240416,
+      "name": "Starcza"
+    },
+    {
+      "code": 240501,
+      "name": "Knurów"
+    },
+    {
+      "code": 240502,
+      "name": "Pyskowice"
+    },
+    {
+      "code": 240503,
+      "name": "Gierałtowice"
+    },
+    {
+      "code": 240504,
+      "name": "Pilchowice"
+    },
+    {
+      "code": 240505,
+      "name": "Rudziniec"
+    },
+    {
+      "code": 240506,
+      "name": "Sośnicowice"
+    },
+    {
+      "code": 240507,
+      "name": "Toszek"
+    },
+    {
+      "code": 240508,
+      "name": "Wielowieś"
+    },
+    {
+      "code": 240601,
+      "name": "Kłobuck"
+    },
+    {
+      "code": 240602,
+      "name": "Krzepice"
+    },
+    {
+      "code": 240603,
+      "name": "Lipie"
+    },
+    {
+      "code": 240604,
+      "name": "Miedźno"
+    },
+    {
+      "code": 240605,
+      "name": "Opatów"
+    },
+    {
+      "code": 240606,
+      "name": "Panki"
+    },
+    {
+      "code": 240607,
+      "name": "Popów"
+    },
+    {
+      "code": 240608,
+      "name": "Przystajń"
+    },
+    {
+      "code": 240609,
+      "name": "Wręczyca Wielka"
+    },
+    {
+      "code": 240701,
+      "name": "Lubliniec"
+    },
+    {
+      "code": 240702,
+      "name": "Boronów"
+    },
+    {
+      "code": 240703,
+      "name": "Ciasna"
+    },
+    {
+      "code": 240704,
+      "name": "Herby"
+    },
+    {
+      "code": 240705,
+      "name": "Kochanowice"
+    },
+    {
+      "code": 240706,
+      "name": "Koszęcin"
+    },
+    {
+      "code": 240707,
+      "name": "Pawonków"
+    },
+    {
+      "code": 240708,
+      "name": "Woźniki"
+    },
+    {
+      "code": 240801,
+      "name": "Łaziska Górne"
+    },
+    {
+      "code": 240802,
+      "name": "Mikołów"
+    },
+    {
+      "code": 240803,
+      "name": "Orzesze"
+    },
+    {
+      "code": 240804,
+      "name": "Ornontowice"
+    },
+    {
+      "code": 240805,
+      "name": "Wyry"
+    },
+    {
+      "code": 240901,
+      "name": "Myszków"
+    },
+    {
+      "code": 240902,
+      "name": "Koziegłowy"
+    },
+    {
+      "code": 240903,
+      "name": "Niegowa"
+    },
+    {
+      "code": 240904,
+      "name": "Poraj"
+    },
+    {
+      "code": 240905,
+      "name": "Żarki"
+    },
+    {
+      "code": 241001,
+      "name": "Goczałkowice-Zdrój"
+    },
+    {
+      "code": 241002,
+      "name": "Kobiór"
+    },
+    {
+      "code": 241003,
+      "name": "Miedźna"
+    },
+    {
+      "code": 241004,
+      "name": "Pawłowice"
+    },
+    {
+      "code": 241005,
+      "name": "Pszczyna"
+    },
+    {
+      "code": 241006,
+      "name": "Suszec"
+    },
+    {
+      "code": 241101,
+      "name": "Racibórz"
+    },
+    {
+      "code": 241102,
+      "name": "Kornowac"
+    },
+    {
+      "code": 241103,
+      "name": "Krzanowice"
+    },
+    {
+      "code": 241104,
+      "name": "Krzyżanowice"
+    },
+    {
+      "code": 241105,
+      "name": "Kuźnia Raciborska"
+    },
+    {
+      "code": 241106,
+      "name": "Nędza"
+    },
+    {
+      "code": 241107,
+      "name": "Pietrowice Wielkie"
+    },
+    {
+      "code": 241108,
+      "name": "Rudnik"
+    },
+    {
+      "code": 241201,
+      "name": "Czerwionka-Leszczyny"
+    },
+    {
+      "code": 241202,
+      "name": "Gaszowice"
+    },
+    {
+      "code": 241203,
+      "name": "Jejkowice"
+    },
+    {
+      "code": 241204,
+      "name": "Lyski"
+    },
+    {
+      "code": 241205,
+      "name": "Świerklany"
+    },
+    {
+      "code": 241301,
+      "name": "Kalety"
+    },
+    {
+      "code": 241302,
+      "name": "Miasteczko Śląskie"
+    },
+    {
+      "code": 241303,
+      "name": "Radzionków"
+    },
+    {
+      "code": 241304,
+      "name": "Tarnowskie Góry"
+    },
+    {
+      "code": 241305,
+      "name": "Krupski Młyn"
+    },
+    {
+      "code": 241306,
+      "name": "Ożarowice"
+    },
+    {
+      "code": 241307,
+      "name": "Świerklaniec"
+    },
+    {
+      "code": 241308,
+      "name": "Tworóg"
+    },
+    {
+      "code": 241309,
+      "name": "Zbrosławice"
+    },
+    {
+      "code": 241501,
+      "name": "Pszów"
+    },
+    {
+      "code": 241502,
+      "name": "Radlin"
+    },
+    {
+      "code": 241503,
+      "name": "Rydułtowy"
+    },
+    {
+      "code": 241504,
+      "name": "Wodzisław Śląski"
+    },
+    {
+      "code": 241505,
+      "name": "Godów"
+    },
+    {
+      "code": 241506,
+      "name": "Gorzyce"
+    },
+    {
+      "code": 241507,
+      "name": "Lubomia"
+    },
+    {
+      "code": 241508,
+      "name": "Marklowice"
+    },
+    {
+      "code": 241509,
+      "name": "Mszana"
+    },
+    {
+      "code": 241601,
+      "name": "Poręba"
+    },
+    {
+      "code": 241602,
+      "name": "Zawiercie"
+    },
+    {
+      "code": 241603,
+      "name": "Irządze"
+    },
+    {
+      "code": 241604,
+      "name": "Kroczyce"
+    },
+    {
+      "code": 241605,
+      "name": "Łazy"
+    },
+    {
+      "code": 241606,
+      "name": "Ogrodzieniec"
+    },
+    {
+      "code": 241607,
+      "name": "Pilica"
+    },
+    {
+      "code": 241608,
+      "name": "Szczekociny"
+    },
+    {
+      "code": 241609,
+      "name": "Włodowice"
+    },
+    {
+      "code": 241610,
+      "name": "Żarnowiec"
+    },
+    {
+      "code": 241701,
+      "name": "Żywiec"
+    },
+    {
+      "code": 241702,
+      "name": "Czernichów"
+    },
+    {
+      "code": 241703,
+      "name": "Gilowice"
+    },
+    {
+      "code": 241704,
+      "name": "Jeleśnia"
+    },
+    {
+      "code": 241705,
+      "name": "Koszarawa"
+    },
+    {
+      "code": 241706,
+      "name": "Lipowa"
+    },
+    {
+      "code": 241707,
+      "name": "Łękawica"
+    },
+    {
+      "code": 241708,
+      "name": "Łodygowice"
+    },
+    {
+      "code": 241709,
+      "name": "Milówka"
+    },
+    {
+      "code": 241710,
+      "name": "Radziechowy-Wieprz"
+    },
+    {
+      "code": 241711,
+      "name": "Rajcza"
+    },
+    {
+      "code": 241712,
+      "name": "Ślemień"
+    },
+    {
+      "code": 241713,
+      "name": "Świnna"
+    },
+    {
+      "code": 241714,
+      "name": "Ujsoły"
+    },
+    {
+      "code": 241715,
+      "name": "Węgierska Górka"
+    },
+    {
+      "code": 246101,
+      "name": "Bielsko-Biała"
+    },
+    {
+      "code": 246201,
+      "name": "Bytom"
+    },
+    {
+      "code": 246301,
+      "name": "Chorzów"
+    },
+    {
+      "code": 246401,
+      "name": "Częstochowa"
+    },
+    {
+      "code": 246501,
+      "name": "Dąbrowa Górnicza"
+    },
+    {
+      "code": 246601,
+      "name": "Gliwice"
+    },
+    {
+      "code": 246701,
+      "name": "Jastrzębie-Zdrój"
+    },
+    {
+      "code": 246801,
+      "name": "Jaworzno"
+    },
+    {
+      "code": 246901,
+      "name": "Katowice"
+    },
+    {
+      "code": 247001,
+      "name": "Mysłowice"
+    },
+    {
+      "code": 247101,
+      "name": "Piekary Śląskie"
+    },
+    {
+      "code": 247201,
+      "name": "Ruda Śląska"
+    },
+    {
+      "code": 247301,
+      "name": "Rybnik"
+    },
+    {
+      "code": 247401,
+      "name": "Siemianowice Śląskie"
+    },
+    {
+      "code": 247501,
+      "name": "Sosnowiec"
+    },
+    {
+      "code": 247601,
+      "name": "Świętochłowice"
+    },
+    {
+      "code": 247701,
+      "name": "Tychy"
+    },
+    {
+      "code": 247801,
+      "name": "Zabrze"
+    },
+    {
+      "code": 247901,
+      "name": "Żory"
+    },
+    {
+      "code": 260101,
+      "name": "Busko-Zdrój"
+    },
+    {
+      "code": 260102,
+      "name": "Gnojno"
+    },
+    {
+      "code": 260103,
+      "name": "Nowy Korczyn"
+    },
+    {
+      "code": 260104,
+      "name": "Pacanów"
+    },
+    {
+      "code": 260105,
+      "name": "Solec-Zdrój"
+    },
+    {
+      "code": 260106,
+      "name": "Stopnica"
+    },
+    {
+      "code": 260107,
+      "name": "Tuczępy"
+    },
+    {
+      "code": 260108,
+      "name": "Wiślica"
+    },
+    {
+      "code": 260201,
+      "name": "Imielno"
+    },
+    {
+      "code": 260202,
+      "name": "Jędrzejów"
+    },
+    {
+      "code": 260203,
+      "name": "Małogoszcz"
+    },
+    {
+      "code": 260204,
+      "name": "Nagłowice"
+    },
+    {
+      "code": 260205,
+      "name": "Oksa"
+    },
+    {
+      "code": 260206,
+      "name": "Sędziszów"
+    },
+    {
+      "code": 260207,
+      "name": "Słupia (Jędrzejowska)"
+    },
+    {
+      "code": 260208,
+      "name": "Sobków"
+    },
+    {
+      "code": 260209,
+      "name": "Wodzisław"
+    },
+    {
+      "code": 260301,
+      "name": "Bejsce"
+    },
+    {
+      "code": 260302,
+      "name": "Czarnocin"
+    },
+    {
+      "code": 260303,
+      "name": "Kazimierza Wielka"
+    },
+    {
+      "code": 260304,
+      "name": "Opatowiec"
+    },
+    {
+      "code": 260305,
+      "name": "Skalbmierz"
+    },
+    {
+      "code": 260401,
+      "name": "Bieliny"
+    },
+    {
+      "code": 260402,
+      "name": "Bodzentyn"
+    },
+    {
+      "code": 260403,
+      "name": "Chęciny"
+    },
+    {
+      "code": 260404,
+      "name": "Chmielnik"
+    },
+    {
+      "code": 260405,
+      "name": "Daleszyce"
+    },
+    {
+      "code": 260406,
+      "name": "Górno"
+    },
+    {
+      "code": 260407,
+      "name": "Łagów"
+    },
+    {
+      "code": 260408,
+      "name": "Łopuszno"
+    },
+    {
+      "code": 260409,
+      "name": "Masłów"
+    },
+    {
+      "code": 260410,
+      "name": "Miedziana Góra"
+    },
+    {
+      "code": 260411,
+      "name": "Mniów"
+    },
+    {
+      "code": 260412,
+      "name": "Morawica"
+    },
+    {
+      "code": 260413,
+      "name": "Nowa Słupia"
+    },
+    {
+      "code": 260414,
+      "name": "Piekoszów"
+    },
+    {
+      "code": 260415,
+      "name": "Pierzchnica"
+    },
+    {
+      "code": 260416,
+      "name": "Raków"
+    },
+    {
+      "code": 260417,
+      "name": "Sitkówka-Nowiny"
+    },
+    {
+      "code": 260418,
+      "name": "Strawczyn"
+    },
+    {
+      "code": 260419,
+      "name": "Zagnańsk"
+    },
+    {
+      "code": 260501,
+      "name": "Fałków"
+    },
+    {
+      "code": 260502,
+      "name": "Gowarczów"
+    },
+    {
+      "code": 260503,
+      "name": "Końskie"
+    },
+    {
+      "code": 260504,
+      "name": "Radoszyce"
+    },
+    {
+      "code": 260505,
+      "name": "Ruda Maleniecka"
+    },
+    {
+      "code": 260506,
+      "name": "Słupia (Konecka)"
+    },
+    {
+      "code": 260507,
+      "name": "Smyków"
+    },
+    {
+      "code": 260508,
+      "name": "Stąporków"
+    },
+    {
+      "code": 260601,
+      "name": "Baćkowice"
+    },
+    {
+      "code": 260602,
+      "name": "Iwaniska"
+    },
+    {
+      "code": 260603,
+      "name": "Lipnik"
+    },
+    {
+      "code": 260604,
+      "name": "Opatów"
+    },
+    {
+      "code": 260605,
+      "name": "Ożarów"
+    },
+    {
+      "code": 260606,
+      "name": "Sadowie"
+    },
+    {
+      "code": 260607,
+      "name": "Tarłów"
+    },
+    {
+      "code": 260608,
+      "name": "Wojciechowice"
+    },
+    {
+      "code": 260701,
+      "name": "Ostrowiec Świętokrzyski"
+    },
+    {
+      "code": 260702,
+      "name": "Bałtów"
+    },
+    {
+      "code": 260703,
+      "name": "Bodzechów"
+    },
+    {
+      "code": 260704,
+      "name": "Ćmielów"
+    },
+    {
+      "code": 260705,
+      "name": "Kunów"
+    },
+    {
+      "code": 260706,
+      "name": "Waśniów"
+    },
+    {
+      "code": 260801,
+      "name": "Działoszyce"
+    },
+    {
+      "code": 260802,
+      "name": "Kije"
+    },
+    {
+      "code": 260803,
+      "name": "Michałów"
+    },
+    {
+      "code": 260804,
+      "name": "Pińczów"
+    },
+    {
+      "code": 260805,
+      "name": "Złota"
+    },
+    {
+      "code": 260901,
+      "name": "Sandomierz"
+    },
+    {
+      "code": 260902,
+      "name": "Dwikozy"
+    },
+    {
+      "code": 260903,
+      "name": "Klimontów"
+    },
+    {
+      "code": 260904,
+      "name": "Koprzywnica"
+    },
+    {
+      "code": 260905,
+      "name": "Łoniów"
+    },
+    {
+      "code": 260906,
+      "name": "Obrazów"
+    },
+    {
+      "code": 260907,
+      "name": "Samborzec"
+    },
+    {
+      "code": 260908,
+      "name": "Wilczyce"
+    },
+    {
+      "code": 260909,
+      "name": "Zawichost"
+    },
+    {
+      "code": 261001,
+      "name": "Skarżysko-Kamienna"
+    },
+    {
+      "code": 261002,
+      "name": "Bliżyn"
+    },
+    {
+      "code": 261003,
+      "name": "Łączna"
+    },
+    {
+      "code": 261004,
+      "name": "Skarżysko Kościelne"
+    },
+    {
+      "code": 261005,
+      "name": "Suchedniów"
+    },
+    {
+      "code": 261101,
+      "name": "Starachowice"
+    },
+    {
+      "code": 261102,
+      "name": "Brody"
+    },
+    {
+      "code": 261103,
+      "name": "Mirzec"
+    },
+    {
+      "code": 261104,
+      "name": "Pawłów"
+    },
+    {
+      "code": 261105,
+      "name": "Wąchock"
+    },
+    {
+      "code": 261201,
+      "name": "Bogoria"
+    },
+    {
+      "code": 261202,
+      "name": "Łubnice"
+    },
+    {
+      "code": 261203,
+      "name": "Oleśnica"
+    },
+    {
+      "code": 261204,
+      "name": "Osiek"
+    },
+    {
+      "code": 261205,
+      "name": "Połaniec"
+    },
+    {
+      "code": 261206,
+      "name": "Rytwiany"
+    },
+    {
+      "code": 261207,
+      "name": "Staszów"
+    },
+    {
+      "code": 261208,
+      "name": "Szydłów"
+    },
+    {
+      "code": 261301,
+      "name": "Kluczewsko"
+    },
+    {
+      "code": 261302,
+      "name": "Krasocin"
+    },
+    {
+      "code": 261303,
+      "name": "Moskorzew"
+    },
+    {
+      "code": 261304,
+      "name": "Radków"
+    },
+    {
+      "code": 261305,
+      "name": "Secemin"
+    },
+    {
+      "code": 261306,
+      "name": "Włoszczowa"
+    },
+    {
+      "code": 266101,
+      "name": "Kielce"
+    },
+    {
+      "code": 280101,
+      "name": "Bartoszyce"
+    },
+    {
+      "code": 280102,
+      "name": "Górowo Iławeckie"
+    },
+    {
+      "code": 280103,
+      "name": "Bartoszyce"
+    },
+    {
+      "code": 280104,
+      "name": "Bisztynek"
+    },
+    {
+      "code": 280105,
+      "name": "Górowo Iławeckie"
+    },
+    {
+      "code": 280106,
+      "name": "Sępopol"
+    },
+    {
+      "code": 280201,
+      "name": "Braniewo"
+    },
+    {
+      "code": 280202,
+      "name": "Braniewo"
+    },
+    {
+      "code": 280203,
+      "name": "Frombork"
+    },
+    {
+      "code": 280204,
+      "name": "Lelkowo"
+    },
+    {
+      "code": 280205,
+      "name": "Pieniężno"
+    },
+    {
+      "code": 280206,
+      "name": "Płoskinia"
+    },
+    {
+      "code": 280207,
+      "name": "Wilczęta"
+    },
+    {
+      "code": 280301,
+      "name": "Działdowo"
+    },
+    {
+      "code": 280302,
+      "name": "Działdowo"
+    },
+    {
+      "code": 280303,
+      "name": "Iłowo-Osada"
+    },
+    {
+      "code": 280304,
+      "name": "Lidzbark"
+    },
+    {
+      "code": 280305,
+      "name": "Płośnica"
+    },
+    {
+      "code": 280306,
+      "name": "Rybno"
+    },
+    {
+      "code": 280401,
+      "name": "Elbląg"
+    },
+    {
+      "code": 280402,
+      "name": "Godkowo"
+    },
+    {
+      "code": 280403,
+      "name": "Gronowo Elbląskie"
+    },
+    {
+      "code": 280404,
+      "name": "Markusy"
+    },
+    {
+      "code": 280405,
+      "name": "Milejewo"
+    },
+    {
+      "code": 280406,
+      "name": "Młynary"
+    },
+    {
+      "code": 280407,
+      "name": "Pasłęk"
+    },
+    {
+      "code": 280408,
+      "name": "Rychliki"
+    },
+    {
+      "code": 280409,
+      "name": "Tolkmicko"
+    },
+    {
+      "code": 280501,
+      "name": "Ełk"
+    },
+    {
+      "code": 280502,
+      "name": "Ełk"
+    },
+    {
+      "code": 280503,
+      "name": "Kalinowo"
+    },
+    {
+      "code": 280504,
+      "name": "Prostki"
+    },
+    {
+      "code": 280505,
+      "name": "Stare Juchy"
+    },
+    {
+      "code": 280601,
+      "name": "Giżycko"
+    },
+    {
+      "code": 280604,
+      "name": "Giżycko"
+    },
+    {
+      "code": 280605,
+      "name": "Kruklanki"
+    },
+    {
+      "code": 280606,
+      "name": "Miłki"
+    },
+    {
+      "code": 280608,
+      "name": "Ryn"
+    },
+    {
+      "code": 280610,
+      "name": "Wydminy"
+    },
+    {
+      "code": 281801,
+      "name": "Banie Mazurskie"
+    },
+    {
+      "code": 281802,
+      "name": "Dubeninki"
+    },
+    {
+      "code": 281803,
+      "name": "Gołdap"
+    },
+    {
+      "code": 280701,
+      "name": "Iława"
+    },
+    {
+      "code": 280702,
+      "name": "Lubawa"
+    },
+    {
+      "code": 280703,
+      "name": "Iława"
+    },
+    {
+      "code": 280704,
+      "name": "Kisielice"
+    },
+    {
+      "code": 280705,
+      "name": "Lubawa"
+    },
+    {
+      "code": 280706,
+      "name": "Susz"
+    },
+    {
+      "code": 280707,
+      "name": "Zalewo"
+    },
+    {
+      "code": 280801,
+      "name": "Kętrzyn"
+    },
+    {
+      "code": 280802,
+      "name": "Barciany"
+    },
+    {
+      "code": 280803,
+      "name": "Kętrzyn"
+    },
+    {
+      "code": 280804,
+      "name": "Korsze"
+    },
+    {
+      "code": 280805,
+      "name": "Reszel"
+    },
+    {
+      "code": 280806,
+      "name": "Srokowo"
+    },
+    {
+      "code": 280901,
+      "name": "Lidzbark Warmiński"
+    },
+    {
+      "code": 280902,
+      "name": "Kiwity"
+    },
+    {
+      "code": 280903,
+      "name": "Lidzbark Warmiński"
+    },
+    {
+      "code": 280904,
+      "name": "Lubomino"
+    },
+    {
+      "code": 280905,
+      "name": "Orneta"
+    },
+    {
+      "code": 281001,
+      "name": "Mrągowo"
+    },
+    {
+      "code": 281002,
+      "name": "Mikołajki"
+    },
+    {
+      "code": 281003,
+      "name": "Mrągowo"
+    },
+    {
+      "code": 281004,
+      "name": "Piecki"
+    },
+    {
+      "code": 281005,
+      "name": "Sorkwity"
+    },
+    {
+      "code": 281101,
+      "name": "Janowiec Kościelny"
+    },
+    {
+      "code": 281102,
+      "name": "Janowo"
+    },
+    {
+      "code": 281103,
+      "name": "Kozłowo"
+    },
+    {
+      "code": 281104,
+      "name": "Nidzica"
+    },
+    {
+      "code": 281201,
+      "name": "Nowe Miasto Lubawskie"
+    },
+    {
+      "code": 281202,
+      "name": "Biskupiec"
+    },
+    {
+      "code": 281203,
+      "name": "Grodziczno"
+    },
+    {
+      "code": 281204,
+      "name": "Kurzętnik"
+    },
+    {
+      "code": 281205,
+      "name": "Nowe Miasto Lubawskie"
+    },
+    {
+      "code": 281303,
+      "name": "Kowale Oleckie"
+    },
+    {
+      "code": 281304,
+      "name": "Olecko"
+    },
+    {
+      "code": 281305,
+      "name": "Świętajno"
+    },
+    {
+      "code": 281306,
+      "name": "Wieliczki"
+    },
+    {
+      "code": 281401,
+      "name": "Barczewo"
+    },
+    {
+      "code": 281402,
+      "name": "Biskupiec"
+    },
+    {
+      "code": 281403,
+      "name": "Dobre Miasto"
+    },
+    {
+      "code": 281404,
+      "name": "Dywity"
+    },
+    {
+      "code": 281405,
+      "name": "Gietrzwałd"
+    },
+    {
+      "code": 281406,
+      "name": "Jeziorany"
+    },
+    {
+      "code": 281407,
+      "name": "Jonkowo"
+    },
+    {
+      "code": 281408,
+      "name": "Kolno"
+    },
+    {
+      "code": 281409,
+      "name": "Olsztynek"
+    },
+    {
+      "code": 281410,
+      "name": "Purda"
+    },
+    {
+      "code": 281411,
+      "name": "Stawiguda"
+    },
+    {
+      "code": 281412,
+      "name": "Świątki"
+    },
+    {
+      "code": 281501,
+      "name": "Ostróda"
+    },
+    {
+      "code": 281502,
+      "name": "Dąbrówno"
+    },
+    {
+      "code": 281503,
+      "name": "Grunwald"
+    },
+    {
+      "code": 281504,
+      "name": "Łukta"
+    },
+    {
+      "code": 281505,
+      "name": "Małdyty"
+    },
+    {
+      "code": 281506,
+      "name": "Miłakowo"
+    },
+    {
+      "code": 281507,
+      "name": "Miłomłyn"
+    },
+    {
+      "code": 281508,
+      "name": "Morąg"
+    },
+    {
+      "code": 281509,
+      "name": "Ostróda"
+    },
+    {
+      "code": 281601,
+      "name": "Biała Piska"
+    },
+    {
+      "code": 281602,
+      "name": "Orzysz"
+    },
+    {
+      "code": 281603,
+      "name": "Pisz"
+    },
+    {
+      "code": 281604,
+      "name": "Ruciane-Nida"
+    },
+    {
+      "code": 281701,
+      "name": "Szczytno"
+    },
+    {
+      "code": 281702,
+      "name": "Dźwierzuty"
+    },
+    {
+      "code": 281703,
+      "name": "Jedwabno"
+    },
+    {
+      "code": 281704,
+      "name": "Pasym"
+    },
+    {
+      "code": 281705,
+      "name": "Rozogi"
+    },
+    {
+      "code": 281706,
+      "name": "Szczytno"
+    },
+    {
+      "code": 281707,
+      "name": "Świętajno"
+    },
+    {
+      "code": 281708,
+      "name": "Wielbark"
+    },
+    {
+      "code": 281901,
+      "name": "Budry"
+    },
+    {
+      "code": 281902,
+      "name": "Pozezdrze"
+    },
+    {
+      "code": 281903,
+      "name": "Węgorzewo"
+    },
+    {
+      "code": 286101,
+      "name": "Elbląg"
+    },
+    {
+      "code": 286201,
+      "name": "Olsztyn"
+    },
+    {
+      "code": 300101,
+      "name": "Chodzież"
+    },
+    {
+      "code": 300102,
+      "name": "Budzyń"
+    },
+    {
+      "code": 300103,
+      "name": "Chodzież"
+    },
+    {
+      "code": 300104,
+      "name": "Margonin"
+    },
+    {
+      "code": 300105,
+      "name": "Szamocin"
+    },
+    {
+      "code": 300201,
+      "name": "Czarnków"
+    },
+    {
+      "code": 300202,
+      "name": "Czarnków"
+    },
+    {
+      "code": 300203,
+      "name": "Drawsko"
+    },
+    {
+      "code": 300204,
+      "name": "Krzyż Wielkopolski"
+    },
+    {
+      "code": 300205,
+      "name": "Lubasz"
+    },
+    {
+      "code": 300206,
+      "name": "Połajewo"
+    },
+    {
+      "code": 300207,
+      "name": "Trzcianka"
+    },
+    {
+      "code": 300208,
+      "name": "Wieleń"
+    },
+    {
+      "code": 300301,
+      "name": "Gniezno"
+    },
+    {
+      "code": 300302,
+      "name": "Czerniejewo"
+    },
+    {
+      "code": 300303,
+      "name": "Gniezno"
+    },
+    {
+      "code": 300304,
+      "name": "Kiszkowo"
+    },
+    {
+      "code": 300305,
+      "name": "Kłecko"
+    },
+    {
+      "code": 300306,
+      "name": "Łubowo"
+    },
+    {
+      "code": 300307,
+      "name": "Mieleszyn"
+    },
+    {
+      "code": 300308,
+      "name": "Niechanowo"
+    },
+    {
+      "code": 300309,
+      "name": "Trzemeszno"
+    },
+    {
+      "code": 300310,
+      "name": "Witkowo"
+    },
+    {
+      "code": 300401,
+      "name": "Borek Wielkopolski"
+    },
+    {
+      "code": 300402,
+      "name": "Gostyń"
+    },
+    {
+      "code": 300403,
+      "name": "Krobia"
+    },
+    {
+      "code": 300404,
+      "name": "Pępowo"
+    },
+    {
+      "code": 300405,
+      "name": "Piaski"
+    },
+    {
+      "code": 300406,
+      "name": "Pogorzela"
+    },
+    {
+      "code": 300407,
+      "name": "Poniec"
+    },
+    {
+      "code": 300501,
+      "name": "Granowo"
+    },
+    {
+      "code": 300502,
+      "name": "Grodzisk Wielkopolski"
+    },
+    {
+      "code": 300503,
+      "name": "Kamieniec"
+    },
+    {
+      "code": 300504,
+      "name": "Rakoniewice"
+    },
+    {
+      "code": 300505,
+      "name": "Wielichowo"
+    },
+    {
+      "code": 300601,
+      "name": "Jaraczewo"
+    },
+    {
+      "code": 300602,
+      "name": "Jarocin"
+    },
+    {
+      "code": 300603,
+      "name": "Kotlin"
+    },
+    {
+      "code": 300604,
+      "name": "Żerków"
+    },
+    {
+      "code": 300701,
+      "name": "Blizanów"
+    },
+    {
+      "code": 300702,
+      "name": "Brzeziny"
+    },
+    {
+      "code": 300703,
+      "name": "Ceków-Kolonia"
+    },
+    {
+      "code": 300704,
+      "name": "Godziesze Wielkie"
+    },
+    {
+      "code": 300705,
+      "name": "Koźminek"
+    },
+    {
+      "code": 300706,
+      "name": "Lisków"
+    },
+    {
+      "code": 300707,
+      "name": "Mycielin"
+    },
+    {
+      "code": 300708,
+      "name": "Opatówek"
+    },
+    {
+      "code": 300709,
+      "name": "Stawiszyn"
+    },
+    {
+      "code": 300710,
+      "name": "Szczytniki"
+    },
+    {
+      "code": 300711,
+      "name": "Żelazków"
+    },
+    {
+      "code": 300801,
+      "name": "Baranów"
+    },
+    {
+      "code": 300802,
+      "name": "Bralin"
+    },
+    {
+      "code": 300803,
+      "name": "Kępno"
+    },
+    {
+      "code": 300804,
+      "name": "Łęka Opatowska"
+    },
+    {
+      "code": 300805,
+      "name": "Perzów"
+    },
+    {
+      "code": 300806,
+      "name": "Rychtal"
+    },
+    {
+      "code": 300807,
+      "name": "Trzcinica"
+    },
+    {
+      "code": 300901,
+      "name": "Koło"
+    },
+    {
+      "code": 300902,
+      "name": "Babiak"
+    },
+    {
+      "code": 300903,
+      "name": "Chodów"
+    },
+    {
+      "code": 300904,
+      "name": "Dąbie"
+    },
+    {
+      "code": 300905,
+      "name": "Grzegorzew"
+    },
+    {
+      "code": 300906,
+      "name": "Kłodawa"
+    },
+    {
+      "code": 300907,
+      "name": "Koło"
+    },
+    {
+      "code": 300908,
+      "name": "Kościelec"
+    },
+    {
+      "code": 300909,
+      "name": "Olszówka"
+    },
+    {
+      "code": 300910,
+      "name": "Osiek Mały"
+    },
+    {
+      "code": 300911,
+      "name": "Przedecz"
+    },
+    {
+      "code": 301001,
+      "name": "Golina"
+    },
+    {
+      "code": 301002,
+      "name": "Grodziec"
+    },
+    {
+      "code": 301003,
+      "name": "Kazimierz Biskupi"
+    },
+    {
+      "code": 301004,
+      "name": "Kleczew"
+    },
+    {
+      "code": 301005,
+      "name": "Kramsk"
+    },
+    {
+      "code": 301006,
+      "name": "Krzymów"
+    },
+    {
+      "code": 301007,
+      "name": "Rychwał"
+    },
+    {
+      "code": 301008,
+      "name": "Rzgów"
+    },
+    {
+      "code": 301009,
+      "name": "Skulsk"
+    },
+    {
+      "code": 301010,
+      "name": "Sompolno"
+    },
+    {
+      "code": 301011,
+      "name": "Stare Miasto"
+    },
+    {
+      "code": 301012,
+      "name": "Ślesin"
+    },
+    {
+      "code": 301013,
+      "name": "Wierzbinek"
+    },
+    {
+      "code": 301014,
+      "name": "Wilczyn"
+    },
+    {
+      "code": 301101,
+      "name": "Kościan"
+    },
+    {
+      "code": 301102,
+      "name": "Czempiń"
+    },
+    {
+      "code": 301103,
+      "name": "Kościan"
+    },
+    {
+      "code": 301104,
+      "name": "Krzywiń"
+    },
+    {
+      "code": 301105,
+      "name": "Śmigiel"
+    },
+    {
+      "code": 301201,
+      "name": "Sulmierzyce"
+    },
+    {
+      "code": 301202,
+      "name": "Kobylin"
+    },
+    {
+      "code": 301203,
+      "name": "Koźmin Wielkopolski"
+    },
+    {
+      "code": 301204,
+      "name": "Krotoszyn"
+    },
+    {
+      "code": 301205,
+      "name": "Rozdrażew"
+    },
+    {
+      "code": 301206,
+      "name": "Zduny"
+    },
+    {
+      "code": 301301,
+      "name": "Krzemieniewo"
+    },
+    {
+      "code": 301302,
+      "name": "Lipno"
+    },
+    {
+      "code": 301303,
+      "name": "Osieczna"
+    },
+    {
+      "code": 301304,
+      "name": "Rydzyna"
+    },
+    {
+      "code": 301305,
+      "name": "Święciechowa"
+    },
+    {
+      "code": 301306,
+      "name": "Wijewo"
+    },
+    {
+      "code": 301307,
+      "name": "Włoszakowice"
+    },
+    {
+      "code": 301401,
+      "name": "Chrzypsko Wielkie"
+    },
+    {
+      "code": 301402,
+      "name": "Kwilcz"
+    },
+    {
+      "code": 301403,
+      "name": "Międzychód"
+    },
+    {
+      "code": 301404,
+      "name": "Sieraków"
+    },
+    {
+      "code": 301501,
+      "name": "Kuślin"
+    },
+    {
+      "code": 301502,
+      "name": "Lwówek"
+    },
+    {
+      "code": 301503,
+      "name": "Miedzichowo"
+    },
+    {
+      "code": 301504,
+      "name": "Nowy Tomyśl"
+    },
+    {
+      "code": 301505,
+      "name": "Opalenica"
+    },
+    {
+      "code": 301506,
+      "name": "Zbąszyń"
+    },
+    {
+      "code": 301601,
+      "name": "Oborniki"
+    },
+    {
+      "code": 301602,
+      "name": "Rogoźno"
+    },
+    {
+      "code": 301603,
+      "name": "Ryczywół"
+    },
+    {
+      "code": 301701,
+      "name": "Ostrów Wielkopolski"
+    },
+    {
+      "code": 301702,
+      "name": "Nowe Skalmierzyce"
+    },
+    {
+      "code": 301703,
+      "name": "Odolanów"
+    },
+    {
+      "code": 301704,
+      "name": "Ostrów Wielkopolski"
+    },
+    {
+      "code": 301705,
+      "name": "Przygodzice"
+    },
+    {
+      "code": 301706,
+      "name": "Raszków"
+    },
+    {
+      "code": 301707,
+      "name": "Sieroszewice"
+    },
+    {
+      "code": 301708,
+      "name": "Sośnie"
+    },
+    {
+      "code": 301801,
+      "name": "Czajków"
+    },
+    {
+      "code": 301802,
+      "name": "Doruchów"
+    },
+    {
+      "code": 301803,
+      "name": "Grabów nad Prosną"
+    },
+    {
+      "code": 301804,
+      "name": "Kobyla Góra"
+    },
+    {
+      "code": 301805,
+      "name": "Kraszewice"
+    },
+    {
+      "code": 301806,
+      "name": "Mikstat"
+    },
+    {
+      "code": 301807,
+      "name": "Ostrzeszów"
+    },
+    {
+      "code": 301901,
+      "name": "Piła"
+    },
+    {
+      "code": 301902,
+      "name": "Białośliwie"
+    },
+    {
+      "code": 301903,
+      "name": "Kaczory"
+    },
+    {
+      "code": 301904,
+      "name": "Łobżenica"
+    },
+    {
+      "code": 301905,
+      "name": "Miasteczko Krajeńskie"
+    },
+    {
+      "code": 301906,
+      "name": "Szydłowo"
+    },
+    {
+      "code": 301907,
+      "name": "Ujście"
+    },
+    {
+      "code": 301908,
+      "name": "Wyrzysk"
+    },
+    {
+      "code": 301909,
+      "name": "Wysoka"
+    },
+    {
+      "code": 302001,
+      "name": "Chocz"
+    },
+    {
+      "code": 302002,
+      "name": "Czermin"
+    },
+    {
+      "code": 302003,
+      "name": "Dobrzyca"
+    },
+    {
+      "code": 302004,
+      "name": "Gizałki"
+    },
+    {
+      "code": 302005,
+      "name": "Gołuchów"
+    },
+    {
+      "code": 302006,
+      "name": "Pleszew"
+    },
+    {
+      "code": 302101,
+      "name": "Luboń"
+    },
+    {
+      "code": 302102,
+      "name": "Puszczykowo"
+    },
+    {
+      "code": 302103,
+      "name": "Buk"
+    },
+    {
+      "code": 302104,
+      "name": "Czerwonak"
+    },
+    {
+      "code": 302105,
+      "name": "Dopiewo"
+    },
+    {
+      "code": 302106,
+      "name": "Kleszczewo"
+    },
+    {
+      "code": 302107,
+      "name": "Komorniki"
+    },
+    {
+      "code": 302108,
+      "name": "Kostrzyn"
+    },
+    {
+      "code": 302109,
+      "name": "Kórnik"
+    },
+    {
+      "code": 302110,
+      "name": "Mosina"
+    },
+    {
+      "code": 302111,
+      "name": "Murowana Goślina"
+    },
+    {
+      "code": 302112,
+      "name": "Pobiedziska"
+    },
+    {
+      "code": 302113,
+      "name": "Rokietnica"
+    },
+    {
+      "code": 302114,
+      "name": "Stęszew"
+    },
+    {
+      "code": 302115,
+      "name": "Suchy Las"
+    },
+    {
+      "code": 302116,
+      "name": "Swarzędz"
+    },
+    {
+      "code": 302117,
+      "name": "Tarnowo Podgórne"
+    },
+    {
+      "code": 302201,
+      "name": "Bojanowo"
+    },
+    {
+      "code": 302202,
+      "name": "Jutrosin"
+    },
+    {
+      "code": 302203,
+      "name": "Miejska Górka"
+    },
+    {
+      "code": 302204,
+      "name": "Pakosław"
+    },
+    {
+      "code": 302205,
+      "name": "Rawicz"
+    },
+    {
+      "code": 302301,
+      "name": "Słupca"
+    },
+    {
+      "code": 302302,
+      "name": "Lądek"
+    },
+    {
+      "code": 302303,
+      "name": "Orchowo"
+    },
+    {
+      "code": 302304,
+      "name": "Ostrowite"
+    },
+    {
+      "code": 302305,
+      "name": "Powidz"
+    },
+    {
+      "code": 302306,
+      "name": "Słupca"
+    },
+    {
+      "code": 302307,
+      "name": "Strzałkowo"
+    },
+    {
+      "code": 302308,
+      "name": "Zagórów"
+    },
+    {
+      "code": 302401,
+      "name": "Obrzycko"
+    },
+    {
+      "code": 302402,
+      "name": "Duszniki"
+    },
+    {
+      "code": 302403,
+      "name": "Kaźmierz"
+    },
+    {
+      "code": 302404,
+      "name": "Obrzycko"
+    },
+    {
+      "code": 302405,
+      "name": "Ostroróg"
+    },
+    {
+      "code": 302406,
+      "name": "Pniewy"
+    },
+    {
+      "code": 302407,
+      "name": "Szamotuły"
+    },
+    {
+      "code": 302408,
+      "name": "Wronki"
+    },
+    {
+      "code": 302501,
+      "name": "Dominowo"
+    },
+    {
+      "code": 302502,
+      "name": "Krzykosy"
+    },
+    {
+      "code": 302503,
+      "name": "Nowe Miasto nad Wartą"
+    },
+    {
+      "code": 302504,
+      "name": "Środa Wielkopolska"
+    },
+    {
+      "code": 302505,
+      "name": "Zaniemyśl"
+    },
+    {
+      "code": 302601,
+      "name": "Brodnica"
+    },
+    {
+      "code": 302602,
+      "name": "Dolsk"
+    },
+    {
+      "code": 302603,
+      "name": "Książ Wielkopolski"
+    },
+    {
+      "code": 302604,
+      "name": "Śrem"
+    },
+    {
+      "code": 302701,
+      "name": "Turek"
+    },
+    {
+      "code": 302702,
+      "name": "Brudzew"
+    },
+    {
+      "code": 302703,
+      "name": "Dobra"
+    },
+    {
+      "code": 302704,
+      "name": "Kawęczyn"
+    },
+    {
+      "code": 302705,
+      "name": "Malanów"
+    },
+    {
+      "code": 302706,
+      "name": "Przykona"
+    },
+    {
+      "code": 302707,
+      "name": "Tuliszków"
+    },
+    {
+      "code": 302708,
+      "name": "Turek"
+    },
+    {
+      "code": 302709,
+      "name": "Władysławów"
+    },
+    {
+      "code": 302801,
+      "name": "Wągrowiec"
+    },
+    {
+      "code": 302802,
+      "name": "Damasławek"
+    },
+    {
+      "code": 302803,
+      "name": "Gołańcz"
+    },
+    {
+      "code": 302804,
+      "name": "Mieścisko"
+    },
+    {
+      "code": 302805,
+      "name": "Skoki"
+    },
+    {
+      "code": 302806,
+      "name": "Wapno"
+    },
+    {
+      "code": 302807,
+      "name": "Wągrowiec"
+    },
+    {
+      "code": 302901,
+      "name": "Przemęt"
+    },
+    {
+      "code": 302902,
+      "name": "Siedlec"
+    },
+    {
+      "code": 302903,
+      "name": "Wolsztyn"
+    },
+    {
+      "code": 303001,
+      "name": "Kołaczkowo"
+    },
+    {
+      "code": 303002,
+      "name": "Miłosław"
+    },
+    {
+      "code": 303003,
+      "name": "Nekla"
+    },
+    {
+      "code": 303004,
+      "name": "Pyzdry"
+    },
+    {
+      "code": 303005,
+      "name": "Września"
+    },
+    {
+      "code": 303101,
+      "name": "Złotów"
+    },
+    {
+      "code": 303102,
+      "name": "Jastrowie"
+    },
+    {
+      "code": 303103,
+      "name": "Krajenka"
+    },
+    {
+      "code": 303104,
+      "name": "Lipka"
+    },
+    {
+      "code": 303105,
+      "name": "Okonek"
+    },
+    {
+      "code": 303106,
+      "name": "Tarnówka"
+    },
+    {
+      "code": 303107,
+      "name": "Zakrzewo"
+    },
+    {
+      "code": 303108,
+      "name": "Złotów"
+    },
+    {
+      "code": 306101,
+      "name": "Kalisz"
+    },
+    {
+      "code": 306201,
+      "name": "Konin"
+    },
+    {
+      "code": 306301,
+      "name": "Leszno"
+    },
+    {
+      "code": 306401,
+      "name": "Poznań"
+    },
+    {
+      "code": 320101,
+      "name": "Białogard"
+    },
+    {
+      "code": 320102,
+      "name": "Białogard"
+    },
+    {
+      "code": 320103,
+      "name": "Karlino"
+    },
+    {
+      "code": 320104,
+      "name": "Tychowo"
+    },
+    {
+      "code": 320201,
+      "name": "Bierzwnik"
+    },
+    {
+      "code": 320202,
+      "name": "Choszczno"
+    },
+    {
+      "code": 320203,
+      "name": "Drawno"
+    },
+    {
+      "code": 320204,
+      "name": "Krzęcin"
+    },
+    {
+      "code": 320205,
+      "name": "Pełczyce"
+    },
+    {
+      "code": 320206,
+      "name": "Recz"
+    },
+    {
+      "code": 320301,
+      "name": "Czaplinek"
+    },
+    {
+      "code": 320302,
+      "name": "Drawsko Pomorskie"
+    },
+    {
+      "code": 320303,
+      "name": "Kalisz Pomorski"
+    },
+    {
+      "code": 320304,
+      "name": "Ostrowice"
+    },
+    {
+      "code": 320305,
+      "name": "Wierzchowo"
+    },
+    {
+      "code": 320306,
+      "name": "Złocieniec"
+    },
+    {
+      "code": 320402,
+      "name": "Goleniów"
+    },
+    {
+      "code": 320403,
+      "name": "Maszewo"
+    },
+    {
+      "code": 320404,
+      "name": "Nowogard"
+    },
+    {
+      "code": 320405,
+      "name": "Osina"
+    },
+    {
+      "code": 320406,
+      "name": "Przybiernów"
+    },
+    {
+      "code": 320407,
+      "name": "Stepnica"
+    },
+    {
+      "code": 320501,
+      "name": "Brojce"
+    },
+    {
+      "code": 320502,
+      "name": "Gryfice"
+    },
+    {
+      "code": 320503,
+      "name": "Karnice"
+    },
+    {
+      "code": 320504,
+      "name": "Płoty"
+    },
+    {
+      "code": 320507,
+      "name": "Rewal"
+    },
+    {
+      "code": 320508,
+      "name": "Trzebiatów"
+    },
+    {
+      "code": 320601,
+      "name": "Banie"
+    },
+    {
+      "code": 320602,
+      "name": "Cedynia"
+    },
+    {
+      "code": 320603,
+      "name": "Chojna"
+    },
+    {
+      "code": 320604,
+      "name": "Gryfino"
+    },
+    {
+      "code": 320605,
+      "name": "Mieszkowice"
+    },
+    {
+      "code": 320606,
+      "name": "Moryń"
+    },
+    {
+      "code": 320607,
+      "name": "Stare Czarnowo"
+    },
+    {
+      "code": 320608,
+      "name": "Trzcińsko-Zdrój"
+    },
+    {
+      "code": 320609,
+      "name": "Widuchowa"
+    },
+    {
+      "code": 320701,
+      "name": "Dziwnów"
+    },
+    {
+      "code": 320702,
+      "name": "Golczewo"
+    },
+    {
+      "code": 320703,
+      "name": "Kamień Pomorski"
+    },
+    {
+      "code": 320704,
+      "name": "Międzyzdroje"
+    },
+    {
+      "code": 320705,
+      "name": "Świerzno"
+    },
+    {
+      "code": 320706,
+      "name": "Wolin"
+    },
+    {
+      "code": 320801,
+      "name": "Kołobrzeg"
+    },
+    {
+      "code": 320802,
+      "name": "Dygowo"
+    },
+    {
+      "code": 320803,
+      "name": "Gościno"
+    },
+    {
+      "code": 320804,
+      "name": "Kołobrzeg"
+    },
+    {
+      "code": 320805,
+      "name": "Rymań"
+    },
+    {
+      "code": 320806,
+      "name": "Siemyśl"
+    },
+    {
+      "code": 320807,
+      "name": "Ustronie Morskie"
+    },
+    {
+      "code": 320901,
+      "name": "Będzino"
+    },
+    {
+      "code": 320902,
+      "name": "Biesiekierz"
+    },
+    {
+      "code": 320903,
+      "name": "Bobolice"
+    },
+    {
+      "code": 320904,
+      "name": "Manowo"
+    },
+    {
+      "code": 320905,
+      "name": "Mielno"
+    },
+    {
+      "code": 320906,
+      "name": "Polanów"
+    },
+    {
+      "code": 320907,
+      "name": "Sianów"
+    },
+    {
+      "code": 320908,
+      "name": "Świeszyno"
+    },
+    {
+      "code": 321801,
+      "name": "Dobra"
+    },
+    {
+      "code": 321802,
+      "name": "Łobez"
+    },
+    {
+      "code": 321803,
+      "name": "Radowo Małe"
+    },
+    {
+      "code": 321804,
+      "name": "Resko"
+    },
+    {
+      "code": 321805,
+      "name": "Węgorzyno"
+    },
+    {
+      "code": 321001,
+      "name": "Barlinek"
+    },
+    {
+      "code": 321002,
+      "name": "Boleszkowice"
+    },
+    {
+      "code": 321003,
+      "name": "Dębno"
+    },
+    {
+      "code": 321004,
+      "name": "Myślibórz"
+    },
+    {
+      "code": 321005,
+      "name": "Nowogródek Pomorski"
+    },
+    {
+      "code": 321101,
+      "name": "Dobra (Szczecińska)"
+    },
+    {
+      "code": 321102,
+      "name": "Kołbaskowo"
+    },
+    {
+      "code": 321103,
+      "name": "Nowe Warpno"
+    },
+    {
+      "code": 321104,
+      "name": "Police"
+    },
+    {
+      "code": 321201,
+      "name": "Bielice"
+    },
+    {
+      "code": 321202,
+      "name": "Kozielice"
+    },
+    {
+      "code": 321203,
+      "name": "Lipiany"
+    },
+    {
+      "code": 321204,
+      "name": "Przelewice"
+    },
+    {
+      "code": 321205,
+      "name": "Pyrzyce"
+    },
+    {
+      "code": 321206,
+      "name": "Warnice"
+    },
+    {
+      "code": 321301,
+      "name": "Darłowo"
+    },
+    {
+      "code": 321302,
+      "name": "Sławno"
+    },
+    {
+      "code": 321303,
+      "name": "Darłowo"
+    },
+    {
+      "code": 321304,
+      "name": "Malechowo"
+    },
+    {
+      "code": 321305,
+      "name": "Postomino"
+    },
+    {
+      "code": 321306,
+      "name": "Sławno"
+    },
+    {
+      "code": 321401,
+      "name": "Stargard Szczeciński"
+    },
+    {
+      "code": 321402,
+      "name": "Chociwel"
+    },
+    {
+      "code": 321403,
+      "name": "Dobrzany"
+    },
+    {
+      "code": 321404,
+      "name": "Dolice"
+    },
+    {
+      "code": 321405,
+      "name": "Ińsko"
+    },
+    {
+      "code": 321406,
+      "name": "Kobylanka"
+    },
+    {
+      "code": 321408,
+      "name": "Marianowo"
+    },
+    {
+      "code": 321409,
+      "name": "Stara Dąbrowa"
+    },
+    {
+      "code": 321410,
+      "name": "Stargard Szczeciński"
+    },
+    {
+      "code": 321411,
+      "name": "Suchań"
+    },
+    {
+      "code": 321501,
+      "name": "Szczecinek"
+    },
+    {
+      "code": 321502,
+      "name": "Barwice"
+    },
+    {
+      "code": 321503,
+      "name": "Biały Bór"
+    },
+    {
+      "code": 321504,
+      "name": "Borne Sulinowo"
+    },
+    {
+      "code": 321505,
+      "name": "Grzmiąca"
+    },
+    {
+      "code": 321506,
+      "name": "Szczecinek"
+    },
+    {
+      "code": 321601,
+      "name": "Świdwin"
+    },
+    {
+      "code": 321602,
+      "name": "Brzeżno"
+    },
+    {
+      "code": 321603,
+      "name": "Połczyn-Zdrój"
+    },
+    {
+      "code": 321604,
+      "name": "Rąbino"
+    },
+    {
+      "code": 321605,
+      "name": "Sławoborze"
+    },
+    {
+      "code": 321606,
+      "name": "Świdwin"
+    },
+    {
+      "code": 321701,
+      "name": "Wałcz"
+    },
+    {
+      "code": 321702,
+      "name": "Człopa"
+    },
+    {
+      "code": 321703,
+      "name": "Mirosławiec"
+    },
+    {
+      "code": 321704,
+      "name": "Tuczno"
+    },
+    {
+      "code": 321705,
+      "name": "Wałcz"
+    },
+    {
+      "code": 326101,
+      "name": "Koszalin"
+    },
+    {
+      "code": 326201,
+      "name": "Szczecin"
+    },
+    {
+      "code": 326301,
+      "name": "Świnoujście"
+    }
+  ]
+}

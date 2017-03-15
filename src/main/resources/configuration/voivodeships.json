@@ -1,0 +1,68 @@
+{
+  "regions": [
+    {
+      "code": 2,
+      "name": "dolnośląskie"
+    },
+    {
+      "code": 4,
+      "name": "kujawsko-pomorskie"
+    },
+    {
+      "code": 6,
+      "name": "lubelskie"
+    },
+    {
+      "code": 8,
+      "name": "lubuskie"
+    },
+    {
+      "code": 10,
+      "name": "łódzkie"
+    },
+    {
+      "code": 12,
+      "name": "małopolskie"
+    },
+    {
+      "code": 14,
+      "name": "mazowieckie"
+    },
+    {
+      "code": 16,
+      "name": "opolskie"
+    },
+    {
+      "code": 18,
+      "name": "podkarpackie"
+    },
+    {
+      "code": 20,
+      "name": "podlaskie"
+    },
+    {
+      "code": 22,
+      "name": "pomorskie"
+    },
+    {
+      "code": 24,
+      "name": "śląskie"
+    },
+    {
+      "code": 26,
+      "name": "świętokrzyskie"
+    },
+    {
+      "code": 28,
+      "name": "warmińsko-mazurskie"
+    },
+    {
+      "code": 30,
+      "name": "wielkopolskie"
+    },
+    {
+      "code": 32,
+      "name": "zachodniopomorskie"
+    }
+  ]
+}

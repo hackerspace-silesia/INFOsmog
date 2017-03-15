@@ -1,0 +1,53 @@
+{
+  "types": [
+    {
+      "name": "C6H6",
+      "displayName": "C6H6",
+      "acceptable": 5,
+      "informative": 5,
+      "alarm": 18
+    },
+    {
+      "name": "CO",
+      "displayName": "CO",
+      "acceptable": 10000,
+      "informative": 10000,
+      "alarm": 35000
+    },
+    {
+      "name": "NO2",
+      "displayName": "NO2",
+      "acceptable": 200,
+      "informative": 200,
+      "alarm": 700
+    },
+    {
+      "name": "O3",
+      "displayName": "O3",
+      "acceptable": 120,
+      "informative": 120,
+      "alarm": 420
+    },
+    {
+      "name": "PM10",
+      "displayName": "PM10",
+      "acceptable": 50,
+      "informative": 50,
+      "alarm": 175
+    },
+    {
+      "name": "PM2.5",
+      "displayName": "PM2.5",
+      "acceptable": 25,
+      "informative": 25,
+      "alarm": 88
+    },
+    {
+      "name": "SO2",
+      "displayName": "SO2",
+      "acceptable": 125,
+      "informative": 125,
+      "alarm": 438
+    }
+  ]
+}

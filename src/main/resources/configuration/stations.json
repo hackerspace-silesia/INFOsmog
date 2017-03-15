@@ -1,0 +1,809 @@
+{
+  "stations": [
+    {
+      "stationId": 606,
+      "stationName": "Białystok, ul. 42 Pułku Piechoty",
+      "regionCode": -1
+    },
+    {
+      "stationId": 517,
+      "stationName": "Siedlce, ul. Konarskiego 11",
+      "regionCode": -1
+    },
+    {
+      "stationId": 600,
+      "stationName": "Zdzieszowice, ul. Piastów 6",
+      "regionCode": -1
+    },
+    {
+      "stationId": 950,
+      "stationName": "Borówiec, ul. Drapałka 4",
+      "regionCode": -1
+    },
+    {
+      "stationId": 952,
+      "stationName": "Kalisz, ul. Hanki Sawickiej",
+      "regionCode": -1
+    },
+    {
+      "stationId": 800,
+      "stationName": "Częstochowa, ul. Baczyńskiego 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 248,
+      "stationName": "Jarczew, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 659,
+      "stationName": "Nisko, ul. Szklarniowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 497,
+      "stationName": "Płock, ul. Królowej Jadwigi 4",
+      "regionCode": -1
+    },
+    {
+      "stationId": 117,
+      "stationName": "Wrocław, ul. Wyb. J.Conrada-Korzeniowskiego 18",
+      "regionCode": -1
+    },
+    {
+      "stationId": 778,
+      "stationName": "Połaniec, ul. Ruszczańska 23",
+      "regionCode": -1
+    },
+    {
+      "stationId": 741,
+      "stationName": "Malbork, ul. Mickiewicza",
+      "regionCode": -1
+    },
+    {
+      "stationId": 861,
+      "stationName": "Elbląg, ul. Bażyńskiego 6",
+      "regionCode": -1
+    },
+    {
+      "stationId": 319,
+      "stationName": "Parzniewice, Ujęcie wody",
+      "regionCode": -1
+    },
+    {
+      "stationId": 466,
+      "stationName": "Granica, ul. Kampinoski Park Narodowy",
+      "regionCode": -1
+    },
+    {
+      "stationId": 729,
+      "stationName": "Gdańsk, ul. Powstańców Warszawskich",
+      "regionCode": -1
+    },
+    {
+      "stationId": 562,
+      "stationName": "Żyrardów, ul. Roosevelta 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 190,
+      "stationName": "Koniczynka, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 443,
+      "stationName": "Szymbark, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 400,
+      "stationName": "Kraków, al. Krasińskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 769,
+      "stationName": "Nowiny, ul. Parkowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 761,
+      "stationName": "Kielce, ul. Jagiellońska 68",
+      "regionCode": -1
+    },
+    {
+      "stationId": 52,
+      "stationName": "Legnica, al. Rzeczypospolitej 10/12",
+      "regionCode": -1
+    },
+    {
+      "stationId": 837,
+      "stationName": "Sosnowiec, ul. Lubelska 51",
+      "regionCode": -1
+    },
+    {
+      "stationId": 501,
+      "stationName": "Płock, ul. Reja 28",
+      "regionCode": -1
+    },
+    {
+      "stationId": 206,
+      "stationName": "Toruń, ul. Dziewulskiego 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 795,
+      "stationName": "Cieszyn, ul. Mickiewicza 13",
+      "regionCode": -1
+    },
+    {
+      "stationId": 987,
+      "stationName": "Szczecin, ul. Piłsudskiego 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 295,
+      "stationName": "Łódź, ul. Czernika 1/3",
+      "regionCode": -1
+    },
+    {
+      "stationId": 291,
+      "stationName": "Gajew, Ujęcie wody",
+      "regionCode": -1
+    },
+    {
+      "stationId": 515,
+      "stationName": "Radom, ul. Tochtermana 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 665,
+      "stationName": "Przemyśl, ul. Grunwaldzka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 842,
+      "stationName": "Ustroń, ul. Sanatoryjna 7",
+      "regionCode": -1
+    },
+    {
+      "stationId": 568,
+      "stationName": "Kędzierzyn-Koźle, ul. Bolesława Śmiałego 5",
+      "regionCode": -1
+    },
+    {
+      "stationId": 767,
+      "stationName": "Małogoszcz, ul. 11 Listopada",
+      "regionCode": -1
+    },
+    {
+      "stationId": 460,
+      "stationName": "Belsk Duży, Osiedle PAN 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 738,
+      "stationName": "Gdynia, ul. Szafranowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 437,
+      "stationName": "Skawina, os. Ogrody",
+      "regionCode": -1
+    },
+    {
+      "stationId": 296,
+      "stationName": "Łódź, ul. Gdańska 16",
+      "regionCode": -1
+    },
+    {
+      "stationId": 736,
+      "stationName": "Gdańsk, ul. Leczkowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 444,
+      "stationName": "Tarnów, ul. Bitwy pod Studziankami",
+      "regionCode": -1
+    },
+    {
+      "stationId": 834,
+      "stationName": "Rybnik, ul. Borki 37 d",
+      "regionCode": -1
+    },
+    {
+      "stationId": 314,
+      "stationName": "Pabianice, ul. Konstantynowska",
+      "regionCode": -1
+    },
+    {
+      "stationId": 966,
+      "stationName": "Koszalin, ul. Armii Krajowej",
+      "regionCode": -1
+    },
+    {
+      "stationId": 732,
+      "stationName": "Gdynia, ul. Porębskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 856,
+      "stationName": "Żywiec, ul. Kopernika 83 a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9153,
+      "stationName": "Jelenia Góra, ul. Ogińskiego 6",
+      "regionCode": -1
+    },
+    {
+      "stationId": 845,
+      "stationName": "Wodzisław Śląski, ul. Gałczyńskiego 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 531,
+      "stationName": "Warszawa, ul. Podleśna 61",
+      "regionCode": -1
+    },
+    {
+      "stationId": 109,
+      "stationName": "Wałbrzych, ul. Wysockiego 11",
+      "regionCode": -1
+    },
+    {
+      "stationId": 946,
+      "stationName": "Krzyżówka, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 544,
+      "stationName": "Warszawa, ul. Marszałkowska 68",
+      "regionCode": -1
+    },
+    {
+      "stationId": 814,
+      "stationName": "Katowice, ul. Kossutha 6",
+      "regionCode": -1
+    },
+    {
+      "stationId": 331,
+      "stationName": "Radomsko, ul. Rolna 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10434,
+      "stationName": "Konstancin-Jeziorna, Wierzejewskiego 12",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10438,
+      "stationName": "Mielec, ul. Biernackiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 485,
+      "stationName": "Otwock, ul. Brzozowa 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10120,
+      "stationName": "Tarnów, ul. Ks. Romana Sitko",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10005,
+      "stationName": "Ełk, Piłsudskiego 27",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10035,
+      "stationName": "Bolesławiec, Juliusza Słowackiego 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10030,
+      "stationName": "Ostróda, Piłsudskiego 4",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10054,
+      "stationName": "Augustów, ul. Zdrojowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 266,
+      "stationName": "Lublin, ul. Obywatelska 13",
+      "regionCode": -1
+    },
+    {
+      "stationId": 882,
+      "stationName": "Diabla Góra, Diabla Góra",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9913,
+      "stationName": "Guty Duże 4",
+      "regionCode": -1
+    },
+    {
+      "stationId": 848,
+      "stationName": "Zabrze, ul. M. Skłodowskiej-Curie 34",
+      "regionCode": -1
+    },
+    {
+      "stationId": 225,
+      "stationName": "Włocławek, ul. Okrzei",
+      "regionCode": -1
+    },
+    {
+      "stationId": 376,
+      "stationName": "Sulęcin, ul. Dudka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 550,
+      "stationName": "Warszawa, ul. Wokalna 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 379,
+      "stationName": "Wschowa, ul. Kazimierza Wielkiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 471,
+      "stationName": "Legionowo, ul. Zegrzyńska 38",
+      "regionCode": -1
+    },
+    {
+      "stationId": 750,
+      "stationName": "Łeba, Rąbka 1a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 743,
+      "stationName": "Liniewko Kościerskie, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 671,
+      "stationName": "Rzeszów, ul. Rejtana",
+      "regionCode": -1
+    },
+    {
+      "stationId": 733,
+      "stationName": "Gdańsk, ul. Ostrzycka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 853,
+      "stationName": "Złoty Potok, ul. Leśniczówka Kamienna Góra",
+      "regionCode": -1
+    },
+    {
+      "stationId": 730,
+      "stationName": "Gdańsk, ul. Kaczeńce",
+      "regionCode": -1
+    },
+    {
+      "stationId": 355,
+      "stationName": "Zgierz, ul. Mielczarskiego 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 449,
+      "stationName": "Trzebinia, os. Związku Walki Młodych",
+      "regionCode": -1
+    },
+    {
+      "stationId": 361,
+      "stationName": "Gorzów Wielkopolski, ul. Kosynierów Gdyńskich",
+      "regionCode": -1
+    },
+    {
+      "stationId": 282,
+      "stationName": "Wilczopole, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 156,
+      "stationName": "Bydgoszcz, Plac Poznański",
+      "regionCode": -1
+    },
+    {
+      "stationId": 134,
+      "stationName": "Zgorzelec, ul. Bohaterów Getta 1a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 552,
+      "stationName": "Warszawa, ul. Kondratowicza 8",
+      "regionCode": -1
+    },
+    {
+      "stationId": 902,
+      "stationName": "Konin, ul. Wyszyńskiego 3",
+      "regionCode": -1
+    },
+    {
+      "stationId": 74,
+      "stationName": "Osieczów, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 322,
+      "stationName": "Piotrków Trybunalski, ul. Krakowskie Przedmieście 13",
+      "regionCode": -1
+    },
+    {
+      "stationId": 989,
+      "stationName": "Szczecin, ul. Łączna",
+      "regionCode": -1
+    },
+    {
+      "stationId": 129,
+      "stationName": "Wrocław, al. Wiśniowa/ul. Powst. Śląskich",
+      "regionCode": -1
+    },
+    {
+      "stationId": 145,
+      "stationName": "Toruń, ul. Wały Gen. Sikorskiego 12",
+      "regionCode": -1
+    },
+    {
+      "stationId": 731,
+      "stationName": "Gdańsk, ul. Wyzwolenia",
+      "regionCode": -1
+    },
+    {
+      "stationId": 877,
+      "stationName": "Olsztyn, ul. Puszkina 16",
+      "regionCode": -1
+    },
+    {
+      "stationId": 813,
+      "stationName": "Katowice, al. Górnośląska",
+      "regionCode": -1
+    },
+    {
+      "stationId": 402,
+      "stationName": "Kraków, ul. Bulwarowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 920,
+      "stationName": "Piła, ul. Kusocińskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 809,
+      "stationName": "Gliwice, ul. Mewy 34",
+      "regionCode": -1
+    },
+    {
+      "stationId": 798,
+      "stationName": "Częstochowa, ul. Armii Krajowej 2",
+      "regionCode": -1
+    },
+    {
+      "stationId": 114,
+      "stationName": "Wrocław, ul. Bartnicza",
+      "regionCode": -1
+    },
+    {
+      "stationId": 132,
+      "stationName": "Ząbkowice Śląskie, ul. Powstańców Warszawy 5",
+      "regionCode": -1
+    },
+    {
+      "stationId": 943,
+      "stationName": "Poznań, ul. Polanka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 488,
+      "stationName": "Piastów, ul. Pułaskiego 6/8",
+      "regionCode": -1
+    },
+    {
+      "stationId": 382,
+      "stationName": "Żary, ul. Szymanowskiego 8",
+      "regionCode": -1
+    },
+    {
+      "stationId": 374,
+      "stationName": "Smolary Bytnickie, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 739,
+      "stationName": "Gdynia, ul. Wendy",
+      "regionCode": -1
+    },
+    {
+      "stationId": 986,
+      "stationName": "Szczecin, ul. Andrzejewskiego 23",
+      "regionCode": -1
+    },
+    {
+      "stationId": 530,
+      "stationName": "Warszawa, al. Niepodległości 227/233",
+      "regionCode": -1
+    },
+    {
+      "stationId": 387,
+      "stationName": "Zielona Góra, ul. Krótka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 285,
+      "stationName": "Zamość, ul. Hrubieszowska 69A",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9000,
+      "stationName": "Czerwionka-Leszczyny, ul. Kopalniana",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10123,
+      "stationName": "Kraków, Złoty Róg",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10254,
+      "stationName": "Nowy Targ, Plac Słowackiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10455,
+      "stationName": "Solec Zdrój, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10119,
+      "stationName": "Kaszów, Bory",
+      "regionCode": -1
+    },
+    {
+      "stationId": 734,
+      "stationName": "Sopot, ul. Bitwy pod Płowcami",
+      "regionCode": -1
+    },
+    {
+      "stationId": 236,
+      "stationName": "Biała Podlaska, ul. Orzechowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 142,
+      "stationName": "Grudziądz, ul. Piłsudskiego 51",
+      "regionCode": -1
+    },
+    {
+      "stationId": 584,
+      "stationName": "Olesno, ul. Słowackiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 944,
+      "stationName": "Poznań, ul. Dąbrowskiego 169",
+      "regionCode": -1
+    },
+    {
+      "stationId": 70,
+      "stationName": "Oława, ul. Żołnierzy AK 9",
+      "regionCode": -1
+    },
+    {
+      "stationId": 38,
+      "stationName": "Kłodzko, ul. Szkolna 8",
+      "regionCode": -1
+    },
+    {
+      "stationId": 609,
+      "stationName": "Białystok, ul. Warszawska 75 A",
+      "regionCode": -1
+    },
+    {
+      "stationId": 240,
+      "stationName": "Biały Słup, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 638,
+      "stationName": "Jasło, ul. Sikorskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 426,
+      "stationName": "Nowy Sącz, ul. Nadbrzeżna",
+      "regionCode": -1
+    },
+    {
+      "stationId": 805,
+      "stationName": "Dąbrowa Górnicza, ul. 1000-lecia 25 a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 742,
+      "stationName": "Lębork, ul. Malczewskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9175,
+      "stationName": "Krempna, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 983,
+      "stationName": "Szczecinek, ul. Przemysłowa 5",
+      "regionCode": -1
+    },
+    {
+      "stationId": 725,
+      "stationName": "Słupsk, ul. Kniaziewicza 30",
+      "regionCode": -1
+    },
+    {
+      "stationId": 401,
+      "stationName": "Kraków, ul. Bujaka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 870,
+      "stationName": "Gołdap, ul. Jaćwieska 15",
+      "regionCode": -1
+    },
+    {
+      "stationId": 14,
+      "stationName": "Działoszyn, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 208,
+      "stationName": "Toruń, ul. Przy Kaszowniku",
+      "regionCode": -1
+    },
+    {
+      "stationId": 158,
+      "stationName": "Bydgoszcz, ul. Warszawska 10",
+      "regionCode": -1
+    },
+    {
+      "stationId": 232,
+      "stationName": "Zielonka, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10139,
+      "stationName": "Kraków, os. Piastów",
+      "regionCode": -1
+    },
+    {
+      "stationId": 590,
+      "stationName": "Opole, os. Armii Krajowej",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9593,
+      "stationName": "Puławy, ul. Karpińskiego 5",
+      "regionCode": -1
+    },
+    {
+      "stationId": 605,
+      "stationName": "Białystok, ul. Waszyngtona 16",
+      "regionCode": -1
+    },
+    {
+      "stationId": 961,
+      "stationName": "Widuchowa, ul. Bulwary Rybackie 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 459,
+      "stationName": "Zakopane, ul. Sienkiewicza",
+      "regionCode": -1
+    },
+    {
+      "stationId": 740,
+      "stationName": "Kościerzyna, ul. Targowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 16,
+      "stationName": "Dzierżoniów, ul. Piłsudskiego 26",
+      "regionCode": -1
+    },
+    {
+      "stationId": 146,
+      "stationName": "Wiktorowo, Wiktorowo 22",
+      "regionCode": -1
+    },
+    {
+      "stationId": 612,
+      "stationName": "Borsukowizna, ",
+      "regionCode": -1
+    },
+    {
+      "stationId": 789,
+      "stationName": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9233,
+      "stationName": "Łódź, ul. Kilińskiego 102/102a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10121,
+      "stationName": "Kraków, ul. Dietla",
+      "regionCode": -1
+    },
+    {
+      "stationId": 143,
+      "stationName": "Inowrocław, ul. Solankowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 429,
+      "stationName": "Olkusz, ul. Francesco Nullo",
+      "regionCode": -1
+    },
+    {
+      "stationId": 841,
+      "stationName": "Tychy, ul. Tołstoja 1",
+      "regionCode": -1
+    },
+    {
+      "stationId": 164,
+      "stationName": "Ciechocinek, ul. Tężniowa - Park Zdrojowy",
+      "regionCode": -1
+    },
+    {
+      "stationId": 11,
+      "stationName": "Czerniawa, ul. Strażacka 7",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10414,
+      "stationName": "Parkowa",
+      "regionCode": -1
+    },
+    {
+      "stationId": 67,
+      "stationName": "Nowa Ruda, ul. Srebrna 1a",
+      "regionCode": -1
+    },
+    {
+      "stationId": 9179,
+      "stationName": "Szarów, ul. Spokojna",
+      "regionCode": -1
+    },
+    {
+      "stationId": 84,
+      "stationName": "Karpacz, Śnieżka",
+      "regionCode": -1
+    },
+    {
+      "stationId": 622,
+      "stationName": "Suwałki, ul. Pułaskiego",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10447,
+      "stationName": "Kraków, Wadów",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10435,
+      "stationName": "Kraków, ul. Telimeny 9",
+      "regionCode": -1
+    },
+    {
+      "stationId": 10374,
+      "stationName": "Opole, ul. Koszyka",
+      "regionCode": -1
+    }
+  ]
+}
