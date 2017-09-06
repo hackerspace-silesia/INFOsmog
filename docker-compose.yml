@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+    db:
+        image: postgres:9.6.3
+        environment:
+            POSTGRES_DB: infosmog
+            POSTGRES_USER: infosmog
+            POSTGRES_PASSWORD: infosmog
+        ports:
+          - "5432:5432"
