@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.name;
 
 public enum DefaultName {
+
     UNDEFINED_NAME("UNDEFINED");
     
     private String name;

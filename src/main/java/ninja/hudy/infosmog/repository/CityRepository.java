@@ -9,6 +9,7 @@ import java.util.Set;
 
 @Repository
 public interface CityRepository extends JpaRepository<CityRegion, Long> {
+
     Set<CityRegion> findByName(String name);
 
     Optional<CityRegion> findByCode(Integer code);

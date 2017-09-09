@@ -23,7 +23,9 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 @Controller
-public class GIOSReader extends HttpReader {
+public class
+GIOSReader extends HttpReader {
+
     private static Logger log = Logger.getLogger(GIOSReader.class);
     private static final String API_URL = "http://powietrze.gios.gov.pl/pjp/current";
     private static final ObjectMapper MAPPER = new ObjectMapper();
@@ -70,7 +72,7 @@ public class GIOSReader extends HttpReader {
         stations.entrySet().stream().parallel().forEach(entry -> {
             Integer id = entry.getKey();
             try {
-                String response = sendGet(API_URL + "/get_data_chart?days="+DAYS.toString()+"&stationId="+id.toString());
+                String response = sendGet(API_URL + "/get_data_chart?days=" + DAYS.toString() + "&stationId=" + id.toString());
                 JsonNode rootNode = MAPPER.readValue(response, JsonNode.class);
                 JsonNode chartElements = rootNode.get("chartElements");
                 Map<String, Map<Long, Double>> measurement = new HashMap<>();

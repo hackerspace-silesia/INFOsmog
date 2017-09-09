@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.model;
 
 public enum RegionType {
+
     VOIVODESHIP(Values.VOIVODESHIP),
     COUNTY(Values.COUNTY),
     CITY(Values.CITY);

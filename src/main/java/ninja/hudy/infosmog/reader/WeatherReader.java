@@ -20,6 +20,7 @@ import java.util.stream.Collectors;
 
 @Controller
 public class WeatherReader extends HttpReader {
+
     private static Logger log = Logger.getLogger(WeatherReader.class);
     private static final String API_ID = "df462144dd7e45196f69dfc28667bd00";
     private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather";

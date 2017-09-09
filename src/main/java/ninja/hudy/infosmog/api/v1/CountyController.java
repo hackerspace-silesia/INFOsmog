@@ -25,6 +25,7 @@ import java.util.stream.Collectors;
 @RestController
 @RequestMapping("/api/v1/county")
 public class CountyController {
+
     private static final String ZONE_ID = "Europe/Warsaw";
     private static final Collator POLISH_COLLATOR = Collator.getInstance(new Locale("pl"));
 

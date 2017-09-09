@@ -9,6 +9,7 @@ import java.util.Set;
 
 @Repository
 public interface MeasurementRepository extends JpaRepository<Measurement, Long> {
+
     Optional<Measurement> findByStationIdAndTimestampAndTypeId(Long id, Long timestamp, Long typeId);
 
     Set<Measurement> findByStationIdAndTimestampAfter(Long id, Long timestamp);

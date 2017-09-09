@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.type;
 
 public enum StationType {
+
     GIOS("GIOS");
 
     private String type;

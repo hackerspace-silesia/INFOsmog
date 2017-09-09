@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.exception;
 
 public class HttpCommunicationException extends Exception {
+
     public HttpCommunicationException() {
         super();
     }

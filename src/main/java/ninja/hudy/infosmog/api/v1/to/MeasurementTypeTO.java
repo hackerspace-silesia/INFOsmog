@@ -3,6 +3,7 @@ package ninja.hudy.infosmog.api.v1.to;
 import java.util.List;
 
 public class MeasurementTypeTO {
+
     private Long id;
     private String name;
     private String displayName;

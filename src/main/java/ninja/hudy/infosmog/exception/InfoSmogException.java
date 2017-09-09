@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.exception;
 
 public class InfoSmogException extends Exception {
+
     public InfoSmogException() {
         super();
     }

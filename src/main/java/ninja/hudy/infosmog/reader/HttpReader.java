@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
 import javax.validation.constraints.NotNull;
 
 public abstract class HttpReader extends Reader {
+
     @Autowired
     private RestTemplate restTemplate;
 

@@ -8,6 +8,7 @@ import java.util.Set;
 
 @Entity
 public class Email {
+
     @Id
     @GeneratedValue(generator = "uuid")
     @GenericGenerator(name = "uuid", strategy = "uuid2")

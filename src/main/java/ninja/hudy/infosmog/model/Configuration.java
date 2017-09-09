@@ -6,8 +6,9 @@ import javax.persistence.Id;
 
 @Entity
 public class Configuration {
-    @Column(nullable = false)
+
     @Id
+    @Column(nullable = false)
     private Integer version;
 
     private String description;

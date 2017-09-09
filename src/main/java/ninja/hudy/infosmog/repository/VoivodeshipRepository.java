@@ -9,6 +9,7 @@ import java.util.Set;
 
 @Repository
 public interface VoivodeshipRepository extends JpaRepository<VoivodeshipRegion, Long> {
+
     Set<VoivodeshipRegion> findByName(String name);
 
     Optional<VoivodeshipRegion> findByCode(Integer code);

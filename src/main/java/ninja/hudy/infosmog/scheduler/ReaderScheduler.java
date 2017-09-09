@@ -12,6 +12,7 @@ import java.util.Map;
 
 @Controller
 public class ReaderScheduler {
+
     private static Logger log = Logger.getLogger(ReaderScheduler.class);
     private final ListableBeanFactory listableBeanFactory;
 

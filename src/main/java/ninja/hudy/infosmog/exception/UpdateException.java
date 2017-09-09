@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.exception;
 
 public class UpdateException extends Exception {
+
     public UpdateException() {
         super();
     }

@@ -3,8 +3,8 @@ package ninja.hudy.infosmog.api.v1.to;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 public class MeasurementTO {
-    private Integer hour;
 
+    private Integer hour;
     private Double value;
 
     @JsonIgnore

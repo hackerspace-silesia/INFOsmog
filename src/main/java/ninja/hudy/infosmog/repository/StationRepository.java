@@ -10,6 +10,7 @@ import java.util.Optional;
 
 @Repository
 public interface StationRepository extends JpaRepository<Station, Long> {
+
     List<Station> findByType(StationType type);
     Optional<Station> findByTypeAndProviderCode(StationType type, String providerCode);
 }

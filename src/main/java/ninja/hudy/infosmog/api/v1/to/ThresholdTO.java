@@ -1,6 +1,7 @@
 package ninja.hudy.infosmog.api.v1.to;
 
 public class ThresholdTO {
+
     private Integer acceptable;
     private Integer informative;
     private Integer alarm;

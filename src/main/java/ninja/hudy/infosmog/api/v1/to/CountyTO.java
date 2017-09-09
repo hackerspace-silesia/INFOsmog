@@ -3,6 +3,7 @@ package ninja.hudy.infosmog.api.v1.to;
 import java.util.List;
 
 public class CountyTO {
+
     private String name;
     private String now;
     private List<MeasurementTypeTO> measurementTypes;
